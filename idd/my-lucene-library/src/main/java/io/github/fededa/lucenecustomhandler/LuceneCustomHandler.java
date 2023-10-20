@@ -34,9 +34,8 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
 
     private final InputHandlerInterface ih;
 
-    public LuceneCustomHandler(){
-        ServiceLoader<InputHandlerInterface> serviceLoader = ServiceLoader.load(InputHandlerInterface.class);
-        this.ih = serviceLoader.iterator().next();
+    public LuceneCustomHandler(InputHandlerInterface _ih){
+        ih=_ih;
     }
     @Override
     public void printHelloWorldtTest() {
@@ -44,19 +43,19 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
     }
 
     @Override
-    public TopDocs runHw_2() throws Exception{
+    public TopDocs runHw_2(QueryParser parser, List<Document> docsList) throws Exception{
         Path path = Paths.get("target/idx0");
         // Lucene's index is stored here
         try (Directory directory = FSDirectory.open(path)) {
 
             // Opening the file-system directory for the Lucene index.
-            indexDocs(directory, new SimpleTextCodec());
+            indexDocs(directory, new SimpleTextCodec(), docsList);
 
             // Opens a reader for the Lucene index; this is read-only and prevents modifications.
             try (IndexReader reader = DirectoryReader.open(directory)) {
-                String userInput = ih.readUserInput("What are you looking for today?");
+                String userInput = ih.readUserInput("What are you looking for today?\n");
                 if(userInput.isEmpty()) throw new EmptyUserInputException();
-                QueryParser parser = new QueryParser("titolo", new WhitespaceAnalyzer());
+                //QueryParser parser = new QueryParser("titolo", new WhitespaceAnalyzer());
                 // Builds query
                 Query query = parser.parse(userInput);
                 // Allows searching within Lucene's index
@@ -78,7 +77,7 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
      * @param directory The directory where the Lucene index is stored.
      * @param codec Optional custom codec for the index; can be null to use Lucene's default codec.
      */
-    private void indexDocs(Directory directory, Codec codec) throws IOException {
+    private void indexDocs(Directory directory, Codec codec, List<Document> docs) throws IOException {
         // Initializes the default analyzer which breaks text into tokens and can apply additional processes like filtering.
         Analyzer defaultAnalyzer = new StandardAnalyzer();
 
@@ -105,6 +104,7 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         writer.deleteAll();
 
         // Create a new Lucene document to be indexed.
+        /*
         Document doc1 = new Document();
         doc1.add(new TextField("titolo", "Come diventare un ingegnere dei dati, Data Engineer?", Field.Store.YES));
         doc1.add(new TextField("contenuto", "Sembra che oggigiorno tutti vogliano diventare un Data Scientist  ...", Field.Store.YES));
@@ -112,11 +112,16 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
 
         Document doc2 = new Document();
         doc2.add(new TextField("titolo", "Curriculum Ingegneria dei Dati - Sezione di Informatica e Automazione", Field.Store.YES));
-        doc2.add(new TextField("contenuto", "Curriculum. Ingegneria dei Dati. Laurea Magistrale in Ingegneria Informatica ...", Field.Store.YES));
+        doc2.add(new TextField("contenuto", "Curriculum. Ingegneria dei Dati. Laurea Magistrale in Ingegneria Informatica ...", Field.Store.YES)); */
 
         // Adds documents to the index; these additions are in-memory and not yet persisted.
-        writer.addDocument(doc1);
-        writer.addDocument(doc2);
+        for (Document d: docs) {
+            writer.addDocument(d);
+        }
+
+        // Adds documents to the index; these additions are in-memory and not yet persisted.
+        //writer.addDocument(doc1);
+        //writer.addDocument(doc2);
 
         // Documents become persistent
         writer.commit();
