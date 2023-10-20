@@ -1,5 +1,7 @@
 package io.github.fededa.lucenecustomhandler;
 
+import org.apache.lucene.search.TopDocs;
+
 /**
  * Interface that defines interactions with Lucene
  *
@@ -10,9 +12,11 @@ package io.github.fededa.lucenecustomhandler;
 
 public interface LuceneCustomHandlerInterface {
 
+    void printHelloWorldtTest();
+
     /**
      *  Runs 2nd Homework's assignments
      */
 
-    void runHw_2();
+    TopDocs runHw_2() throws Exception;
 }
