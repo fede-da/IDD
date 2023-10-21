@@ -103,25 +103,9 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         IndexWriter writer = new IndexWriter(directory, config);
         writer.deleteAll();
 
-        // Create a new Lucene document to be indexed.
-        /*
-        Document doc1 = new Document();
-        doc1.add(new TextField("titolo", "Come diventare un ingegnere dei dati, Data Engineer?", Field.Store.YES));
-        doc1.add(new TextField("contenuto", "Sembra che oggigiorno tutti vogliano diventare un Data Scientist  ...", Field.Store.YES));
-        doc1.add(new StringField("data", "12 ottobre 2016", Field.Store.YES));
-
-        Document doc2 = new Document();
-        doc2.add(new TextField("titolo", "Curriculum Ingegneria dei Dati - Sezione di Informatica e Automazione", Field.Store.YES));
-        doc2.add(new TextField("contenuto", "Curriculum. Ingegneria dei Dati. Laurea Magistrale in Ingegneria Informatica ...", Field.Store.YES)); */
-
-        // Adds documents to the index; these additions are in-memory and not yet persisted.
         for (Document d: docs) {
             writer.addDocument(d);
         }
-
-        // Adds documents to the index; these additions are in-memory and not yet persisted.
-        //writer.addDocument(doc1);
-        //writer.addDocument(doc2);
 
         // Documents become persistent
         writer.commit();
