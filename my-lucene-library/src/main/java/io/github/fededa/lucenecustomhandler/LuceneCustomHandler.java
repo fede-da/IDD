@@ -37,10 +37,6 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
     public LuceneCustomHandler(InputHandlerInterface _ih){
         ih=_ih;
     }
-    @Override
-    public void printHelloWorldtTest() {
-        System.out.println("Hello World from Lucene Custom Library");
-    }
 
     @Override
     public TopDocs runHw_2(QueryParser parser, List<Document> docsList) throws Exception{

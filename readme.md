@@ -1,11 +1,12 @@
 # Summary 
 
-This is my own **IDD**'s project repository, it's a Maven project that contains sub-Maven projects.
+**IDD**'s project repository, it's a Maven project that contains sub-Maven projects relative to homeworks.
 
-Each subproject is relative to a specific homework. Homework's folders run methods defined in the custom library "my-lucene-library" that needs to be locally installed using Maven before proceeding. 
+## Homework 2
 
-## Prerequisites
+Source code: [here](./my-lucene-library/src/main/java/io/github/fededa/lucenecustomhandler/LuceneCustomHandler.java).
 
-Run the _maven-build_ script to build the project and ensure no errors are present. 
+Tests: [here](./hw-2/src/test/java/com/idd/app/Hw2Test.java).
+
 
 

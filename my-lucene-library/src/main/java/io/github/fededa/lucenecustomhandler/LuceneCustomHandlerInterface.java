@@ -16,11 +16,8 @@ import java.util.List;
 
 public interface LuceneCustomHandlerInterface {
 
-    void printHelloWorldtTest();
-
     /**
      *  Runs 2nd Homework's assignments
      */
-
     TopDocs runHw_2(QueryParser parser, List<Document> documentsList) throws Exception;
 }
