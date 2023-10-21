@@ -1,6 +1,6 @@
 # Summary 
 
-**IDD**'s project repository, it's a Maven project that contains sub-Maven projects relative to homeworks.
+**IDD**'s project repository, it's a Maven project that contains modules relative to homeworks.
 
 ## Homework 2
 
