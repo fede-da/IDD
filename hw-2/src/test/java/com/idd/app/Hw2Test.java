@@ -137,6 +137,27 @@ public class Hw2Test {
         Assertions.assertTrue(len==0);
     }
 
+    @Test
+    public void retrieveLocalFileByMisspelledTitoloReturnsNoResult() throws Exception {
+        when(mockInputHandler.readUserInput(anyString())).thenReturn("evolution");
+        perFieldAnalyzers.put("titolo", new StandardAnalyzer(stopWords));
+        Analyzer analyzer = new PerFieldAnalyzerWrapper(new StandardAnalyzer(), perFieldAnalyzers);
+        QueryParser qp = new QueryParser("titolo", new WhitespaceAnalyzer());
+        int len = lch.runHw_2(qp, docsList).scoreDocs.length;
+        Assertions.assertTrue(len==0);
+    }
+
+    @Test
+    public void retrievalTimeForOneLocalFileByTitolo() throws Exception {
+            when(mockInputHandler.readUserInput(anyString())).thenReturn("Evolution");
+            perFieldAnalyzers.put("titolo", new StandardAnalyzer(stopWords));
+            Analyzer analyzer = new PerFieldAnalyzerWrapper(new StandardAnalyzer(), perFieldAnalyzers);
+            QueryParser qp = new QueryParser("titolo", new WhitespaceAnalyzer());
+            int len = lch.runHw_2(qp, docsList).scoreDocs.length;
+            Assertions.assertTrue(len>0);
+    }
+
+
 }
 
 

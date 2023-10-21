@@ -25,6 +25,9 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -40,13 +43,12 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
 
     @Override
     public TopDocs runHw_2(QueryParser parser, List<Document> docsList) throws Exception{
-        Path path = Paths.get("target/idx0");
+        Path luceneIndexPath = Paths.get("target/idx0");
         // Lucene's index is stored here
-        try (Directory directory = FSDirectory.open(path)) {
+        try (Directory directory = FSDirectory.open(luceneIndexPath)) {
 
             // Opening the file-system directory for the Lucene index.
-            indexDocs(directory, new SimpleTextCodec(), docsList);
-
+            indexExistingFiles(indexDocs(directory, new SimpleTextCodec(), docsList));
             // Opens a reader for the Lucene index; this is read-only and prevents modifications.
             try (IndexReader reader = DirectoryReader.open(directory)) {
                 String userInput = ih.readUserInput("What are you looking for today?\n");
@@ -56,7 +58,9 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
                 Query query = parser.parse(userInput);
                 // Allows searching within Lucene's index
                 IndexSearcher searcher = new IndexSearcher(reader);
+                long startTime = System.currentTimeMillis();
                 TopDocs results = searcher.search(query,10);
+                System.out.println("Search time: " + (System.currentTimeMillis() - startTime) + "ms");
                 for (ScoreDoc scoreDoc : results.scoreDocs) {
                     Document doc = searcher.doc(scoreDoc.doc);
                     System.out.println("doc"+scoreDoc.doc + ":"+ doc.get("titolo") + " (" + scoreDoc.score +")");
@@ -73,7 +77,7 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
      * @param directory The directory where the Lucene index is stored.
      * @param codec Optional custom codec for the index; can be null to use Lucene's default codec.
      */
-    private void indexDocs(Directory directory, Codec codec, List<Document> docs) throws IOException {
+    private IndexWriter indexDocs(Directory directory, Codec codec, List<Document> docs) throws IOException {
         // Initializes the default analyzer which breaks text into tokens and can apply additional processes like filtering.
         Analyzer defaultAnalyzer = new StandardAnalyzer();
 
@@ -106,7 +110,87 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         // Documents become persistent
         writer.commit();
 
-        // Closes the IndexWriter to free up resources.
+        return writer;
+    }
+
+    private void indexExistingFiles(IndexWriter writer) throws IOException {
+        try {
+            Path parentWorkingDir = Paths.get(System.getProperty("user.dir")).getParent();
+            System.out.println("current working dir: " + parentWorkingDir.toString());
+            String resourcePath = "IDD/hw-2/src/main/resources/documents";
+            Path fullPath = parentWorkingDir.resolve("IDD/hw-2/src/main/resources/documents");
+            if(parentWorkingDir.toString().contains("IDD")){
+                fullPath = parentWorkingDir.resolve("hw-2/src/main/resources/documents");
+            }
+
+            System.out.println("full path: " + fullPath.toString());
+            //Path fullPath = Paths.get("hw-2/src/main/resources/documents");
+            File[] files = getFilesFromPath(fullPath);
+            if (files != null) {
+                for (File file : files) {
+                    indexFile(writer, file);
+                }
+            } else {
+                System.out.println("Directory not found or not accessible: " + fullPath);
+            }
+        } catch (Exception e) {
+            System.out.println("Error accessing resource folder: " + e.toString());
+            e.printStackTrace();
+        } finally {
+            commitAndCloseWriter(writer);
+        }
+    }
+
+    private File[] getFilesFromPath(Path path) {
+        File dir = new File(path.toUri());
+        return dir.listFiles();
+    }
+
+    private void indexFile(IndexWriter writer, File file) throws IOException {
+        Document document = new Document();
+        document.add(new TextField("titolo", file.getName(), Field.Store.YES));
+
+        String fileContent = readFileContent(file);
+        if (fileContent != null) {
+            document.add(new TextField("contenuto", fileContent, Field.Store.YES));
+        }
+
+        writer.addDocument(document);
+    }
+
+    private String readFileContent(File file) {
+        StringBuilder content = new StringBuilder();
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                content.append(line).append(System.lineSeparator());
+            }
+        } catch (IOException e) {
+            System.out.println("Error reading file content: " + file.getName() + ". Exception: " + e.toString());
+            return null;
+        }
+
+        return content.toString();
+    }
+
+    private void commitAndCloseWriter(IndexWriter writer) throws IOException {
+        writer.commit();
         writer.close();
     }
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
