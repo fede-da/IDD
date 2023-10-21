@@ -7,6 +7,3 @@
 Source code: [here](./my-lucene-library/src/main/java/io/github/fededa/lucenecustomhandler/LuceneCustomHandler.java).
 
 Tests: [here](./hw-2/src/test/java/com/idd/app/Hw2Test.java).
-
-
-
