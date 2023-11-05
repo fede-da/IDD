@@ -14,6 +14,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        new LuceneCustomHandler( new InputHandler()).runHw_3("setExample.json");
+       System.out.println( new LuceneCustomHandler( new InputHandler()).runHw_3("setExample.json",5).toString());
     }
 }

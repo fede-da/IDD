@@ -33,6 +33,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.text.ParseException;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
 
@@ -115,11 +116,11 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
     }
 
     @Override
-    public HashMap<Integer, Integer> runHw_3(String jsonTablesPath)  {
+    public List<String> runHw_3(String jsonTablesPath, int k)  {
         // This map contains all the available sets and their occurrences
-        HashMap<Integer, Integer> set2count = new HashMap<>();
+        HashMap<String, Integer> set2count = new HashMap<>();
         // This is the inverted index
-        Map<String, Collection<Integer>> invertedIndex = new HashMap<>();
+        Map<String, Collection<String>> invertedIndex = new HashMap<>();
         // Reads user input
         String userInput = ih.readUserInput("What are you looking for today?");
         // Get tokenised user input
@@ -127,8 +128,8 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         // Read file
         JsonNode jsonNode = ih.readJsonFile(jsonTablesPath);
         // Extract id, tokens from jsonTables
-        String id = jsonNode.path("id").asText();
-        System.out.println("ID: " + id);
+        String oid = jsonNode.path("_id").path("$oid").asText();
+        System.out.println("OID: " + oid);
         JsonNode cells = jsonNode.path("cells");
 
         // add tokens to inverted index as key, and add ids as value
@@ -136,11 +137,12 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
             for (JsonNode cell : cells) {
                 String cleanedText = cell.path("cleanedText").asText();
                 if(invertedIndex.get(cleanedText)==null || invertedIndex.get(cleanedText).isEmpty()){
-                    invertedIndex.put(cleanedText,new ArrayList<Integer>() {{
-                        add(Integer.getInteger(id));}});
+                    invertedIndex.put(cleanedText,new ArrayList<String>() {{
+                        add(oid);}});
+                    set2count.put(oid,0);
                 } else{
-                    if(!invertedIndex.get(cleanedText).contains(id)){
-                        invertedIndex.get(cleanedText).add(Integer.getInteger(id));
+                    if(!invertedIndex.get(cleanedText).contains(oid)){
+                        invertedIndex.get(cleanedText).add(oid);
                     }
                 }
             }
@@ -148,13 +150,28 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         // Print all
         //invertedIndex.toString();
         //invertedIndex.entrySet().toString();
-        // for each query token check if it exists in invertedindex
-        // read entire posting list and add 1 to counts
-        // sort set2count
-        //return k sets with highest counts
-
-
-        return null;
+        // for each query token check if it exists in inverted index
+        for (String token : tokenisedUserInput) {
+            if (invertedIndex.containsKey(token)) {
+                // read entire posting list and add 1 to counts
+                for (String _oid : invertedIndex.get(token)) {
+                    set2count.put(_oid, set2count.getOrDefault(_oid, 0) + 1);
+                }
+            }
+        }
+        System.out.println("set 2 count:");
+        for (String s:invertedIndex.keySet()){
+            System.out.println("  --Key: " + s + "    value:" + invertedIndex.get(s).toString());
+        }
+        // sort set2count by values
+        List<Map.Entry<String, Integer>> list = new ArrayList<>(set2count.entrySet());
+        list.sort((o1, o2) -> o2.getValue().compareTo(o1.getValue()));
+        // Take k elements
+        List<String> topK = list.stream()
+                .limit(k)
+                .map(Map.Entry::getKey)
+                .collect(Collectors.toList());
+        return topK;
     }
 
     private void indexExistingFiles(IndexWriter writer) throws IOException {

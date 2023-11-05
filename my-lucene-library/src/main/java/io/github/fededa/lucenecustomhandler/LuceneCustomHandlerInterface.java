@@ -21,6 +21,6 @@ public interface LuceneCustomHandlerInterface {
      *  Runs 2nd Homework's assignments
      */
     TopDocs runHw_2(QueryParser parser, List<Document> documentsList) throws Exception;
-    HashMap<Integer, Integer> runHw_3(String jsonTablesPath);
+    List<String> runHw_3(String jsonTablesPath, int k);
 
 }
