@@ -1,12 +1,15 @@
 package io.github.fededa.lucenecustomhandler;
 
+import com.fasterxml.jackson.databind.JsonNode;
 import io.github.fededa.exceptions.EmptyUserInputException;
 import io.github.fededa.inputhandler.InputHandlerInterface;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.CharArraySet;
+import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.analysis.miscellaneous.PerFieldAnalyzerWrapper;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.apache.lucene.codecs.Codec;
 import org.apache.lucene.codecs.simpletext.SimpleTextCodec;
 import org.apache.lucene.document.Document;
@@ -25,12 +28,10 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.text.ParseException;
 import java.util.*;
 
 public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
@@ -113,6 +114,49 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         return writer;
     }
 
+    @Override
+    public HashMap<Integer, Integer> runHw_3(String jsonTablesPath)  {
+        // This map contains all the available sets and their occurrences
+        HashMap<Integer, Integer> set2count = new HashMap<>();
+        // This is the inverted index
+        Map<String, Collection<Integer>> invertedIndex = new HashMap<>();
+        // Reads user input
+        String userInput = ih.readUserInput("What are you looking for today?");
+        // Get tokenised user input
+        List<String> tokenisedUserInput = tokeniseUserInput(new StandardAnalyzer(),userInput);
+        // Read file
+        JsonNode jsonNode = ih.readJsonFile(jsonTablesPath);
+        // Extract id, tokens from jsonTables
+        String id = jsonNode.path("id").asText();
+        System.out.println("ID: " + id);
+        JsonNode cells = jsonNode.path("cells");
+
+        // add tokens to inverted index as key, and add ids as value
+        if (cells.isArray()) {
+            for (JsonNode cell : cells) {
+                String cleanedText = cell.path("cleanedText").asText();
+                if(invertedIndex.get(cleanedText)==null || invertedIndex.get(cleanedText).isEmpty()){
+                    invertedIndex.put(cleanedText,new ArrayList<Integer>() {{
+                        add(Integer.getInteger(id));}});
+                } else{
+                    if(!invertedIndex.get(cleanedText).contains(id)){
+                        invertedIndex.get(cleanedText).add(Integer.getInteger(id));
+                    }
+                }
+            }
+        }
+        // Print all
+        //invertedIndex.toString();
+        //invertedIndex.entrySet().toString();
+        // for each query token check if it exists in invertedindex
+        // read entire posting list and add 1 to counts
+        // sort set2count
+        //return k sets with highest counts
+
+
+        return null;
+    }
+
     private void indexExistingFiles(IndexWriter writer) throws IOException {
         try {
             Path parentWorkingDir = Paths.get(System.getProperty("user.dir")).getParent();
@@ -179,6 +223,20 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         writer.close();
     }
 
+    private List<String> tokeniseUserInput(Analyzer analyzer, String userInput){
+        List<String> tokenisedUserInput = new ArrayList<>();
+        try {
+            TokenStream stream  = analyzer.tokenStream(null, new StringReader(userInput));
+            stream.reset();
+            while (stream.incrementToken()) {
+                tokenisedUserInput.add(stream.getAttribute(CharTermAttribute.class).toString());
+            }
+        } catch (IOException e) {
+            // not thrown b/c we're using a string reader...
+            throw new RuntimeException(e);
+        }
+        return tokenisedUserInput;
+    }
 
 }
 
