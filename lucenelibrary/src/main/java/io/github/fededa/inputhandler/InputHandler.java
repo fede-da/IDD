@@ -36,9 +36,7 @@ public class InputHandler implements InputHandlerInterface {
             rootNode = mapper.readTree(new File(filePath.toURI()));
             // Print the map to see the content
             System.out.println(rootNode);
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (URISyntaxException e) {
+        } catch (IOException | URISyntaxException e) {
             e.printStackTrace();
         }
         return rootNode;
