@@ -5,5 +5,6 @@ import com.fasterxml.jackson.databind.JsonNode;
 public interface InputHandlerInterface {
     String readUserInput(String messageToDisplay);
 
-    JsonNode readJsonFile(String pathToJsonFile);
+    JsonNode readSingleJsonFileFromResourceFolder(String pathToJsonFile);
+
 }
