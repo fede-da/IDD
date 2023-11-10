@@ -1,8 +1,8 @@
 package io.github.fededa.lucenecustomhandler;
 
-import com.fasterxml.jackson.databind.JsonNode;
 import io.github.fededa.exceptions.EmptyUserInputException;
 import io.github.fededa.inputhandler.InputHandlerInterface;
+import io.github.fededa.utils.Utils;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.TokenStream;
@@ -14,7 +14,6 @@ import org.apache.lucene.codecs.Codec;
 import org.apache.lucene.codecs.simpletext.SimpleTextCodec;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -31,7 +30,6 @@ import org.apache.lucene.store.FSDirectory;
 import java.io.*;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.text.ParseException;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -74,6 +72,35 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         }
     }
 
+    @Override
+    public List<String> runHw_3(String jsonTablesPath, int k)  {
+        // This map contains all the available sets and their occurrences
+        HashMap<String, Integer> set2count = new HashMap<>();
+        // This is the inverted index
+        Map<String, Collection<String>> invertedIndex = new HashMap<>();
+        // Reads user input
+        String userInput = ih.readUserInput("What are you looking for today?");
+        // Get tokenised user input
+        Utils utils = new Utils();
+        Utils.Timer timer = utils.new Timer();
+        List<String> tokenizedUserInput = tokeniseUserInput(new StandardAnalyzer(),userInput);
+        timer.start();
+        // Reads Json file line by line and builds inverted index, set2count
+        new Utils().readJsonFileThenBuildInvertedIndexAndSet2Count(jsonTablesPath,invertedIndex,set2count,tokenizedUserInput);
+        timer.stop("Computation time elapsed: ");
+        utils.printStats(invertedIndex);
+        // sort set2count by values
+        List<Map.Entry<String, Integer>> list = new ArrayList<>(set2count.entrySet());
+        list.sort((o1, o2) -> o2.getValue().compareTo(o1.getValue()));
+
+        // Take k elements
+        List<String> topK = list.stream()
+                .limit(k)
+                .map(Map.Entry::getKey)
+                .collect(Collectors.toList());
+        return topK;
+    }
+
     /**
      *  Initializes and configures Lucene IndexWriter and indexes docs
      * @param directory The directory where the Lucene index is stored.
@@ -114,66 +141,6 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
 
         return writer;
     }
-
-    @Override
-    public List<String> runHw_3(String jsonTablesPath, int k)  {
-        // This map contains all the available sets and their occurrences
-        HashMap<String, Integer> set2count = new HashMap<>();
-        // This is the inverted index
-        Map<String, Collection<String>> invertedIndex = new HashMap<>();
-        // Reads user input
-        String userInput = ih.readUserInput("What are you looking for today?");
-        // Get tokenised user input
-        List<String> tokenisedUserInput = tokeniseUserInput(new StandardAnalyzer(),userInput);
-        // Read file
-        JsonNode jsonNode = ih.readJsonFile(jsonTablesPath);
-        // Extract id, tokens from jsonTables
-        String oid = jsonNode.path("_id").path("$oid").asText();
-        System.out.println("OID: " + oid);
-        JsonNode cells = jsonNode.path("cells");
-
-        // add tokens to inverted index as key, and add ids as value
-        if (cells.isArray()) {
-            for (JsonNode cell : cells) {
-                String cleanedText = cell.path("cleanedText").asText();
-                if(invertedIndex.get(cleanedText)==null || invertedIndex.get(cleanedText).isEmpty()){
-                    invertedIndex.put(cleanedText,new ArrayList<String>() {{
-                        add(oid);}});
-                    set2count.put(oid,0);
-                } else{
-                    if(!invertedIndex.get(cleanedText).contains(oid)){
-                        invertedIndex.get(cleanedText).add(oid);
-                    }
-                }
-            }
-        }
-        // Print all
-        //invertedIndex.toString();
-        //invertedIndex.entrySet().toString();
-        // for each query token check if it exists in inverted index
-        for (String token : tokenisedUserInput) {
-            if (invertedIndex.containsKey(token)) {
-                // read entire posting list and add 1 to counts
-                for (String _oid : invertedIndex.get(token)) {
-                    set2count.put(_oid, set2count.getOrDefault(_oid, 0) + 1);
-                }
-            }
-        }
-        System.out.println("set 2 count:");
-        for (String s:invertedIndex.keySet()){
-            System.out.println("  --Key: " + s + "    value:" + invertedIndex.get(s).toString());
-        }
-        // sort set2count by values
-        List<Map.Entry<String, Integer>> list = new ArrayList<>(set2count.entrySet());
-        list.sort((o1, o2) -> o2.getValue().compareTo(o1.getValue()));
-        // Take k elements
-        List<String> topK = list.stream()
-                .limit(k)
-                .map(Map.Entry::getKey)
-                .collect(Collectors.toList());
-        return topK;
-    }
-
     private void indexExistingFiles(IndexWriter writer) throws IOException {
         try {
             Path parentWorkingDir = Paths.get(System.getProperty("user.dir")).getParent();

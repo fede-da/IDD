@@ -25,7 +25,7 @@ public class InputHandler implements InputHandlerInterface {
         return QueryParser.escape(userInput);
     }
     @Override
-    public JsonNode readJsonFile(String pathToJsonFile) {
+    public JsonNode readSingleJsonFileFromResourceFolder(String pathToJsonFile) {
         ObjectMapper mapper = new ObjectMapper();
         JsonNode rootNode = null;
         try{
@@ -41,4 +41,5 @@ public class InputHandler implements InputHandlerInterface {
         }
         return rootNode;
     }
+
 }
