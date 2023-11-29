@@ -2,16 +2,18 @@ package io.github.fededa.lucenecustomhandler;
 
 import io.github.fededa.exceptions.EmptyUserInputException;
 import io.github.fededa.inputhandler.InputHandlerInterface;
+import io.github.fededa.utils.Utils;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.CharArraySet;
+import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.analysis.miscellaneous.PerFieldAnalyzerWrapper;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.apache.lucene.codecs.Codec;
 import org.apache.lucene.codecs.simpletext.SimpleTextCodec;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -25,13 +27,11 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
 
@@ -70,6 +70,35 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
                 directory.close();
             }
         }
+    }
+
+    @Override
+    public List<String> runHw_3(String jsonTablesPath, int k)  {
+        // This map contains all the available sets and their occurrences
+        HashMap<String, Integer> set2count = new HashMap<>();
+        // This is the inverted index
+        Map<String, Collection<String>> invertedIndex = new HashMap<>();
+        // Reads user input
+        String userInput = ih.readUserInput("What are you looking for today?");
+        // Get tokenised user input
+        Utils utils = new Utils();
+        Utils.Timer timer = utils.new Timer();
+        List<String> tokenizedUserInput = tokeniseUserInput(new StandardAnalyzer(),userInput);
+        timer.start();
+        // Reads Json file line by line and builds inverted index, set2count
+        new Utils().readJsonFileThenBuildInvertedIndexAndSet2Count(jsonTablesPath,invertedIndex,set2count,tokenizedUserInput);
+        timer.stop("Computation time elapsed: ");
+        utils.printStats(invertedIndex);
+        // sort set2count by values
+        List<Map.Entry<String, Integer>> list = new ArrayList<>(set2count.entrySet());
+        list.sort((o1, o2) -> o2.getValue().compareTo(o1.getValue()));
+
+        // Take k elements
+        List<String> topK = list.stream()
+                .limit(k)
+                .map(Map.Entry::getKey)
+                .collect(Collectors.toList());
+        return topK;
     }
 
     /**
@@ -112,7 +141,6 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
 
         return writer;
     }
-
     private void indexExistingFiles(IndexWriter writer) throws IOException {
         try {
             Path parentWorkingDir = Paths.get(System.getProperty("user.dir")).getParent();
@@ -179,6 +207,20 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         writer.close();
     }
 
+    private List<String> tokeniseUserInput(Analyzer analyzer, String userInput){
+        List<String> tokenisedUserInput = new ArrayList<>();
+        try {
+            TokenStream stream  = analyzer.tokenStream(null, new StringReader(userInput));
+            stream.reset();
+            while (stream.incrementToken()) {
+                tokenisedUserInput.add(stream.getAttribute(CharTermAttribute.class).toString());
+            }
+        } catch (IOException e) {
+            // not thrown b/c we're using a string reader...
+            throw new RuntimeException(e);
+        }
+        return tokenisedUserInput;
+    }
 
 }
 

@@ -1,43 +1,36 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    
   <modelVersion>4.0.0</modelVersion>
+    
   <groupId>io.fededa.idd</groupId>
+    
   <artifactId>idd</artifactId>
+    
   <packaging>pom</packaging>
+    
   <version>1.0-SNAPSHOT</version>
-    <properties>
-        <maven.compiler.source>20</maven.compiler.source>
-        <maven.compiler.target>20</maven.compiler.target>
-    </properties>
-    <name>idd</name>
+      
+  <properties>
+            
+    <maven.compiler.source>20</maven.compiler.source>
+            
+    <maven.compiler.target>20</maven.compiler.target>
+        
+  </properties>
+      
+  <name>idd</name>
+    
   <url>http://maven.apache.org</url>
-<modules>
-    <module>progetto_corso_clonato</module>
+  
+  <modules>
+        
     <module>hw-2</module>
-    <module>my-lucene-library</module>
-</modules>
-<dependencies>
-      <dependency>
-  	  <groupId>io.github.fededa</groupId>
-   	  <artifactId>lucenelibrary</artifactId>
- 		  <version>0.0.1</version>
-	  </dependency>
-</dependencies>
+        
+    <module>lucenelibrary</module>
+      
+    <module>hw-3</module>
+      
+  </modules>
+  
 </project>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

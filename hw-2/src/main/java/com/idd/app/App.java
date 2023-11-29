@@ -1,20 +1,16 @@
 package com.idd.app;
 
 import io.github.fededa.inputhandler.InputHandler;
-import io.github.fededa.inputhandler.InputHandlerInterface;
 import io.github.fededa.lucenecustomhandler.LuceneCustomHandler;
-import io.github.fededa.lucenecustomhandler.LuceneCustomHandlerInterface;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.search.Query;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.ServiceLoader;
 
 /**
  * Hello world!

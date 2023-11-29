@@ -4,6 +4,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.TopDocs;
 
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -20,4 +21,6 @@ public interface LuceneCustomHandlerInterface {
      *  Runs 2nd Homework's assignments
      */
     TopDocs runHw_2(QueryParser parser, List<Document> documentsList) throws Exception;
+    List<String> runHw_3(String jsonTablesPath, int k);
+
 }
