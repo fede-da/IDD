@@ -1,0 +1,1 @@
+from pathlib import Path# Base project directoryBASE_DIR = Path(__file__).resolve().parent# Input and Output directoriesINPUT_DIR = BASE_DIR / "articles_to_extract"OUTPUT_DIR = BASE_DIR / "extracted"RESOURCE_DIR = BASE_DIR / "resources"PCMIDS_FILE_PATH = RESOURCE_DIR / "pmcid_407200_458100.txt"

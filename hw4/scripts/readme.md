@@ -1,0 +1,1 @@
+Run "articles_downloader.py" script from terminal using "desiree" env.
