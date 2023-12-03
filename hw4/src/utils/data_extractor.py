@@ -61,6 +61,26 @@ class DataExtractor:
             })
         return cells
 
+    def _extract_figures(self, root, pmc_id):
+        namespaces = {'xlink': 'http://www.w3.org/1999/xlink'}
+        fig_elements = root.xpath('//fig')
+
+        figures = []
+        for fig in fig_elements:
+            fig_id = fig.get('id')  # Get the 'id' attribute of 'fig'
+
+            # TODO: Completare estrazione citations slide 14
+            paragraph = {}
+            # Find the first caption_paragraph '<p>' inside 'fig' -> 'caption'
+            caption_paragraph = fig.findtext('.//caption/p')
+            source = fig.xpath('.//graphic/@xlink:href', namespaces=namespaces)[0]
+            source = f"https://www.ncbi.nlm.nih.gov/pmc/articles/{pmc_id}/bin/{source}.jpg"
+            # Add to list if caption_paragraph is found
+            #if caption_paragraph:
+            figures.append({"id": fig_id, "src": source, "caption": caption_paragraph.strip(), "paragraph": paragraph})
+
+        return figures
+
 
     def extract_data(self) -> dict:
         # XPath
@@ -96,22 +116,21 @@ class DataExtractor:
                         "cells":colspan_nodes
                      }
                 ],
-                "figures":
-                    [
-                        {
-                            "fig_id": "",
-                            "src": "",
-                            "caption": "",
-                            "paragraph":
-                            [
-                                {
-                                    "cited_in": [],
-                                    "citations": []
-                                }
-                            ]
-
-                        },
-                    ]
+                "figures": self._extract_figures(root,pmc_id_node.text)
+                    #[
+                     #   {
+                      #      "fig_id": "",
+                      #      "src": "",
+                       #     "caption": "",
+                       #     "paragraph":
+                       #     [
+                        #        {
+                         #           "cited_in": [],
+                          #          "citations": []
+                          #      }
+                           # ]
+                        #},
+                    #]
             }
         }
 
