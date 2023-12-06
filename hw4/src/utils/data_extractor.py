@@ -14,8 +14,8 @@ class DataExtractor:
         return str(etree.tostring(node, pretty_print=True, method="xml").decode()).strip().replace(' xmlns:xlink="http://www.w3.org/1999/xlink"', '')
 
     # must return a list of dictionaries
-    def _get_table_paragraphs(self, root):
-        paragraph_reference_nodes = root.xpath('//p[xref[@ref-type="table"]]')
+    def _get_table_paragraphs(self, root, table_id):
+        paragraph_reference_nodes = root.xpath(f"//p[xref[@ref-type='table' and @rid='{table_id}']]")
         paragraph_list = []
 
         for paragraph in paragraph_reference_nodes:
@@ -49,12 +49,12 @@ class DataExtractor:
 
         return paragraph_list
 
-    def _get_cell_contents(self, root):
+    def _get_cell_contents(self, node):
         # returns list of numbers as string
-        colspan_content_as_strings = root.xpath('//thead/tr/td/@colspan')
+        td_content = node.xpath('.//td/text()')
         cells = []
-        for string in colspan_content_as_strings:
-            paragraphs_containing_string = root.xpath(f"//p[contains(text(), '{string}')]")
+        for string in td_content:
+            paragraphs_containing_string = node.xpath(f".//p[contains(text(), \"{string}\")]")
             cells.append({
                 "content": string,
                 "cited_in": self._map_nodes_as_strings_list(paragraphs_containing_string)
@@ -68,19 +68,48 @@ class DataExtractor:
         figures = []
         for fig in fig_elements:
             fig_id = fig.get('id')  # Get the 'id' attribute of 'fig'
-
-            # TODO: Completare estrazione citations slide 14
-            paragraph = {}
             # Find the first caption_paragraph '<p>' inside 'fig' -> 'caption'
             caption_paragraph = fig.findtext('.//caption/p')
             source = fig.xpath('.//graphic/@xlink:href', namespaces=namespaces)[0]
             source = f"https://www.ncbi.nlm.nih.gov/pmc/articles/{pmc_id}/bin/{source}.jpg"
-            # Add to list if caption_paragraph is found
-            #if caption_paragraph:
+            # TODO: Completare estrazione citations slide 14
+            paragraph = {}
+            cited_in_paragraph_nodes = root.xpath(f"//p[xref[@ref-type='fig' and @rid='{fig_id}']]")
+            citations_paragraphs = []
+            for node in cited_in_paragraph_nodes:
+                bibr_tags = node.xpath(".//xref[@ref-type='bibr']/@rid")
+                if bibr_tags:
+                    for bibr_tag in bibr_tags:
+                        ref = root.xpath(f'//ref[@id="{bibr_tag}"]')
+                        if ref:
+                            ref_content = self._map_node_as_string(ref[0])
+                            citations_paragraphs.append(ref_content)
+            paragraph["cited_in"] = self._map_nodes_as_strings_list(cited_in_paragraph_nodes)
+            paragraph["citations"] = citations_paragraphs
             figures.append({"id": fig_id, "src": source, "caption": caption_paragraph.strip(), "paragraph": paragraph})
-
         return figures
 
+
+
+    def _get_tables(self, root):
+        ret = []
+        tables_wrap = root.xpath('//table-wrap')
+        for table in tables_wrap:
+            table_id = table.get('id')
+            caption_node = table.xpath('.//caption/p')[0]
+            foots_node = table.xpath('.//table-wrap-foot/p')
+            # complete below
+            table_node = table.xpath('.//thead | .//tbody')
+            paragraphs = self._get_table_paragraphs(root, table_id)
+            ret.append({
+                    "table_id": table_id,
+                    "body": self._map_nodes_as_strings_list(table_node),
+                    "caption": self._map_node_as_string(caption_node),
+                    "foots": self._map_nodes_as_strings_list(foots_node),
+                    "paragraphs": paragraphs,
+                    "cells": self._get_cell_contents(table)
+            })
+        return ret
 
     def extract_data(self) -> dict:
         # XPath
@@ -90,33 +119,15 @@ class DataExtractor:
         abstract_node = root.xpath('//abstract/*/p')[0]
         # This is a list!
         keywords_nodes = root.xpath('//kwd-group/kwd')
-        table_wrap_id = root.xpath('//table-wrap/@id')[0]
-        caption_node = root.xpath('//caption/p')[0]
-        foots_node = root.xpath('//table-wrap-foot/p')
-        # complete below
-        table_node = root.xpath('//thead | //tbody')
-        paragraphs = self._get_table_paragraphs(root)
-        colspan_nodes = self._get_cell_contents(root)
         return {
             "pmcid": pmc_id_node.text,
             "content": {
                 "title": title_node.text,
                 # tostring method adds a string, trimmed with "replace" function
                 "abstract": self._map_node_as_string(abstract_node),
-                "keywords": self._map_nodes_as_strings_list(keywords_nodes),
-                "tables": [
-                    {
-                        "table_id": table_wrap_id,
-                        "body": self._map_nodes_as_strings_list(table_node),
-                        "caption": self._map_node_as_string(caption_node),
-                        "caption_citations": [],
-                        # foots is a list of texts
-                        "foots": self._map_nodes_as_strings_list(foots_node),
-                        "paragraph": paragraphs,
-                        "cells":colspan_nodes
-                     }
-                ],
-                "figures": self._extract_figures(root,pmc_id_node.text)
+                "keywords": list(map(lambda node: node.text, keywords_nodes)),
+                "tables": self._get_tables(root),
+                "figures": self._extract_figures(root, pmc_id_node.text)
                     #[
                      #   {
                       #      "fig_id": "",
