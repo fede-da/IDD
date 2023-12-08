@@ -3,7 +3,7 @@ from lxml import etree
 
 class DataExtractor:
     file_red: str
-    citations:[]
+    citations: []
 
     def __init__(self, input_string: str):
         self.file_red = input_string
@@ -71,6 +71,13 @@ class DataExtractor:
             fig_id = fig.get('id')  # Get the 'id' attribute of 'fig'
             # Find the first caption_paragraph '<p>' inside 'fig' -> 'caption'
             caption_paragraph = fig.findtext('.//caption/p')
+            caption_citations = []
+            paragraphs_with_caption_citations_rids = fig.xpath(".//xref[@ref-type='bibr']/@rid")
+            for caption_citation_rid in paragraphs_with_caption_citations_rids:
+                ref = root.xpath(f'//ref[@id="{caption_citation_rid}"]')
+                if ref:
+                    ref_content = self._map_node_as_string(ref[0])
+                    caption_citations.append(ref_content)
             source = fig.xpath('.//graphic/@xlink:href', namespaces=namespaces)[0]
             source = f"https://www.ncbi.nlm.nih.gov/pmc/articles/{pmc_id}/bin/{source}.jpg"
             # TODO: Completare estrazione citations slide 14
@@ -87,7 +94,7 @@ class DataExtractor:
                             citations_paragraphs.append(ref_content)
             paragraph["cited_in"] = self._map_nodes_as_strings_list(cited_in_paragraph_nodes)
             paragraph["citations"] = citations_paragraphs
-            figures.append({"id": fig_id, "src": source, "caption": caption_paragraph.strip(), "paragraph": paragraph})
+            figures.append({"id": fig_id, "src": source, "caption": caption_paragraph.strip(), "caption_citations": caption_citations, "paragraph": paragraph})
         return figures
 
 
@@ -102,10 +109,18 @@ class DataExtractor:
             # complete below
             table_node = table.xpath('.//thead | .//tbody')
             paragraphs = self._get_table_paragraphs(root, table_id)
+            caption_citations = []
+            paragraphs_with_caption_citations_rids = table.xpath(".//xref[@ref-type='bibr']/@rid")
+            for caption_citation_rid in paragraphs_with_caption_citations_rids:
+                ref = root.xpath(f'//ref[@id="{caption_citation_rid}"]')
+                if ref:
+                    ref_content = self._map_node_as_string(ref[0])
+                    caption_citations.append(ref_content)
             ret.append({
                     "table_id": table_id,
                     "body": self._map_nodes_as_strings_list(table_node),
                     "caption": self._map_node_as_string(caption_node),
+                    "caption_citations": caption_citations,
                     "foots": self._map_nodes_as_strings_list(foots_node),
                     "paragraphs": paragraphs,
                     "cells": self._get_cell_contents(table)
