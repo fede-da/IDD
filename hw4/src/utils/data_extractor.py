@@ -3,6 +3,7 @@ from lxml import etree
 
 class DataExtractor:
     file_red: str
+    citations:[]
 
     def __init__(self, input_string: str):
         self.file_red = input_string
@@ -128,20 +129,7 @@ class DataExtractor:
                 "keywords": list(map(lambda node: node.text, keywords_nodes)),
                 "tables": self._get_tables(root),
                 "figures": self._extract_figures(root, pmc_id_node.text)
-                    #[
-                     #   {
-                      #      "fig_id": "",
-                      #      "src": "",
-                       #     "caption": "",
-                       #     "paragraph":
-                       #     [
-                        #        {
-                         #           "cited_in": [],
-                          #          "citations": []
-                          #      }
-                           # ]
-                        #},
-                    #]
+
             }
         }
 
