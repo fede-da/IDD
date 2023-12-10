@@ -3,6 +3,10 @@
 .AppleDouble
 .LSOverride
 
+# Specific folder hw 4
+articles_to_extract/
+extracted/
+
 # Icon must end with two \r
 Icon
 

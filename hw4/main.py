@@ -1,0 +1,1 @@
+# This is a sample Python script.from multiprocessing import freeze_supportfrom src.pcm_manager import PcmManagerdef main():    manager = PcmManager()    manager.begin_parallel_extraction()# Press the green button in the gutter to run the script.if __name__ == '__main__':    freeze_support()    main()
