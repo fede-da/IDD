@@ -10,19 +10,8 @@ class Mapper:
         self._mediated_schema = mediated_schema
         self._predicted_mapping = []
 
-    def map(self):
-        # read sources
-        input = []
-        # converts input to Dataset
-        datasets_for_training = [
-            Dataset([], {}, {}),
-            Dataset([], {}, {}),
-            Dataset([], {}, {}),
-        ]
+    def map(self, datasets_for_training: [Dataset], datasets_to_predict: [Dataset]):
         predictor = Predictor(datasets_for_training)
-        datasets_to_predict: [Dataset] = [
-            Dataset([], {}, {}),
-        ]
         for dataset in datasets_to_predict:
             self._predicted_mapping.append(
                 predictor.predict_mapping(dataset.to_dataframe())

@@ -6,7 +6,7 @@ class Dataset:
     _header: [str]
     _mapping: dict
 
-    def __init__(self, header: [str], mapping: dict, val: dict):
+    def __init__(self, header: [str], mapping: dict, val: [any]):
         self._header = header
         self._mapping = mapping
         self._val = val

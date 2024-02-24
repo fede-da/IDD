@@ -1,4 +1,4 @@
-1 - Definire uno schema mediato
+1 - Definire uno schema mediato 
 
 2 - Trasformare 2/3 file sorgente in classe Dataset 
 

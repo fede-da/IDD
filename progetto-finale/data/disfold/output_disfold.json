@@ -1,6 +1,17 @@
 [
-{"name": "Avis Budget Group, Inc.", "market_cap": "$18.12 B", "stock": "CAR", "country": "United States", "sector": "Industrials", "industry": "Rental & Leasing Services", "headquarters": "Parsippany,NJ,UnitedStates", "founded": " 2006\u00a0", "employees": " 16,000", "ceo": " Mr. Joseph A. Ferraro"},
-{"name": "Telef\u00f4nica Brasil SA", "market_cap": "$20.19 B", "stock": "VIV", "country": "Brazil", "sector": "Communication Services", "industry": "Telecom Services", "headquarters": "S\u00c3\u00a3oPaulo,SP,Brazil", "founded": " 1998", "employees": " 34,000", "ceo": " Mr. Christian  Mauad Gebara"},
+  {
+    "name": "Avis Budget Group, Inc.",
+    "market_cap": "$18.12 B",
+    "stock": "CAR",
+    "country": "United States",
+    "sector": "Industrials",
+    "industry": "Rental & Leasing Services",
+    "headquarters": "Parsippany,NJ,UnitedStates",
+    "founded": " 2006\u00a0",
+    "employees": " 16,000",
+    "ceo": " Mr. Joseph A. Ferraro"
+  },
+  {"name": "Telef\u00f4nica Brasil SA", "market_cap": "$20.19 B", "stock": "VIV", "country": "Brazil", "sector": "Communication Services", "industry": "Telecom Services", "headquarters": "S\u00c3\u00a3oPaulo,SP,Brazil", "founded": " 1998", "employees": " 34,000", "ceo": " Mr. Christian  Mauad Gebara"},
 {"name": "East Japan Railway Company", "market_cap": "$22.78 B", "stock": "9020", "country": "Japan", "sector": "Industrials", "industry": "Railroads", "headquarters": "Tokyo,Japan", "founded": "", "employees": " 71,973", "ceo": " Mr. Yuji  Fukasawa"},
 {"name": "Twilio Inc.", "market_cap": "$26.09 B", "stock": "TWLO", "country": "United States", "sector": "Communication Services", "industry": "Internet Content & Information", "headquarters": "SanFrancisco,CA,UnitedStates", "founded": " 2008", "employees": " 7,867", "ceo": " Mr. Jeffrey  Lawson"},
 {"name": "Delta Electronics, Inc.", "market_cap": "$24.05 B", "stock": "2308", "country": "Taiwan", "sector": "Technology", "industry": "Electronic Components", "headquarters": "Taipei,Taiwan", "founded": "", "employees": "", "ceo": " Mr. Ping  Cheng"},
