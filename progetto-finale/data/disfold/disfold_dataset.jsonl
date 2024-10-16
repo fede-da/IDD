@@ -1,21 +1,4 @@
-{
-  "id": "1e4dfb844d5a47e39c14699648cbd55a",
-  "name": "Apple",
-  "official_name": "Apple Inc.",
-  "headquarters_country": "Cupertino",
-  "headquarters_continent": "CA",
-  "founded": "April 1, 1976",
-  "employees": "100,000",
-  "ceo": "Mr. Timothy D. Cook",
-  "market_cap": "$2.825 Trillion",
-  "categories": [
-    "UnitedStates",
-    "Technology",
-    "ConsumerElectronics",
-    "UnitedStatesTechnology",
-    "UnitedStatesConsumerElectronics"
-  ]
-}
+{"id": "1e4dfb844d5a47e39c14699648cbd55a", "name": "Apple", "official_name": "Apple Inc.", "headquarters_country": "Cupertino", "headquarters_continent": "CA", "founded": "April 1, 1976", "employees": "100,000", "ceo": "Mr. Timothy D. Cook", "market_cap": "$2.825 Trillion", "categories": ["UnitedStates", "Technology", "ConsumerElectronics", "UnitedStatesTechnology", "UnitedStatesConsumerElectronics"]}
 {"id": "031f69c6c7fd49d89b00ecdfcd294bad", "name": "Danaher", "official_name": "Danaher Corporation", "headquarters_country": "Washington", "headquarters_continent": "DC", "founded": "1969", "employees": "78,000", "ceo": "Mr. Rainer M. Blair", "market_cap": "$208.03 Billion", "categories": ["UnitedStates", "Healthcare", "Diagnostics&Research", "UnitedStatesHealthcare", "UnitedStatesDiagnostics&Research"]}
 {"id": "8acd1acfe59d4fc88c28038c9d3e8911", "name": "Merck", "official_name": "Merck & Co., Inc.", "headquarters_country": "Kenilworth", "headquarters_continent": "NJ", "founded": "1891", "employees": "67,000", "ceo": "Mr. Robert M. Davis J.D.", "market_cap": "$210.38 Billion", "categories": ["UnitedStates", "Healthcare", "DrugManufacturers—General", "UnitedStatesHealthcare", "UnitedStatesDrugManufacturers—General"]}
 {"id": "ba6efa594766439dafb4045f0b25a23a", "name": "Bhp", "official_name": "BHP Group", "headquarters_country": "Melbourne", "headquarters_continent": "VIC", "founded": "1885", "employees": "40,110", "ceo": "Mr. Mike P. Henry B.Sc., BSc (Chem)", "market_cap": "A$281.66 Billion", "gbp": "$211.25 Billion", "categories": ["Australia", "BasicMaterials", "OtherIndustrialMetals&Mining", "AustraliaBasicMaterials", "AustraliaOtherIndustrialMetals&Mining"]}

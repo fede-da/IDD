@@ -17,7 +17,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
     mapper = Mapper(mediated_schema=mediated_schema)
     mapper.map(datasets_for_training=[Dataset(
             header=[
