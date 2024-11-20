@@ -72,6 +72,90 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         }
     }
 
+    public TopDocs runHw_3_davide(QueryParser parser, List<Document> docsList) throws Exception{
+        Path luceneIndexPath = Paths.get("target/idx0");
+        // Lucene's index is stored here
+        try (Directory directory = FSDirectory.open(luceneIndexPath)) {
+
+            // Opening the file-system directory for the Lucene index.
+            indexExistingFilesHwDavide(indexDocs(directory, new SimpleTextCodec(), docsList));
+            // Opens a reader for the Lucene index; this is read-only and prevents modifications.
+            try (IndexReader reader = DirectoryReader.open(directory)) {
+                String userInput = ih.readUserInput("What are you looking for today?\n");
+                if(userInput.isEmpty()) throw new EmptyUserInputException();
+                //QueryParser parser = new QueryParser("titolo", new WhitespaceAnalyzer());
+                // Builds query
+                Query query = parser.parse(userInput);
+                // Allows searching within Lucene's index
+                IndexSearcher searcher = new IndexSearcher(reader);
+                long startTime = System.currentTimeMillis();
+                TopDocs results = searcher.search(query,10);
+                System.out.println("Search time: " + (System.currentTimeMillis() - startTime) + "ms");
+                for (ScoreDoc scoreDoc : results.scoreDocs) {
+                    Document doc = searcher.doc(scoreDoc.doc);
+                    System.out.println("doc"+scoreDoc.doc + ":"+ doc.get("titolo") + " (" + scoreDoc.score +")");
+                }
+                return results;
+            } finally {
+                directory.close();
+            }
+        }
+    }
+
+    public TopDocs runHw_3_davide(QueryParser parser, List<Document> docsList, String inputQuery) throws Exception{
+        Path luceneIndexPath = Paths.get("target/idx0");
+        // Lucene's index is stored here
+        try (Directory directory = FSDirectory.open(luceneIndexPath)) {
+
+            // Opening the file-system directory for the Lucene index.
+            indexExistingFilesHwDavide(indexDocs(directory, new SimpleTextCodec(), docsList));
+            // Opens a reader for the Lucene index; this is read-only and prevents modifications.
+            try (IndexReader reader = DirectoryReader.open(directory)) {
+                //QueryParser parser = new QueryParser("titolo", new WhitespaceAnalyzer());
+                // Builds query
+                Query query = parser.parse(inputQuery);
+                // Allows searching within Lucene's index
+                IndexSearcher searcher = new IndexSearcher(reader);
+                long startTime = System.currentTimeMillis();
+                TopDocs results = searcher.search(query,10);
+                System.out.println("Search time: " + (System.currentTimeMillis() - startTime) + "ms");
+                for (ScoreDoc scoreDoc : results.scoreDocs) {
+                    Document doc = searcher.doc(scoreDoc.doc);
+                    System.out.println("doc"+scoreDoc.doc + ":"+ doc.get("titolo") + " (" + scoreDoc.score +")");
+                }
+                return results;
+            } finally {
+                directory.close();
+            }
+        }
+    }
+
+    private void indexExistingFilesHwDavide(IndexWriter writer) throws IOException {
+        try {
+            Path parentWorkingDir = Paths.get(System.getProperty("user.dir")).getParent();
+            System.out.println("current working dir: " + parentWorkingDir.toString());
+            Path fullPath = parentWorkingDir.resolve("/IDD/hw-3-davide/src/main/resources/documents");
+            if(parentWorkingDir.toString().contains("IDD")){
+                fullPath = parentWorkingDir.resolve("hw-3-davide/src/main/resources/documents");
+            }
+
+            System.out.println("full path: " + fullPath.toString());
+            //Path fullPath = Paths.get("hw-2/src/main/resources/documents");
+            File[] files = getFilesFromPath(fullPath);
+            if (files != null) {
+                for (File file : files) {
+                    indexFile(writer, file);
+                }
+            } else {
+                System.out.println("Directory not found or not accessible: " + fullPath);
+            }
+        } catch (Exception e) {
+            System.out.println("Error accessing resource folder: " + e.toString());
+            e.printStackTrace();
+        } finally {
+            commitAndCloseWriter(writer);
+        }
+    }
     @Override
     public List<String> runHw_3(String jsonTablesPath, int k)  {
         // This map contains all the available sets and their occurrences
