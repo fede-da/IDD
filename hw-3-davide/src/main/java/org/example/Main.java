@@ -7,6 +7,7 @@ import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.TopDocs;
+import org.example.models.MetricCalculator;
 import org.example.models.MyAbstractTable;
 import org.example.models.RelevanceCriteria;
 
@@ -34,49 +35,54 @@ public class Main {
 
             queryResults.put(userInput, tableExtractedFromQueryDocumentResult);
 
-            // Metodo per riempire le gold tables
-            Map<String, Set<MyAbstractTable>> relevantTablesMap = new HashMap<>();
-            Set<MyAbstractTable> relevantTables = new HashSet<>();
+            // endHomeworkUsingMRR(tableExtractedFromQueryDocumentResult,userInput, queryResults);
 
-            for (MyAbstractTable table : tableExtractedFromQueryDocumentResult) {
-                if (RelevanceCriteria.isRelevant(userInput, table)) {
-                    relevantTables.add(table);
-                }
-            }
-            // Inserisce le tabelle trovate
-            relevantTablesMap.put(userInput, relevantTables);
-
-            double computedMRR = computeMRR(queryResults, relevantTablesMap);
-            System.out.println("Current MMR is: " + computedMRR);
+            endHomeworkUsingNDCG(tableExtractedFromQueryDocumentResult,userInput, queryResults);
 
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
     }
 
-    public static double computeMRR(Map<String, List<MyAbstractTable>> queryResults,
-                              Map<String, Set<MyAbstractTable>> relevantTables) {
-        double sumReciprocalRanks = 0.0;
-        int totalQueries = queryResults.size();
+    private static void endHomeworkUsingMRR(List<MyAbstractTable> tableExtractedFromQueryDocumentResult, String userInput, Map<String, List<MyAbstractTable>> queryResults){
+        // Metodo per riempire le gold tables
+        Map<String, Set<MyAbstractTable>> relevantTablesMap = new HashMap<>();
+        Set<MyAbstractTable> relevantTables = new HashSet<>();
 
-        for (String query : queryResults.keySet()) {
-            List<MyAbstractTable> retrievedTables = queryResults.get(query);
-            Set<MyAbstractTable> relevant = relevantTables.get(query);
-
-            double reciprocalRank = 0.0;
-
-            // Trova la posizione del primo risultato rilevante
-            for (int i = 0; i < retrievedTables.size(); i++) {
-                MyAbstractTable table = retrievedTables.get(i);
-                if (relevant.contains(table)) {
-                    reciprocalRank = 1.0 / (i + 1); // Posizione 1-based
-                    break;
-                }
+        for (MyAbstractTable table : tableExtractedFromQueryDocumentResult) {
+            if (RelevanceCriteria.isRelevant(userInput, table)) {
+                relevantTables.add(table);
             }
+        }
+        // Inserisce le tabelle trovate
+        relevantTablesMap.put(userInput, relevantTables);
 
-            sumReciprocalRanks += reciprocalRank;
+        double computedMRR = MetricCalculator.computeMRR(queryResults, relevantTablesMap);
+        System.out.println("Current MMR is: " + computedMRR);
+    }
+
+    private static void endHomeworkUsingNDCG(List<MyAbstractTable> tableExtractedFromQueryDocumentResult, String userInput, Map<String, List<MyAbstractTable>> queryResults){
+        // Metodo per riempire le gold tables
+        Map<String, Map<MyAbstractTable, Integer>> relevanceScores = new HashMap<>();
+
+        for (MyAbstractTable table : tableExtractedFromQueryDocumentResult) {
+            Map<MyAbstractTable, Integer> relevantTableAndValue = new HashMap<>();
+            // Valuta se la tabella corrente è una gold
+            if (RelevanceCriteria.isRelevant(userInput, table)) {
+                // Siccome è gold, allora generiamo un valore da associare alla tabella per il calcolo dell'NDCG
+                relevantTableAndValue.put(table, RelevanceCriteria.contaCaratteriComuni(table.getTableName(), userInput));
+                //Associamo alla mappa con tabella e valore appena calcolata, la query dell'utente
+                relevanceScores.put(userInput, relevantTableAndValue);
+            }
         }
 
-        return sumReciprocalRanks / totalQueries;
+
+        double computedNDCG = MetricCalculator.computeAverageNDCG(queryResults, relevanceScores, tableExtractedFromQueryDocumentResult.size());
+        System.out.println("Current NDCG is: " + computedNDCG);
     }
+
 }
+
+
+
+
