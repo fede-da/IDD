@@ -6,7 +6,7 @@
 # Specific folder hw 4
 articles_to_extract/
 extracted/
-resources/
+/resources/
 
 # Icon must end with two \r
 Icon
