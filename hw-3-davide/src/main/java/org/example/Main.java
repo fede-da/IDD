@@ -36,7 +36,10 @@ public class Main {
             // Conversione da TopDocs (Lucene) a List<MyAbstractTable>
             // foreach Doc in queryDocumentsResult, extract table and put in tableExtractedFromQueryDocumentResult
             for (ScoreDoc scoreDoc : queryDocumentsResult.scoreDocs) {
-                tableExtractedFromQueryDocumentResult.add(new MyTable(searcher.doc(scoreDoc.doc)));
+                tableExtractedFromQueryDocumentResult.add(
+                        new MyTable(
+                                searcher.doc(
+                                        scoreDoc.doc)));
             }
             // queryResults    Map che associa ogni query alla lista delle tabelle recuperate (risultati della query).
             Map<String, List<MyAbstractTable>> queryResults = new HashMap<>();

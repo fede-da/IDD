@@ -134,11 +134,12 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
         try {
             Path parentWorkingDir = Paths.get(System.getProperty("user.dir")).getParent();
             System.out.println("current working dir: " + parentWorkingDir.toString());
-            Path fullPath = parentWorkingDir.resolve("/IDD/hw-3-davide/src/main/resources/documents");
-            if(parentWorkingDir.toString().contains("IDD")){
-                fullPath = parentWorkingDir.resolve("hw-3-davide/src/main/resources/documents");
-            }
-
+            // TODO: Cambiare dopo
+            Path fullPath = Paths.get("/Users/kaguyasama/GitHub/IDD/hw-3-davide/src/main/resources/documents");
+//            if(parentWorkingDir.toString().contains("IDD")){
+//                fullPath = parentWorkingDir.resolve("hw-3-davide/src/main/resources/documents");
+//            }
+            System.out.println(fullPath.toString());
             System.out.println("full path: " + fullPath.toString());
             //Path fullPath = Paths.get("hw-2/src/main/resources/documents");
             File[] files = getFilesFromPath(fullPath);
@@ -255,11 +256,13 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
 
     private File[] getFilesFromPath(Path path) {
         File dir = new File(path.toUri());
+        System.out.println(path.toUri());
         return dir.listFiles();
     }
 
     private void indexFile(IndexWriter writer, File file) throws IOException {
         Document document = new Document();
+        String filename = file.getName();
         document.add(new TextField("titolo", file.getName(), Field.Store.YES));
 
         String fileContent = readFileContent(file);

@@ -24,8 +24,8 @@ public class MyTable implements MyAbstractTable {
     // Popola oggetto partendo da documento Lucene
     public MyTable (Document _luceneDoc){
         this.luceneDoc = _luceneDoc;
-        this.name = luceneDoc.get("name");
-        this.table = luceneDoc.get("table");
+        this.name = luceneDoc.get("titolo");
+        this.table = luceneDoc.get("contenuto");
     }
 
 
