@@ -5,12 +5,18 @@ import io.github.fededa.inputhandler.InputHandler;
 import io.github.fededa.lucenecustomhandler.LuceneCustomHandler;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.store.FSDirectory;
 import org.example.models.MetricCalculator;
 import org.example.models.MyAbstractTable;
+import org.example.models.MyTable;
 import org.example.models.RelevanceCriteria;
 
+import java.nio.file.Paths;
 import java.util.*;
 
 public class Main {
@@ -26,16 +32,18 @@ public class Main {
             TopDocs queryDocumentsResult = new LuceneCustomHandler( new InputHandler()).runHw_3_davide(parser,docsList, userInput);
             // Istanzio la lista di tabelle che estrarrò dai documenti Lucene
             List<MyAbstractTable> tableExtractedFromQueryDocumentResult = new ArrayList<>();
+            IndexSearcher searcher = new IndexSearcher(DirectoryReader.open(FSDirectory.open(Paths.get("target/idx0"))));
             // Conversione da TopDocs (Lucene) a List<MyAbstractTable>
-            // TODO: Implementare metodo per estrarre tabella da inserire in tableExtractedFromQueryDocumentResult
             // foreach Doc in queryDocumentsResult, extract table and put in tableExtractedFromQueryDocumentResult
-
+            for (ScoreDoc scoreDoc : queryDocumentsResult.scoreDocs) {
+                tableExtractedFromQueryDocumentResult.add(new MyTable(searcher.doc(scoreDoc.doc)));
+            }
             // queryResults    Map che associa ogni query alla lista delle tabelle recuperate (risultati della query).
             Map<String, List<MyAbstractTable>> queryResults = new HashMap<>();
 
             queryResults.put(userInput, tableExtractedFromQueryDocumentResult);
 
-            // endHomeworkUsingMRR(tableExtractedFromQueryDocumentResult,userInput, queryResults);
+            endHomeworkUsingMRR(tableExtractedFromQueryDocumentResult,userInput, queryResults);
 
             endHomeworkUsingNDCG(tableExtractedFromQueryDocumentResult,userInput, queryResults);
 
