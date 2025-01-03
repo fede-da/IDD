@@ -1,8 +1,9 @@
-package org.example.utils;
+package io.github.fededa.utils;
 
+import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.example.models.MyTable;
+import io.github.fededa.models.MyTable;
 
 import java.io.File;
 import java.io.IOException;
@@ -24,7 +25,7 @@ public class JsonExtractor {
     public static List<MyTable> estraiCaptionsETables(File jsonFile) throws IOException {
         // Inizializza l'ObjectMapper
         ObjectMapper mapper = new ObjectMapper();
-
+        mapper.configure(JsonParser.Feature.ALLOW_UNQUOTED_CONTROL_CHARS, true);
         // Legge il file JSON e ottiene il nodo radice
         JsonNode rootNode = mapper.readTree(jsonFile);
 

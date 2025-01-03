@@ -11,7 +11,7 @@ import java.net.URL;
 import java.util.Scanner;
 
 public class InputHandler implements InputHandlerInterface {
-
+    private static final Scanner scanner = new Scanner(System.in);
     /**
      *  Reads user input
      */
@@ -24,6 +24,19 @@ public class InputHandler implements InputHandlerInterface {
         // Escapes Lucene's special characters
         return QueryParser.escape(userInput);
     }
+
+    public static String readString(String prompt) {
+        System.out.print(prompt);
+        return scanner.nextLine();
+    }
+
+    /**
+     * Chiude lo Scanner. Deve essere chiamato quando l'applicazione non necessita più di leggere input.
+     */
+    public static void closeScanner() {
+        scanner.close();
+    }
+
     @Override
     public JsonNode readSingleJsonFileFromResourceFolder(String pathToJsonFile) {
         ObjectMapper mapper = new ObjectMapper();

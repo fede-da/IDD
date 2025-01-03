@@ -2,6 +2,8 @@ package io.github.fededa.lucenecustomhandler;
 
 import io.github.fededa.exceptions.EmptyUserInputException;
 import io.github.fededa.inputhandler.InputHandlerInterface;
+import io.github.fededa.models.MyTable;
+import io.github.fededa.utils.JsonExtractor;
 import io.github.fededa.utils.Utils;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.CharArraySet;
@@ -261,16 +263,18 @@ public class LuceneCustomHandler implements LuceneCustomHandlerInterface{
     }
 
     private void indexFile(IndexWriter writer, File file) throws IOException {
-        Document document = new Document();
-        String filename = file.getName();
-        document.add(new TextField("titolo", file.getName(), Field.Store.YES));
+        try {
+            List<MyTable> tables = JsonExtractor.estraiCaptionsETables(file);
+            for (MyTable table : tables) {
+                Document document = new Document();
+                document.add(new TextField("titolo", table.getTableName(), Field.Store.YES));
+                document.add(new TextField("contenuto", table.getTable(), Field.Store.YES));
 
-        String fileContent = readFileContent(file);
-        if (fileContent != null) {
-            document.add(new TextField("contenuto", fileContent, Field.Store.YES));
+                writer.addDocument(document);
+            }
+        } catch (Exception e) {
+            System.out.println("Couldn't parse JSON for JsonExtracotor");
         }
-
-        writer.addDocument(document);
     }
 
     private String readFileContent(File file) {

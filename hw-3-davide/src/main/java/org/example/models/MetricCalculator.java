@@ -60,12 +60,21 @@ public class MetricCalculator {
 
     public static double computeMRR(Map<String, List<MyAbstractTable>> queryResults,
                                     Map<String, Set<MyAbstractTable>> relevantTables) {
+        if(relevantTables.isEmpty()){
+            System.out.println("No relevant tables found");
+            return -1;
+        }
         double sumReciprocalRanks = 0.0;
         int totalQueries = queryResults.size();
 
         for (String query : queryResults.keySet()) {
             List<MyAbstractTable> retrievedTables = queryResults.get(query);
             Set<MyAbstractTable> relevant = relevantTables.get(query);
+
+            if(relevant.isEmpty()){
+                System.out.println("No relevant tables with query name found");
+                return -1;
+            }
 
             double reciprocalRank = 0.0;
 
