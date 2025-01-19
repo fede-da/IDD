@@ -1,5 +1,8 @@
 import csv
 
+from src.utils.timer import Timer
+
+
 def generate_pairs_from_sorted(input_sorted_csv, output_ground_truth_csv):
     """
     Legge in streaming 'input_sorted_csv' (ordinato per bigram) e produce
@@ -49,6 +52,7 @@ def generate_pairs_from_sorted(input_sorted_csv, output_ground_truth_csv):
 
     print(f"Creato il file {output_ground_truth_csv} con coppie (record_id_1, record_id_2).")
 
-
+t = Timer()
+t.start()
 generate_pairs_from_sorted("./bigrams_temp_sorted.csv", "./ground_truth_base.csv")
-
+t.stop()

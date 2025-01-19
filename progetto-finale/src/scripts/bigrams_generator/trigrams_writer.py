@@ -2,6 +2,9 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
 
+from src.utils.timer import Timer
+
+
 def extract_trigrams(text):
     """
     Restituisce l'insieme dei trigrammi in una stringa.
@@ -59,5 +62,8 @@ def create_trigrams_csv(companies_csv, output_csv, chunksize=10000):
 
     print(f"Creato il file {output_csv} con coppie (trigram, record_id).")
 
-# Esempio di chiamata alla funzione modificata per estrarre trigrammi
+
+t = Timer()
+t.start()
 create_trigrams_csv('../../../data/processed/tabella_risultante.csv', '../../../data/processed/trigrams_temp.csv')
+t.stop()

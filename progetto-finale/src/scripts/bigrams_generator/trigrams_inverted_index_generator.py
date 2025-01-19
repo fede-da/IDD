@@ -2,6 +2,12 @@ import csv
 from collections import defaultdict
 from typing import Dict, Any
 
+from src.utils.timer import Timer
+
+t = Timer()
+t.start()
+
+
 # Sostituisci con il percorso del tuo file CSV
 input_file = '../../../data/processed/trigrams_temp.csv'
 
@@ -28,5 +34,5 @@ with open('../../../data/processed/trigram_inverted_index.csv', mode='w', newlin
             'trigram': trigram,
             'record_ids': ';'.join(sorted(record_ids))
         })
-
+t.stop()
 print(f"Indice inverso salvato in {'../../../data/processed/trigram_inverted_index.csv'}")

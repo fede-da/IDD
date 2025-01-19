@@ -1,6 +1,9 @@
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 
+from src.utils.timer import Timer
+
+
 def extract_bigrams(text):
     """
     Restituisce l'insieme dei bigrammi in una stringa.
@@ -42,4 +45,7 @@ def create_bigrams_csv(companies_csv, output_csv, chunksize=10000):
     print(f"Creato il file {output_csv} con coppie (bigram, record_id).")
 
 
+t = Timer()
+t.start()
 create_bigrams_csv('../../../data/processed/tabella_risultante.csv', '../../../data/processed/bigrams_temp.csv')
+t.stop()
