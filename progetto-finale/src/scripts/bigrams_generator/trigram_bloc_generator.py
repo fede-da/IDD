@@ -50,17 +50,20 @@ with open(input_file, mode='r', newline='', encoding='utf-8') as infile:
     for row in reader:
         # Estrai la lista di record_ids dal campo "record_ids"
         record_ids = row['record_ids'].split(';')
+        if len(record_ids) > 22:
+            continue
+        else:
 
-        # Aggiungi ogni record_id all'union-find se non presente
-        for rid in record_ids:
-            uf.add(rid)
+            # Aggiungi ogni record_id all'union-find se non presente
+            for rid in record_ids:
+                uf.add(rid)
 
-        # Esegui union tra tutti i record in questo gruppo
-        # Uniamo il primo record con ciascuno degli altri per collegarli tutti
-        if record_ids:
-            base = record_ids[0]
-            for other in record_ids[1:]:
-                uf.union(base, other)
+            # Esegui union tra tutti i record in questo gruppo
+            # Uniamo il primo record con ciascuno degli altri per collegarli tutti
+            if record_ids:
+                base = record_ids[0]
+                for other in record_ids[1:]:
+                    uf.union(base, other)
 
 # Raggruppa i record per componente connessa
 blocks = {}
