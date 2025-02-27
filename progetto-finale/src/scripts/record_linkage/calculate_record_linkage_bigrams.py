@@ -9,7 +9,7 @@ from itertools import combinations
 # ------------------------
 
 # Ground truth (informazioni su coppie di record duplicati o meno)
-#df_ground_truth = pd.read_csv('../../../data/processed/prove/ground_truth_base.csv')
+
 
 # Carica il dataset delle aziende
 df_companies = pd.read_csv('../../../data/processed/prove/tabella_risultante_raffinata.csv')
@@ -17,7 +17,7 @@ df_companies = pd.read_csv('../../../data/processed/prove/tabella_risultante_raf
 # Assumiamo che l'indice attuale corrisponda a record_id. Se necessario, converti in stringa.
 df_companies.index = df_companies.index.map(str)
 
-sim_cap = 0.1
+sim_cap = 0.3  # 0.1,
 
 # Carica i blocchi dal file CSV
 blocks_df = pd.read_csv('../../../data/processed/prove/bigram_blocs.csv')

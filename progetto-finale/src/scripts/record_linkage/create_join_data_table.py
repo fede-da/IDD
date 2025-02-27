@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def combina_csv(cartella_sorgente, cartella_destinazione, nome_output="tabella_risultante.csv"):
+def combina_csv(cartella_sorgente, cartella_destinazione, nome_output="tabella_risultante_alt.csv"):
     """
     Combina tutti i file CSV presenti nella cartella_sorgente in un unico file CSV.
 

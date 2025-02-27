@@ -17,7 +17,7 @@ df_companies = pd.read_csv('../../../data/processed/prove/tabella_risultante_raf
 # Assumiamo che l'indice attuale corrisponda a record_id. Se necessario, converti in stringa.
 df_companies.index = df_companies.index.map(str)
 
-sim_cap = 0.1
+sim_cap = 0.3  # 0.1,
 
 # Carica i blocchi dal file CSV
 blocks_df = pd.read_csv('../../../data/processed/prove/trigram_blocs.csv')
