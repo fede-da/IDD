@@ -1,0 +1,1 @@
+Nella generazione dei blocchi ho escluso quei bigrammi che comparivano troppo spesso, questo ha permesso una generazione maggiore di blocchi

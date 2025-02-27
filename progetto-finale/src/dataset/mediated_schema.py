@@ -1,0 +1,5 @@
+schema = [
+    "CompanyName",
+    "MarketCap",
+    "EmployeesTotalAmount"
+]

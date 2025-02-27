@@ -1,0 +1,1 @@
+sort -t, -k1,1 trigrams_temp.csv -o trigrams_temp_sorted.csv

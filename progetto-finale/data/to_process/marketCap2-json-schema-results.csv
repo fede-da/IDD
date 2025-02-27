@@ -1,0 +1,7201 @@
+CompanyName,MarketCap,EmployeesTotalAmount
+Apple,2.143,NAN
+Saudi Aramco,1.878,NAN
+Microsoft,1.783,NAN
+Alphabet (Google),1.195,NAN
+Amazon,1.000,NAN
+Berkshire Hathaway,700.57,NAN
+Visa,472.35,NAN
+Exxon Mobil,465.98,NAN
+Tencent,458.31,NAN
+UnitedHealth,457.42,NAN
+Johnson & Johnson,453.42,NAN
+TSMC,450.14,NAN
+LVMH,427.45,NAN
+NVIDIA,421.12,NAN
+JPMorgan Chase,419.47,NAN
+Walmart,391.81,NAN
+Tesla,386.50,NAN
+Mastercard,361.04,NAN
+Meta Platforms (Facebook),359.18,NAN
+Kweichow Moutai,358.62,NAN
+Procter & Gamble,357.54,NAN
+Eli Lilly,343.60,NAN
+Chevron,343.33,NAN
+Nestlé,339.24,NAN
+Home Depot,337.56,NAN
+Samsung,331.69,NAN
+Alibaba,310.68,NAN
+Novo Nordisk,306.65,NAN
+Merck,284.59,NAN
+Bank of America,281.72,NAN
+AbbVie,271.63,NAN
+Pfizer,268.59,NAN
+ASML,265.94,NAN
+Coca-Cola,265.65,NAN
+Roche,259.53,NAN
+International Holding Company,242.29,NAN
+Broadcom,241.95,NAN
+Pepsico,241.42,NAN
+Oracle,240.50,NAN
+Thermo Fisher Scientific,228.97,NAN
+AstraZeneca,222.25,NAN
+ICBC,221.13,NAN
+L'Oréal,219.77,NAN
+Costco,215.31,NAN
+Shell,208.24,NAN
+Reliance Industries,203.52,NAN
+Cisco,200.80,NAN
+Nike,199.78,NAN
+Danaher,199.18,NAN
+Abbott Laboratories,197.91,NAN
+McDonald,196.94,NAN
+Novartis,195.87,NAN
+Toyota,191.42,NAN
+T-Mobile US,186.22,NAN
+Hermès,184.59,NAN
+Walt Disney,181.26,NAN
+Accenture,177.81,NAN
+Verizon,175.80,NAN
+BHP Group,175.31,NAN
+Wells Fargo,168.49,NAN
+Comcast,168.31,NAN
+Nextera Energy,168.27,NAN
+Linde,164.56,NAN
+China Construction Bank,164.36,NAN
+Prosus,163.46,NAN
+CATL,162.80,NAN
+Texas Instruments,162.46,NAN
+Adobe,160.10,NAN
+TotalEnergies,160.03,NAN
+Philip Morris,157.65,NAN
+United Parcel Service,157.54,NAN
+Morgan Stanley,154.91,NAN
+Charles Schwab,154.90,NAN
+China Mobile,154.54,NAN
+Bristol-Myers Squibb,154.16,NAN
+CM Bank,152.13,NAN
+ConocoPhillips,151.36,NAN
+Dior,151.16,NAN
+Tata Consultancy Services,150.14,NAN
+Agricultural Bank of China,149.59,NAN
+Salesforce,149.50,NAN
+Netflix,148.11,NAN
+Honeywell,145.63,NAN
+Raytheon Technologies,145.06,NAN
+Amgen,144.98,NAN
+HSBC,144.37,NAN
+Ping An Insurance,143.44,NAN
+AT&T,139.33,NAN
+Royal Bank Of Canada,138.66,NAN
+SAP,136.85,NAN
+QUALCOMM,134.78,NAN
+Caterpillar,134.50,NAN
+PetroChina,133.87,NAN
+Bank of China,133.02,NAN
+AIA,131.92,NAN
+Meituan,131.24,NAN
+Union Pacific Corporation,131.09,NAN
+China Life Insurance,130.76,NAN
+IBM,130.76,NAN
+Deere & Company,130.63,NAN
+Unilever,130.24,NAN
+Lowe's Companies,128.29,NAN
+Boeing,127.61,NAN
+Goldman Sachs,126.64,NAN
+Commonwealth Bank,126.29,NAN
+Rio Tinto,125.69,NAN
+HDFC Bank,125.51,NAN
+Anheuser-Busch Inbev,124.31,NAN
+Intel,124.26,NAN
+Sanofi,123.57,NAN
+Starbucks,123.07,NAN
+Siemens,122.91,NAN
+Pinduoduo,122.64,NAN
+Toronto Dominion Bank,120.80,NAN
+S&P Global,119.81,NAN
+Wuliangye Yibin,119.63,NAN
+CVS Health,118.15,NAN
+Lockheed Martin,117.88,NAN
+American Express,116.38,NAN
+Elevance Health,115.35,NAN
+AMD,114.47,NAN
+Jingdong Mall,113.48,NAN
+BlackRock,112.91,NAN
+Prologis,112.52,NAN
+Deutsche Telekom,110.82,NAN
+Intuit,110.46,NAN
+American Tower,108.39,NAN
+Gilead Sciences,108.20,NAN
+TAQA,107.75,NAN
+BP,107.46,NAN
+Medtronic,107.19,NAN
+BYD,106.16,NAN
+Sony,105.95,NAN
+Diageo,103.84,NAN
+Keyence,103.07,NAN
+Automatic Data Processing,101.78,NAN
+Porsche,101.31,NAN
+NTT (Nippon Telegraph & Telephone),100.55,NAN
+Mitsubishi UFJ Financial,99.04,NAN
+Airbus,98.71,NAN
+Stryker Corporation,98.32,NAN
+Equinor,98.03,NAN
+Citigroup,96.68,NAN
+CSL,96.40,NAN
+Cigna,96.06,NAN
+Allianz,95.92,NAN
+Estee Lauder,95.34,NAN
+Chubb,94.29,NAN
+TJX Companies,94.20,NAN
+Merck KGaA,94.03,NAN
+Inditex,93.01,NAN
+Applied Materials,92.83,NAN
+Mondelez,91.57,NAN
+Intuitive Surgical,91.49,NAN
+LG Energy Solution,90.87,NAN
+PayPal,90.60,NAN
+Schneider Electric,89.68,NAN
+Booking Holdings (Booking.com),89.26,NAN
+General Electric,87.63,NAN
+Glencore,87.42,NAN
+Marsh & McLennan Companies,86.38,NAN
+Analog Devices,86.06,NAN
+British American Tobacco,85.85,NAN
+Vale,85.43,NAN
+EssilorLuxottica,85.34,NAN
+Enbridge,84.62,NAN
+Compagnie Financière Richemont,84.48,NAN
+Canadian National Railway,83.84,NAN
+ServiceNow,83.80,NAN
+Al Rajhi Bank,83.11,NAN
+Schlumberger,82.64,NAN
+Air Liquide,82.56,NAN
+Altria Group,81.75,NAN
+China Shenhua Energy,81.09,NAN
+Duke Energy,80.84,NAN
+BNP Paribas,80.18,NAN
+Volkswagen,80.00,NAN
+Regeneron Pharmaceuticals,78.64,NAN
+Progressive,78.18,NAN
+Mercedes-Benz,77.97,NAN
+Infosys,77.58,NAN
+Vertex Pharmaceuticals,77.24,NAN
+Sinopec,76.56,NAN
+Southern Company,76.55,NAN
+EOG Resources,76.04,NAN
+SABIC,76.00,NAN
+Target,75.76,NAN
+ICICI Bank,75.59,NAN
+Hindustan Unilever,75.10,NAN
+Zoetis,75.00,NAN
+Kering,74.48,NAN
+Moderna,73.76,NAN
+Canadian Pacific Railway,73.66,NAN
+HCA Healthcare,73.18,NAN
+Becton Dickinson,72.72,NAN
+GlaxoSmithKline,72.42,NAN
+U.S. Bancorp,72.42,NAN
+Iberdrola,72.22,NAN
+Illinois Tool Works,71.64,NAN
+3M,71.58,NAN
+China Tourism Group Duty Free,71.45,NAN
+China Yangtze Power,71.17,NAN
+Northrop Grumman,71.01,NAN
+AXA,70.81,NAN
+Zurich Insurance Group,70.78,NAN
+Petrobras,70.69,NAN
+Alpha Dhabi,70.46,NAN
+National Australia Bank,69.52,NAN
+Walmex,69.25,NAN
+Air Products and Chemicals,69.12,NAN
+Bank of Montreal,68.95,NAN
+CSX Corporation,68.16,NAN
+DBS Group,67.85,NAN
+CNOOC,66.99,NAN
+Equinix,66.80,NAN
+Boston Scientific,66.64,NAN
+Bank Central Asia,66.36,NAN
+State Bank of India,66.23,NAN
+SoftBank,66.18,NAN
+PNC Financial Services,66.14,NAN
+UBS,66.12,NAN
+General Dynamics,65.97,NAN
+Postal Savings Bank of China,65.92,NAN
+BMW,65.62,NAN
+Aon,65.60,NAN
+Eaton,65.40,NAN
+Crown Castle,65.32,NAN
+Fiserv,65.12,NAN
+Colgate-Palmolive,65.02,NAN
+America Movil,64.92,NAN
+Nongfu Spring,64.80,NAN
+Lam Research,64.59,NAN
+KDDI,64.56,NAN
+Freeport-McMoRan,64.39,NAN
+Sherwin-Williams,63.71,NAN
+Enel,63.64,NAN
+Canadian Natural Resources,63.56,NAN
+Airbnb,63.55,NAN
+Waste Management,63.29,NAN
+CME Group,63.17,NAN
+Truist Financial,63.11,NAN
+ABB,62.67,NAN
+Humana,62.20,NAN
+Micron Technology,62.12,NAN
+Vinci,61.90,NAN
+Mindray,61.86,NAN
+Investor AB,61.79,NAN
+Scotiabank,61.61,NAN
+Sumitomo Mitsui Financial Group,61.44,NAN
+Blackstone Group,61.39,NAN
+Bayer,61.01,NAN
+Siemens Healthineers,60.88,NAN
+Daiichi Sankyō,60.70,NAN
+KKR & Co.,60.60,NAN
+Charter Communications,60.47,NAN
+Midea,60.25,NAN
+Emirates Telecom (Etisalat Group),60.23,NAN
+Intercontinental Exchange,60.11,NAN
+Activision Blizzard,59.99,NAN
+Southern Copper,59.57,NAN
+KLA,59.52,NAN
+Occidental Petroleum,59.36,NAN
+The Saudi National Bank,59.23,NAN
+Norfolk Southern,59.06,NAN
+Hong Kong Exchanges & Clearing,59.00,NAN
+Atlas Copco,58.92,NAN
+Foshan Haitian Flavouring and Food,58.83,NAN
+Uber,58.71,NAN
+Safran,58.68,NAN
+Housing Development Finance Corporation,58.33,NAN
+Westpac Banking,58.29,NAN
+Anglo American,58.17,NAN
+China Telecom,58.05,NAN
+NetEase,58.03,NAN
+Moody's,57.62,NAN
+Verbund AG,57.54,NAN
+Heineken,57.26,NAN
+Marathon Petroleum,57.14,NAN
+Emerson,57.01,NAN
+Fast Retailing,56.99,NAN
+Pioneer Natural Resources,56.78,NAN
+Santander,56.75,NAN
+Industrial Bank,56.52,NAN
+Thomson Reuters,56.47,NAN
+MetLife,56.42,NAN
+Enterprise Products,56.02,NAN
+RELX,55.76,NAN
+Bharti Airtel,55.70,NAN
+ENI,55.40,NAN
+Life Insurance Corporation of India (LIC),55.21,NAN
+MercadoLibre,54.46,NAN
+Pernod Ricard,54.25,NAN
+McKesson,54.13,NAN
+United Heavy Machinery,53.58,NAN
+Vmware,53.41,NAN
+Monster Beverage,53.29,NAN
+Tokyo Electron,53.07,NAN
+BASF,52.95,NAN
+Reckitt Benckiser,52.50,NAN
+Valero Energy,52.48,NAN
+Dominion Energy,52.42,NAN
+Dollar General,52.20,NAN
+ANZ Bank,52.08,NAN
+Kraft Heinz,51.96,NAN
+General Motors,51.86,NAN
+Deutsche Post,51.58,NAN
+Dassault Systèmes,51.56,NAN
+Shin-Etsu Chemical,51.37,NAN
+Public Storage,51.22,NAN
+Marriott International,51.20,NAN
+Ford,51.14,NAN
+O'Reilly Automotive,51.02,NAN
+Adani Enterprises,50.78,NAN
+Synopsys,50.75,NAN
+Recruit,50.72,NAN
+EDF (Electricité de France),50.67,NAN
+Sempra Energy,50.55,NAN
+Keurig Dr Pepper,50.54,NAN
+Adani Total Gas,50.52,NAN
+Saudi Telecom Company,50.47,NAN
+ITC,50.44,NAN
+Takeda Pharmaceutical,50.05,NAN
+Bank of Communications,50.03,NAN
+LONGi Green Energy Technology,49.78,NAN
+ING,49.74,NAN
+Stellantis,49.55,NAN
+Shopify,49.47,NAN
+Woodside Energy,49.02,NAN
+London Stock Exchange,48.97,NAN
+Nintendo,48.95,NAN
+Hikvision,48.79,NAN
+Munich RE (Münchener Rück),48.76,NAN
+American Electric Power,48.73,NAN
+Itaú Unibanco,48.71,NAN
+Phillips 66,48.69,NAN
+General Mills,48.64,NAN
+Archer Daniels Midland (ADM),48.56,NAN
+Macquarie,48.48,NAN
+Edwards Lifesciences,48.41,NAN
+Mitsubishi Corporation,48.33,NAN
+First Abu Dhabi Bank,48.24,NAN
+Oriental Land,48.22,NAN
+Maaden,48.12,NAN
+Daikin,48.11,NAN
+Baidu,48.02,NAN
+Fortescue,47.90,NAN
+American International Group,47.85,NAN
+Amphenol,47.82,NAN
+Roper Technologies,47.82,NAN
+SK Hynix,47.68,NAN
+FedEx,47.60,NAN
+Intesa Sanpaolo,47.34,NAN
+Johnson Controls,47.26,NAN
+Simon Property Group,46.99,NAN
+Hess,46.92,NAN
+Alimentation Couche-Tard,46.90,NAN
+Universal Music Group,46.62,NAN
+The Hershey Company,46.47,NAN
+Agilent Technologies,46.45,NAN
+National Grid,46.43,NAN
+Cadence Design Systems,46.43,NAN
+Samsung Biologics,46.42,NAN
+Hitachi,46.28,NAN
+Kimberly-Clark,46.17,NAN
+Itōchū Shōji,45.79,NAN
+Cintas,45.61,NAN
+The Travelers Companies,45.44,NAN
+Mitsui Bussan,45.36,NAN
+Adyen,45.32,NAN
+Bank Rakyat Indonesia,45.31,NAN
+Snowflake,45.30,NAN
+Aflac,45.29,NAN
+CITIC Securities,45.28,NAN
+Infineon,44.98,NAN
+Foxconn (Hon Hai Precision Industry),44.90,NAN
+Corteva,44.81,NAN
+Bajaj Finance,44.78,NAN
+Wanhua Chemical,44.73,NAN
+Zijin Mining,44.70,NAN
+S.F. Express,44.63,NAN
+NXP Semiconductors,44.52,NAN
+Motorola Solutions,44.47,NAN
+AutoZone,44.45,NAN
+East Money Information,44.41,NAN
+Bayan Resources,44.25,NAN
+Ecolab,43.98,NAN
+Suncor Energy,43.76,NAN
+Realty Income,43.70,NAN
+Ping An Bank,43.67,NAN
+Prudential,43.65,NAN
+Kotak Mahindra Bank,43.62,NAN
+Centene,43.62,NAN
+Budweiser APAC,43.58,NAN
+Banco Santander Brasil,43.57,NAN
+Paychex,43.36,NAN
+Autodesk,43.28,NAN
+WuXi AppTec,43.23,NAN
+Newmont,43.13,NAN
+Exelon Corporation,43.10,NAN
+Ferrari,43.03,NAN
+OCBC Bank,42.99,NAN
+Workday,42.95,NAN
+Block,42.85,NAN
+TC Energy,42.83,NAN
+Ambev,42.77,NAN
+BCE,42.58,NAN
+DexCom,42.57,NAN
+Nordea Bank,42.53,NAN
+Kinder Morgan,42.36,NAN
+Chipotle Mexican Grill,42.26,NAN
+Tokio Marine,42.26,NAN
+Trane Technologies,42.21,NAN
+Naspers,42.03,NAN
+Las Vegas Sands,42.00,NAN
+Palo Alto Networks,41.98,NAN
+YANGHE,41.89,NAN
+Apollo Global Management,41.82,NAN
+Sika,41.73,NAN
+Mizuho Financial Group,41.68,NAN
+Devon Energy,41.56,NAN
+Banco Bilbao Vizcaya Argentaria,41.54,NAN
+Constellation Brands,41.52,NAN
+Biogen,41.47,NAN
+Arthur J. Gallagher & Co.,41.44,NAN
+Fidelity National Information Services,41.38,NAN
+Ørsted,41.36,NAN
+Ross Stores,41.32,NAN
+Dow,41.29,NAN
+IQVIA,41.26,NAN
+Microchip Technology,41.20,NAN
+Chugai Pharmaceutical,41.06,NAN
+Jiangsu Hengrui Medicine,41.06,NAN
+Compass Group,41.02,NAN
+7-Eleven,41.02,NAN
+Muyuan Foods,40.83,NAN
+Parker-Hannifin,40.76,NAN
+Adani Green Energy,40.74,NAN
+Sysco,40.70,NAN
+Lloyds Banking Group,40.54,NAN
+Nucor,40.42,NAN
+MSCI,40.39,NAN
+Sun Hung Kai Properties,40.30,NAN
+lululemon athletica,40.22,NAN
+Anta Sports,40.03,NAN
+Williams Companies,39.97,NAN
+Lonza,39.95,NAN
+Honda,39.89,NAN
+IDEXX Laboratories,39.67,NAN
+Bank of New York Mellon,39.63,NAN
+Kuaishou Technology,39.62,NAN
+CIBC,39.62,NAN
+WuXi Biologics,39.57,NAN
+Republic Services,39.46,NAN
+TE Connectivity,39.41,NAN
+Capital One,39.25,NAN
+Volvo Group,39.24,NAN
+Energy Transfer Partners,39.22,NAN
+Nutrien,39.13,NAN
+Xcel Energy,38.94,NAN
+Cheniere Energy,38.91,NAN
+Halliburton,38.73,NAN
+Wesfarmers,38.50,NAN
+Carrier,38.35,NAN
+Maersk,38.22,NAN
+Fortinet,38.17,NAN
+LG Chem,38.03,NAN
+Denso,37.83,NAN
+Neste,37.82,NAN
+Atlassian,37.81,NAN
+Hapag-Lloyd,37.81,NAN
+Xiaomi,37.76,NAN
+UOB,37.55,NAN
+L3Harris Technologies,37.53,NAN
+Bank of China (Hong Kong),37.43,NAN
+Dupont De Nemours,37.35,NAN
+TransDigm,37.18,NAN
+STMicroelectronics,37.17,NAN
+Adani Transmission,37.17,NAN
+Prudential Financial,37.16,NAN
+Cenovus Energy,37.11,NAN
+Haier Smart Home,37.05,NAN
+Hilton Worldwide,37.02,NAN
+MediaTek,37.00,NAN
+Larsen & Toubro,36.96,NAN
+Haleon,36.89,NAN
+Allstate,36.85,NAN
+Yum! Brands,36.68,NAN
+HCL Technologies,36.52,NAN
+Jardine Matheson,36.44,NAN
+Alcon,36.28,NAN
+Grupo México,36.27,NAN
+Hoya,36.17,NAN
+AIER Eye Hospital,35.96,NAN
+Constellation Software,35.80,NAN
+Paccar,35.70,NAN
+Cummins,35.62,NAN
+Barclays,35.55,NAN
+NatWest Group,35.54,NAN
+Manulife Financial,35.52,NAN
+Ameriprise Financial,35.45,NAN
+Arista Networks,35.33,NAN
+BioNTech,35.20,NAN
+Danone,35.07,NAN
+Japan Tobacco,34.93,NAN
+Crédit Agricole,34.87,NAN
+Old Dominion Freight Line,34.84,NAN
+ENGIE,34.75,NAN
+Mettler-Toledo,34.72,NAN
+Marvell Technology Group,34.69,NAN
+Otis Worldwide,34.68,NAN
+Electronic Arts,34.63,NAN
+Barrick Gold,34.60,NAN
+Murata Manufacturing (Murata Seisakusho),34.47,NAN
+Asian Paints,34.41,NAN
+Axis Bank,34.39,NAN
+China Pacific Insurance,34.26,NAN
+Consolidated Edison,34.24,NAN
+DSV,34.23,NAN
+MPLX,34.21,NAN
+China State Construction Engineering,34.17,NAN
+Cement Roadstone Holding,33.98,NAN
+Japan Post Bank,33.80,NAN
+Sea (Garena),33.77,NAN
+Pacific Gas and Electric,33.72,NAN
+Samsung SDI,33.71,NAN
+Bank of Ningbo,33.70,NAN
+Holcim Group,33.63,NAN
+Welltower,33.61,NAN
+Waste Connections,33.58,NAN
+Ametek,33.55,NAN
+MTR Corporation,33.55,NAN
+Enphase Energy,33.41,NAN
+CITIC limited,33.22,NAN
+AmerisourceBergen,33.19,NAN
+SBA Communications,33.09,NAN
+CoStar Group,32.96,NAN
+D. R. Horton,32.93,NAN
+Cognizant Technology Solutions,32.92,NAN
+Rockwell Automation,32.73,NAN
+CITIC Bank,32.70,NAN
+Deutsche Börse,32.62,NAN
+Dollar Tree,32.57,NAN
+Kroger,32.36,NAN
+Telstra,32.36,NAN
+Keysight,32.29,NAN
+GlobalFoundries,32.23,NAN
+Experian,32.23,NAN
+Interactive Brokers,32.18,NAN
+Brown Forman,32.16,NAN
+WEG ON,32.14,NAN
+Shanghai Pudong Development Bank,32.10,NAN
+Nidec,32.00,NAN
+ResMed,31.94,NAN
+VICI Properties,31.92,NAN
+Airports of Thailand,31.92,NAN
+Yili Group,31.89,NAN
+Baker Hughes,31.89,NAN
+Capgemini,31.79,NAN
+Walgreens Boots Alliance,31.72,NAN
+CaixaBank,31.67,NAN
+Oneok,31.65,NAN
+Illumina,31.63,NAN
+Warner Bros. Discovery,31.62,NAN
+Luxshare Precision,31.62,NAN
+Vestas Wind Systems,31.58,NAN
+BAE Systems,31.49,NAN
+Vanke,31.36,NAN
+Hang Seng Bank,31.33,NAN
+PSEG,31.26,NAN
+Hyundai,31.19,NAN
+Maruti Suzuki India,31.15,NAN
+Digital Realty,31.14,NAN
+UniCredit,31.13,NAN
+Banco Bradesco,31.12,NAN
+Nasdaq,31.12,NAN
+PPG Industries,31.11,NAN
+The People's Insurance Company (PICC),31.03,NAN
+Singtel,30.97,NAN
+Hexagon,30.75,NAN
+People’s Insurance Company of China,30.73,NAN
+Fanuc,30.73,NAN
+Great Wall Motors,30.70,NAN
+RWE,30.69,NAN
+SMC corp,30.64,NAN
+Vodafone,30.61,NAN
+Sun Pharmaceutical,30.57,NAN
+LyondellBasell,30.52,NAN
+Corning,30.50,NAN
+State Street Corporation,30.44,NAN
+Fomento Económico Mexicano,30.41,NAN
+KBC,30.29,NAN
+Galaxy Entertainment,30.29,NAN
+WEC Energy Group,30.20,NAN
+Swisscom,30.15,NAN
+Japan Post Holdings,30.14,NAN
+Telus,30.07,NAN
+China Overseas Land & Investment,30.06,NAN
+Henkel,30.03,NAN
+Ahold Delhaize,30.01,NAN
+Coupang,29.93,NAN
+Copart,29.92,NAN
+Compagnie de Saint-Gobain,29.83,NAN
+Givaudan,29.82,NAN
+Gree Electric Appliances,29.81,NAN
+Generali,29.81,NAN
+PTT PCL,29.78,NAN
+KONE,29.72,NAN
+Adidas,29.67,NAN
+Restaurant Brands International,29.64,NAN
+International Flavors & Fragrances,29.63,NAN
+EQT,29.59,NAN
+DNB,29.36,NAN
+DMart,29.32,NAN
+Discover Financial Services,29.28,NAN
+Transurban,29.26,NAN
+Eversource Energy,29.26,NAN
+Chunghwa Telecom,29.23,NAN
+Global Payments,29.11,NAN
+W. W. Grainger,28.99,NAN
+Alnylam Pharmaceuticals,28.97,NAN
+American Water Works,28.88,NAN
+Ferguson,28.80,NAN
+Dell,28.77,NAN
+Verisk Analytics,28.76,NAN
+Woolworths Group,28.75,NAN
+Kühne + Nagel,28.73,NAN
+Imperial Oil,28.71,NAN
+Orange,28.62,NAN
+Swiss Re,28.58,NAN
+Sartorius,28.47,NAN
+Albemarle,28.37,NAN
+Sun Life Financial,28.34,NAN
+ON Semiconductor,28.17,NAN
+Foxconn Industrial Internet,28.15,NAN
+Lennar,28.15,NAN
+Nokia,28.15,NAN
+BeiGene,28.13,NAN
+Franco-Nevada,28.11,NAN
+E.ON,28.10,NAN
+Loblaw Companies,28.02,NAN
+Fastenal,27.96,NAN
+Constellation Energy,27.84,NAN
+Bank Mandiri,27.83,NAN
+Amadeus IT Group,27.67,NAN
+Cheniere Energy,27.63,NAN
+Willis Towers Watson,27.56,NAN
+Ashtead,27.52,NAN
+Aptiv,27.51,NAN
+JD Health,27.44,NAN
+HP,27.41,NAN
+Beiersdorf,27.33,NAN
+CBRE Group,27.20,NAN
+United Rentals,27.18,NAN
+Flutter Entertainment,27.18,NAN
+Bajaj Finserv,27.13,NAN
+Naturgy,27.06,NAN
+Fujitsu,27.05,NAN
+Astellas Pharma,26.92,NAN
+Shenzhen Inovance,26.68,NAN
+Sampo,26.66,NAN
+Thales,26.61,NAN
+Equifax,26.57,NAN
+Gartner,26.55,NAN
+Wolters Kluwer,26.50,NAN
+Genmab,26.49,NAN
+T. Rowe Price,26.48,NAN
+Mobileye,26.44,NAN
+Diamondback Energy,26.42,NAN
+CDW Corporation,26.38,NAN
+Formosa Petrochemical,26.36,NAN
+Titan Company,26.28,NAN
+Assa Abloy,26.27,NAN
+Wipro,26.22,NAN
+Daimler Truck,26.11,NAN
+Intact Financial,26.09,NAN
+Edison International,26.04,NAN
+Skandinaviska Enskilda Banken,25.96,NAN
+Deutsche Bank,25.93,NAN
+Coloplast,25.90,NAN
+Zimmer Biomet,25.89,NAN
+SMIC,25.88,NAN
+UltraTech Cement,25.84,NAN
+M&T Bank,25.81,NAN
+China Securities,25.73,NAN
+Coca-Cola European Partners,25.73,NAN
+Horizon Therapeutics,25.70,NAN
+SAIC Motor,25.63,NAN
+Veeva Systems,25.57,NAN
+Alexandria Real Estate Equities,25.52,NAN
+Agnico Eagle Mines,25.50,NAN
+Saudi Electricity,25.50,NAN
+ArcelorMittal,25.43,NAN
+EnBW Energie,25.41,NAN
+Riyad Bank,25.41,NAN
+Sandvik,25.28,NAN
+Yum China,25.20,NAN
+Hormel Foods,25.19,NAN
+China Resources Beer,25.13,NAN
+eBay,25.10,NAN
+ULTA Beauty,24.98,NAN
+Partners Group,24.97,NAN
+Raymond James,24.97,NAN
+Goodman Group,24.96,NAN
+Bridgestone,24.84,NAN
+Standard Chartered,24.84,NAN
+Lindt,24.75,NAN
+CK Hutchison Holdings,24.69,NAN
+Telkom Indonesia,24.67,NAN
+National Bank of Canada,24.67,NAN
+Cellnex Telecom,24.62,NAN
+KE Holdings,24.62,NAN
+Seagen,24.53,NAN
+Delta Air Lines,24.49,NAN
+Maybank,24.48,NAN
+FirstEnergy,24.43,NAN
+Techtronic Industries,24.43,NAN
+Tractor Supply,24.42,NAN
+The Hartford,24.39,NAN
+Vulcan Materials,24.34,NAN
+Naver,24.33,NAN
+Fubon Financial,24.31,NAN
+Rogers Communication,24.24,NAN
+Banorte,24.21,NAN
+Delta Electronics,24.14,NAN
+Trip.com,24.08,NAN
+Vonovia,24.02,NAN
+Genuine Parts Company,23.93,NAN
+Sociedad Química y Minera,23.89,NAN
+Kellogg's,23.88,NAN
+Ecopetrol,23.88,NAN
+Fortive,23.85,NAN
+Dai-ichi Life Holdings,23.76,NAN
+Equity Residential,23.76,NAN
+Great-West Lifeco,23.70,NAN
+Fifth Third Bank,23.66,NAN
+Legrand,23.63,NAN
+Arch Capital,23.58,NAN
+Hannover Rück,23.56,NAN
+First Republic Bank,23.55,NAN
+Central Japan Railway,23.53,NAN
+CNH Industrial,23.50,NAN
+AvalonBay Communities,23.48,NAN
+Nestlé India,23.41,NAN
+Weyerhaeuser,23.41,NAN
+Shanghai Airport,23.39,NAN
+Imperial Brands,23.37,NAN
+BTG Pactual,23.33,NAN
+CrowdStrike,23.32,NAN
+Ameren,23.30,NAN
+Ingersoll Rand,23.29,NAN
+Tyson Foods,23.25,NAN
+ZTO Express,23.22,NAN
+Koninklijke DSM,23.20,NAN
+Sirius XM,23.18,NAN
+The Trade Desk,23.02,NAN
+China Everbright Bank,23.01,NAN
+Epiroc,22.99,NAN
+Evolution Gaming,22.96,NAN
+CK Asset Holdings,22.96,NAN
+Telefónica,22.92,NAN
+Michelin,22.88,NAN
+Ares Management,22.88,NAN
+Oil & Natural Gas,22.85,NAN
+COSCO Shipping,22.85,NAN
+DTE Energy,22.84,NAN
+Olympus,22.81,NAN
+Kakao,22.76,NAN
+VeriSign,22.67,NAN
+Baxter,22.60,NAN
+PPL,22.53,NAN
+JSW Steel,22.51,NAN
+EDP Renováveis,22.51,NAN
+Trina Solar,22.50,NAN
+Repsol,22.48,NAN
+Entergy,22.48,NAN
+Canon,22.47,NAN
+Borouge,22.42,NAN
+Yankuang Energy (Yanzhou Coal Mining),22.41,NAN
+Datadog,22.37,NAN
+DiDi,22.32,NAN
+Schindler Group,22.32,NAN
+LabCorp,22.30,NAN
+Argenx,22.21,NAN
+Ansys,22.13,NAN
+SSE,22.06,NAN
+Martin Marietta,22.06,NAN
+Anhui Conch Cement,22.03,NAN
+Unicharm,22.03,NAN
+Tesco,22.01,NAN
+BOE Technology,21.99,NAN
+Aena,21.97,NAN
+Southwest Airlines,21.96,NAN
+Li Auto,21.95,NAN
+UDR Apartments,21.91,NAN
+Principal,21.85,NAN
+Chow Tai Fook,21.76,NAN
+McCormick & Company,21.74,NAN
+Sany Heavy Industry,21.57,NAN
+Grupo Bimbo,21.57,NAN
+Endesa,21.49,NAN
+FirstRand,21.43,NAN
+China Minsheng Bank,21.41,NAN
+Teck Resources,21.40,NAN
+Société Générale,21.39,NAN
+Komatsu,21.38,NAN
+China Unicom,21.35,NAN
+Extra Space Storage,21.34,NAN
+Insulet,21.24,NAN
+Quanta Services,21.22,NAN
+Ganfeng Lithium,21.20,NAN
+Sumitomo,21.11,NAN
+Hewlett Packard Enterprise,21.08,NAN
+Ryanair,21.07,NAN
+Xylem,21.07,NAN
+Huntington Bancshares,21.03,NAN
+East Japan Railway,21.03,NAN
+Antofagasta,21.02,NAN
+Mitsubishi Electric,20.97,NAN
+Regions Financial,20.95,NAN
+BioMarin Pharmaceutical,20.94,NAN
+Kia,20.93,NAN
+Adani Ports & SEZ,20.92,NAN
+Straumann,20.90,NAN
+NIBE Industrier,20.86,NAN
+Svenska Handelsbanken,20.85,NAN
+EDP Group,20.83,NAN
+Ferrovial,20.79,NAN
+Veolia,20.78,NAN
+Tenaris,20.73,NAN
+PTT Exploration and Production,20.70,NAN
+CRRC,20.70,NAN
+CGI,20.66,NAN
+Citizens Financial Group,20.54,NAN
+NTT Data,20.46,NAN
+Northern Trust,20.46,NAN
+Atlantia,20.44,NAN
+Terumo,20.43,NAN
+Swedbank,20.35,NAN
+DoorDash,20.31,NAN
+Zoom,20.31,NAN
+Banco do Brasil,20.29,NAN
+H&M,20.28,NAN
+Dover,20.26,NAN
+The Saudi British Bank,20.25,NAN
+Cathay Financial Holding,20.22,NAN
+Fujifilm,20.21,NAN
+Ericsson,20.20,NAN
+Z Holdings,20.17,NAN
+Steris,20.16,NAN
+Cardinal Health,20.15,NAN
+Waters Corporation,20.14,NAN
+Wheaton Precious Metals,20.12,NAN
+Copel,20.11,NAN
+Air China,20.10,NAN
+Fortis,20.08,NAN
+Panasonic,20.07,NAN
+Church & Dwight,19.97,NAN
+Roblox,19.95,NAN
+Nippon Paint,19.92,NAN
+EPAM Systems,19.88,NAN
+Pembina Pipeline,19.87,NAN
+Marubeni,19.83,NAN
+China Tower,19.83,NAN
+NTPC Limited,19.80,NAN
+Coterra Energy,19.79,NAN
+Essity,19.76,NAN
+Carlsberg,19.72,NAN
+NIO,19.71,NAN
+CenterPoint Energy,19.71,NAN
+Hologic,19.65,NAN
+Mahindra & Mahindra,19.60,NAN
+HEICO,19.58,NAN
+Ventas,19.58,NAN
+Steel Dynamics,19.57,NAN
+ČEZ Group,19.56,NAN
+Nan Ya Plastics,19.56,NAN
+Longfor Group,19.55,NAN
+Wilmar International,19.54,NAN
+ORIX,19.53,NAN
+Teledyne,19.50,NAN
+W. R. Berkley,19.47,NAN
+Celltrion,19.45,NAN
+Aker BP,19.42,NAN
+Markel,19.36,NAN
+UPM-Kymmene,19.25,NAN
+China Railway Group,19.23,NAN
+First Solar,19.20,NAN
+Shiseido,19.17,NAN
+Mengniu Dairy,19.16,NAN
+Invitation Homes,19.16,NAN
+Tata Motors,19.08,NAN
+China Southern Airlines,19.02,NAN
+Conagra Brands,19.02,NAN
+Best Buy,18.98,NAN
+Mid-America Apartment Communities,18.97,NAN
+Wabtec,18.93,NAN
+Kanzhun,18.88,NAN
+"M3, Inc",18.85,NAN
+Garmin,18.82,NAN
+Sun Communities,18.81,NAN
+Centrais Electricas Brasileiras,18.80,NAN
+Legal & General,18.79,NAN
+Nexon,18.76,NAN
+SGS,18.76,NAN
+Tsingtao,18.75,NAN
+Align Technology,18.72,NAN
+United Microelectronics,18.72,NAN
+Monolithic Power Systems,18.70,NAN
+POSCO,18.63,NAN
+AES,18.60,NAN
+Rollins,18.60,NAN
+J. B. Hunt,18.60,NAN
+George Weston,18.58,NAN
+CLP Group,18.57,NAN
+CP All,18.56,NAN
+Formosa Plastics,18.56,NAN
+West Pharmaceutical,18.56,NAN
+CMS Energy,18.55,NAN
+Chewy,18.52,NAN
+Powergrid Corporation of India,18.52,NAN
+Porsche SE,18.45,NAN
+Eisai,18.35,NAN
+Geberit,18.35,NAN
+LPL Financial,18.33,NAN
+ICON plc,18.32,NAN
+Magna International,18.32,NAN
+Advanced Info Service (AIS),18.32,NAN
+Hong Kong and China Gas,18.30,NAN
+Paycom,18.27,NAN
+Wharf REIC,18.25,NAN
+Darden Restaurants,18.23,NAN
+Brookfield Renewable Partners,18.12,NAN
+Kaō,18.12,NAN
+Pinterest,18.10,NAN
+Exor,18.06,NAN
+Amcor,18.06,NAN
+Tata Steel,18.02,NAN
+Clorox,18.02,NAN
+IDEX,18.01,NAN
+Incyte,17.98,NAN
+Ball Corporation,17.93,NAN
+Icahn Enterprises,17.92,NAN
+Hindustan Zinc,17.91,NAN
+Nippon Steel,17.90,NAN
+Henderson Land Development,17.88,NAN
+KB Financial Group,17.87,NAN
+Snam,17.85,NAN
+Lasertec,17.80,NAN
+ZTE,17.80,NAN
+Alinma Bank,17.79,NAN
+Danske Bank,17.79,NAN
+Toyota Industries,17.78,NAN
+Spotify,17.77,NAN
+Kyocera,17.71,NAN
+Guotai Junan Securities,17.68,NAN
+Ubiquiti,17.66,NAN
+Vantage Towers,17.64,NAN
+Take 2 Interactive,17.62,NAN
+Associated British Foods,17.61,NAN
+SolarEdge,17.60,NAN
+Saudi Arabian Fertilizer Company,17.57,NAN
+Dollarama,17.54,NAN
+Huatai Securities,17.54,NAN
+Molina Healthcare,17.53,NAN
+Power Corporation of Canada,17.51,NAN
+Fresenius,17.48,NAN
+Renesas Electronics,17.39,NAN
+Royalty Pharma,17.36,NAN
+Brown & Brown,17.35,NAN
+Expeditors,17.33,NAN
+MS&AD Insurance,17.31,NAN
+W. P. Carey,17.29,NAN
+Cooper Companies,17.29,NAN
+China Merchants Securities,17.28,NAN
+UCB,17.26,NAN
+Blue Owl Capital,17.25,NAN
+Nu Holdings,17.24,NAN
+Live Nation,17.23,NAN
+Publicis Groupe,17.23,NAN
+Link REIT,17.19,NAN
+Abiomed,17.18,NAN
+3i Group,17.14,NAN
+Marathon Oil,17.14,NAN
+Abu Dhabi Commercial Bank (ADCB),17.14,NAN
+Omnicom,17.14,NAN
+Standard Bank Group,17.10,NAN
+Cincinnati Financial,17.09,NAN
+Shinhan Financial Group,17.07,NAN
+Targa Resources,17.06,NAN
+Fox Corporation,17.06,NAN
+Chongqing Changan,17.05,NAN
+CF Industries,17.05,NAN
+Swiss Life,17.01,NAN
+PKN Orlen,17.00,NAN
+Otsuka Holdings,16.99,NAN
+KeyCorp (KeyBank),16.96,NAN
+Broadridge Financial Solutions,16.95,NAN
+Santos,16.94,NAN
+Etsy,16.92,NAN
+Ajinomoto,16.91,NAN
+Bolloré,16.91,NAN
+Kubota,16.90,NAN
+PerkinElmer,16.89,NAN
+United Airlines Holdings,16.88,NAN
+Ems-Chemie,16.86,NAN
+Howmet Aerospace,16.85,NAN
+Quest Diagnostics,16.84,NAN
+China Communications Construction,16.81,NAN
+OMV,16.81,NAN
+Avangrid,16.77,NAN
+Warner Music Group,16.77,NAN
+Itaúsa,16.77,NAN
+Tourmaline Oil,16.67,NAN
+Hydro One,16.66,NAN
+Texas Pacific Land Trust,16.62,NAN
+Aeon,16.62,NAN
+China Merchants Shekou Industrial Zone,16.59,NAN
+Swedish Match,16.59,NAN
+Expedia Group,16.55,NAN
+Bank of Jiangsu,16.55,NAN
+Tradeweb,16.54,NAN
+J.M. Smucker Company,16.46,NAN
+Campbell Soup,16.45,NAN
+Mitsui Fudosan,16.44,NAN
+Mitsubishi Estate,16.44,NAN
+Rocket Companies,16.39,NAN
+FMC,16.37,NAN
+Bank of Nanjing,16.36,NAN
+Skyworks Solutions,16.27,NAN
+Coal India,16.21,NAN
+Royal Caribbean,16.19,NAN
+Atmos Energy,16.18,NAN
+Check Point Software,16.17,NAN
+Moncler,16.16,NAN
+First Quantum Minerals,16.15,NAN
+Hyundai Mobis,16.14,NAN
+Rentokil Initial,16.12,NAN
+FactSet,16.11,NAN
+Swire Properties,16.06,NAN
+Norsk Hydro,16.05,NAN
+SBI Life Insurance,16.03,NAN
+Swatch,16.03,NAN
+HDFC Life,15.98,NAN
+Terna,15.97,NAN
+NVR,15.95,NAN
+Jacobs Engineering,15.95,NAN
+China Steel,15.88,NAN
+Symrise,15.86,NAN
+Asahi Group,15.83,NAN
+Brookfield Infrastructure Partners,15.82,NAN
+Avery Dennison,15.81,NAN
+Snap,15.80,NAN
+WSP Global,15.80,NAN
+Teleperformance,15.78,NAN
+The Mosaic Company,15.77,NAN
+PChem (Petronas Chemicals Group),15.68,NAN
+Coles Group,15.67,NAN
+Suzuki Motor,15.64,NAN
+LKQ Corporation,15.63,NAN
+Sonova,15.62,NAN
+BT Group,15.61,NAN
+AerCap,15.61,NAN
+Hai Di Lao Hot Pot,15.56,NAN
+Zscaler,15.47,NAN
+Formula One Group,15.46,NAN
+Fairfax Financial,15.46,NAN
+FICO,15.43,NAN
+ASM International,15.36,NAN
+Aviva,15.33,NAN
+HubSpot,15.33,NAN
+Pidilite,15.32,NAN
+PTC,15.32,NAN
+Philips,15.31,NAN
+Abu Dhabi National Oil Company (ADNOC),15.31,NAN
+Iron Mountain,15.30,NAN
+Aristocrat,15.24,NAN
+Tencent Music,15.23,NAN
+Prada,15.18,NAN
+MGM Resorts,15.18,NAN
+Teradyne,15.17,NAN
+Zebra Technologies,15.16,NAN
+ASE Group,15.11,NAN
+Huazhu Hotels,15.10,NAN
+Coca-Cola FEMSA,15.09,NAN
+Geely,15.09,NAN
+Synchrony,15.07,NAN
+Toshiba,15.07,NAN
+Bunge,15.04,NAN
+Franklin Resources,15.04,NAN
+JDE Peet's,15.01,NAN
+Shimano,15.00,NAN
+Astra International,14.97,NAN
+South32,14.97,NAN
+B3,14.93,NAN
+SVB Financial Group,14.93,NAN
+CTBC Financial Holding,14.90,NAN
+Daiwa House,14.90,NAN
+Lucid Motors,14.90,NAN
+Avantor,14.89,NAN
+Arca Continental,14.88,NAN
+GAC (Guangzhou Automobile Group),14.74,NAN
+Tryg,14.74,NAN
+Siemens Energy,14.74,NAN
+Zhongsheng Group,14.73,NAN
+MFHC,14.73,NAN
+Burlington Stores,14.68,NAN
+Sompo Holdings,14.67,NAN
+Textron,14.66,NAN
+China Railway Construction,14.65,NAN
+Essex Property Trust,14.64,NAN
+Multiply Group,14.60,NAN
+Telenor,14.59,NAN
+Westlake Chemical,14.58,NAN
+Apache Corporation,14.57,NAN
+Gen Digital,14.57,NAN
+Continental,14.56,NAN
+Bangkok Dusit Medical Services (BDMS),14.54,NAN
+Healthpeak Properties,14.54,NAN
+Almarai,14.53,NAN
+Splunk,14.53,NAN
+Rivian,14.53,NAN
+Vedanta,14.50,NAN
+Nitori Holdings,14.50,NAN
+Aéroports de Paris,14.49,NAN
+Palantir,14.47,NAN
+Cloudflare,14.43,NAN
+Evergy,14.43,NAN
+Erste Group Bank,14.43,NAN
+Newcrest Mining,14.42,NAN
+Novozymes,14.41,NAN
+Nomura Research Institute,14.41,NAN
+Inpex,14.39,NAN
+Fleetcor,14.35,NAN
+Enel Américas,14.32,NAN
+Shaw Communications,14.31,NAN
+Sasa Polyester,14.30,NAN
+Loews Corporation,14.29,NAN
+Indian Oil,14.29,NAN
+Volvo Car,14.26,NAN
+Shinkin Central Bank,14.23,NAN
+ABN AMRO,14.22,NAN
+Sodexo,14.16,NAN
+Shionogi,14.14,NAN
+Lamb Weston,14.12,NAN
+Formosa Chemicals & Fibre,14.08,NAN
+ADNOC Drilling Company,14.07,NAN
+MTN Group,14.06,NAN
+CK Infrastructure,14.06,NAN
+Jerónimo Martins,14.04,NAN
+Delivery Hero,14.02,NAN
+SS&C Technologies,14.02,NAN
+Viatris,13.99,NAN
+Fortum,13.97,NAN
+Interpublic Group,13.97,NAN
+Sunny Optical,13.96,NAN
+Akamai,13.94,NAN
+NetApp,13.93,NAN
+Nordson,13.93,NAN
+Alliant Energy,13.93,NAN
+Weichai Power,13.87,NAN
+Huaneng Power,13.87,NAN
+Everest Re,13.82,NAN
+Carrefour,13.81,NAN
+Poste Italiane,13.79,NAN
+Grab Holdings,13.78,NAN
+BDO Unibank,13.77,NAN
+MongoDB,13.68,NAN
+Gaming and Leisure Properties,13.66,NAN
+Dassault Aviation,13.66,NAN
+Carnival,13.66,NAN
+POOLCORP,13.63,NAN
+Credit Suisse,13.62,NAN
+Eurofins Scientific,13.62,NAN
+International Paper,13.60,NAN
+Power Financial,13.55,NAN
+Acciona Energías Renovables,13.51,NAN
+Thai Beverage,13.50,NAN
+Capitec Bank,13.50,NAN
+New China Life Insurance,13.48,NAN
+Corebridge Financial,13.47,NAN
+OBIC,13.46,NAN
+QBE Insurance,13.45,NAN
+Liberty Media,13.45,NAN
+Bandai Namco,13.44,NAN
+Trimble,13.44,NAN
+Leidos,13.44,NAN
+Edenred,13.42,NAN
+Amundi,13.42,NAN
+Bank of Beijing,13.41,NAN
+Axon Enterprise,13.38,NAN
+Chandra Asri Petrochemical,13.37,NAN
+Grasim Industries,13.35,NAN
+Siemens Gamesa,13.34,NAN
+Bio-Rad Laboratories,13.33,NAN
+Sysmex,13.32,NAN
+Toyota Tsusho,13.31,NAN
+Hindalco Industries,13.26,NAN
+Jack Henry & Associates,13.25,NAN
+Resona Holdings,13.25,NAN
+First Horizon National,13.23,NAN
+TransUnion,13.22,NAN
+Snap-on,13.22,NAN
+Cboe,13.20,NAN
+Kimco Realty,13.20,NAN
+Sumitomo Mitsui Trust Holdings,13.20,NAN
+Tyler Technologies,13.18,NAN
+KPN,13.18,NAN
+China Eastern Airlines,13.17,NAN
+Equity LifeStyle Properties,13.17,NAN
+Paramount Global,13.15,NAN
+Stanley Black & Decker,13.15,NAN
+Celanese,13.15,NAN
+Brookfield Asset Management,13.14,NAN
+American Homes 4 Rent,13.14,NAN
+Bank Leumi,13.12,NAN
+Erie Indemnity,13.10,NAN
+Singapore Airlines,13.09,NAN
+Coinbase,13.08,NAN
+Liberty Broadband,13.05,NAN
+Bureau Veritas,13.05,NAN
+Commerzbank,13.04,NAN
+bioMérieux,13.04,NAN
+Julius Bär,13.02,NAN
+Metro,13.01,NAN
+Vodacom,13.00,NAN
+LG Electronics,13.00,NAN
+Siam Cement,12.95,NAN
+Adani Power,12.95,NAN
+AspenTech,12.95,NAN
+Suzano,12.94,NAN
+Alfa Laval,12.94,NAN
+Hansoh Pharma,12.92,NAN
+Siemens India,12.90,NAN
+Grupo Elektra,12.88,NAN
+Match Group,12.88,NAN
+Banque Saudi Fransi,12.87,NAN
+Bank Hapoalim,12.87,NAN
+Tenaga Nasional,12.84,NAN
+MTU Aero Engines,12.83,NAN
+Essential Utilities,12.79,NAN
+AkzoNobel,12.78,NAN
+EQT Corporation,12.77,NAN
+Advantest,12.77,NAN
+Britannia Industries,12.77,NAN
+Uni-President Enterprises,12.76,NAN
+Bank of Shanghai,12.74,NAN
+Carl Zeiss Meditec,12.72,NAN
+Reliance Steel & Aluminum,12.72,NAN
+Unity Software,12.72,NAN
+Hubbell,12.69,NAN
+Bio-Techne,12.69,NAN
+Amerco,12.64,NAN
+NICE,12.64,NAN
+Ambuja Cements,12.63,NAN
+SEGRO,12.60,NAN
+Secom,12.59,NAN
+Worldline,12.57,NAN
+Smith & Nephew,12.57,NAN
+Camden Property Trust,12.56,NAN
+Booz Allen Hamilton,12.56,NAN
+Polestar,12.55,NAN
+GBL,12.54,NAN
+Mitsubishi Heavy Industries,12.52,NAN
+Packaging Corporation of America,12.52,NAN
+Solvay,12.51,NAN
+Nissan,12.49,NAN
+HeidelbergCement,12.48,NAN
+Teva Pharmaceutical Industries,12.48,NAN
+Ovintiv,12.48,NAN
+Bajaj Auto,12.48,NAN
+TDK,12.44,NAN
+Shandong Gold Mining,12.42,NAN
+Taiwan Cooperative Financial,12.42,NAN
+Tech Mahindra,12.40,NAN
+Hana Financial Group,12.39,NAN
+MarketAxess,12.38,NAN
+Carlisle Companies,12.38,NAN
+Telefonica Brasil,12.37,NAN
+Talanx,12.36,NAN
+Hua Xia Bank,12.35,NAN
+Host Hotels & Resorts,12.33,NAN
+POSCO Chemical,12.32,NAN
+WiseTech Global,12.30,NAN
+Sekisui House,12.27,NAN
+Zalando,12.25,NAN
+Exact Sciences,12.25,NAN
+Bunzl,12.24,NAN
+Yonyou,12.23,NAN
+Bouygues,12.23,NAN
+Chesapeake Energy,12.21,NAN
+NN Group,12.20,NAN
+Campari,12.20,NAN
+Carlyle Group,12.19,NAN
+American Financial Group,12.18,NAN
+Stora Enso,12.15,NAN
+Brookfield Property Partners,12.14,NAN
+WPP,12.14,NAN
+Chailease Holding,12.10,NAN
+VF Corporation,12.09,NAN
+Kirin Holdings,12.08,NAN
+The Toro Company,12.08,NAN
+Dabur,12.06,NAN
+IHH Healthcare,12.05,NAN
+Unilever Indonesia,12.02,NAN
+AECOM,11.97,NAN
+Croda International,11.97,NAN
+Bank Albilad,11.97,NAN
+Power Assets,11.95,NAN
+Domino's Pizza,11.94,NAN
+First Citizens BancShares,11.94,NAN
+Nomura Holdings,11.91,NAN
+Graco,11.90,NAN
+United Therapeutics,11.89,NAN
+Arab National Bank,11.88,NAN
+AVEVA,11.87,NAN
+Entegris,11.86,NAN
+Nexi,11.85,NAN
+Rede D'Or Sao Luiz,11.84,NAN
+InterContinental Hotels Group,11.84,NAN
+Charles River Laboratories,11.83,NAN
+Bank of Baroda,11.83,NAN
+IndusInd Bank,11.82,NAN
+Credicorp,11.82,NAN
+Western Digital,11.82,NAN
+Seagate Technology,11.82,NAN
+GoDaddy,11.81,NAN
+kyowa Kirin,11.80,NAN
+Hainan Airlines,11.79,NAN
+Globe Life,11.79,NAN
+Nippon Yūsen,11.77,NAN
+Swire Pacific,11.75,NAN
+Yara International,11.75,NAN
+Boliden,11.74,NAN
+DocuSign,11.73,NAN
+Masco,11.72,NAN
+Aluminum Corporation of China,11.72,NAN
+Orient Overseas Container Line,11.72,NAN
+CNA Financial,11.71,NAN
+Aramark,11.70,NAN
+Renault,11.70,NAN
+Mineral Resources,11.69,NAN
+Randstad,11.68,NAN
+Sino Biopharmaceutical,11.68,NAN
+First Financial Holding,11.66,NAN
+Godrej,11.63,NAN
+Vifor Pharma,11.62,NAN
+CIMB Group,11.60,NAN
+PulteGroup,11.55,NAN
+Subaru,11.53,NAN
+E.SUN Bank,11.52,NAN
+Qiagen,11.51,NAN
+SCB (Siam Commercial Bank),11.50,NAN
+ZoomInfo,11.45,NAN
+Saputo,11.45,NAN
+Albertsons,11.43,NAN
+Lufthansa,11.42,NAN
+Ryan Specialty Group,11.41,NAN
+DLF,11.38,NAN
+REA Group,11.36,NAN
+Wynn Resorts,11.35,NAN
+Informa plc,11.35,NAN
+KakaoBank,11.34,NAN
+Impala Platinum,11.34,NAN
+Brambles,11.34,NAN
+Regency Centers,11.33,NAN
+Gold Fields,11.30,NAN
+Hotai Motor,11.30,NAN
+Teleflex,11.30,NAN
+Equitable Holdings,11.29,NAN
+News Corp,11.28,NAN
+NiSource,11.28,NAN
+Brenntag,11.25,NAN
+Hyatt Hotels,11.24,NAN
+Fidelity National Financial,11.23,NAN
+RPM International,11.23,NAN
+Lundbergföretagen,11.22,NAN
+Kasikornbank,11.20,NAN
+Okta,11.17,NAN
+Industrivarden,11.16,NAN
+Rexford Industrial,11.16,NAN
+Boston Properties,11.16,NAN
+Deckers Brands,11.14,NAN
+Acciona,11.13,NAN
+Sarepta Therapeutics,11.12,NAN
+Sasol,11.11,NAN
+Rolls-Royce Holdings,11.07,NAN
+Full Truck Alliance,11.06,NAN
+American Airlines,11.06,NAN
+Molson Coors,11.04,NAN
+Cameco,11.03,NAN
+C. H. Robinson,11.02,NAN
+Barry Callebaut,11.01,NAN
+FinecoBank,11.00,NAN
+Eastman Chemical,10.96,NAN
+Bentley Systems,10.95,NAN
+Service Corporation International,10.94,NAN
+AEGON,10.93,NAN
+SK Innovation,10.92,NAN
+Scentre Group,10.92,NAN
+Bill.com,10.91,NAN
+Gerdau,10.91,NAN
+Hongkong Land,10.91,NAN
+Western Midstream,10.90,NAN
+Henry Schein,10.89,NAN
+Divis Laboratories,10.89,NAN
+Larsen & Toubro Infotech,10.88,NAN
+Ono Pharmaceutical,10.88,NAN
+Flex,10.88,NAN
+Vivendi,10.87,NAN
+Ivanhoe Mines,10.86,NAN
+Magellan Midstream Partners,10.82,NAN
+Amdocs,10.81,NAN
+Emera,10.80,NAN
+Paylocity,10.80,NAN
+Bank Negara Indonesia,10.79,NAN
+Sumitomo Realty & Development,10.79,NAN
+Cleveland-Cliffs,10.78,NAN
+Darling Ingredients,10.76,NAN
+Disco Corp.,10.75,NAN
+ENEOS Holdings,10.75,NAN
+Dick's Sporting Goods,10.73,NAN
+Bilibili,10.71,NAN
+Ramsay Health Care,10.70,NAN
+Shree Cement,10.68,NAN
+Bath & Body Works,10.65,NAN
+Dynatrace,10.65,NAN
+Sumitomo Metal Mining,10.64,NAN
+Watsco,10.64,NAN
+Annaly Capital Management,10.62,NAN
+Pan Pacific,10.59,NAN
+TPG Capital,10.59,NAN
+Evergreen Marine,10.58,NAN
+Builders FirstSource,10.58,NAN
+Turkish Airlines,10.57,NAN
+Yakult,10.56,NAN
+Five Below,10.56,NAN
+Eicher Motors,10.56,NAN
+Universal Health Services,10.55,NAN
+Alstom,10.55,NAN
+AGCO,10.54,NAN
+Synnex,10.53,NAN
+Cipla,10.53,NAN
+Telia Company,10.52,NAN
+Crown Holdings,10.50,NAN
+Korea Electric Power,10.50,NAN
+Burberry,10.50,NAN
+Sonic Healthcare,10.48,NAN
+Neurocrine Biosciences,10.47,NAN
+Sino Land,10.46,NAN
+Next plc,10.46,NAN
+Fresenius Medical Care,10.46,NAN
+Tapestry,10.45,NAN
+Hua Nan Financial Holdings,10.45,NAN
+HF Sinclair,10.44,NAN
+Entain,10.42,NAN
+Spirax-Sarco Engineering,10.42,NAN
+BorgWarner,10.41,NAN
+GFL Environmental,10.40,NAN
+Banco de Chile,10.40,NAN
+Ceridian,10.38,NAN
+INWIT,10.38,NAN
+Lamar Advertising,10.38,NAN
+Caesars Entertainment,10.37,NAN
+Samsung Life Insurance,10.37,NAN
+Toast,10.36,NAN
+Suncorp,10.36,NAN
+Juniper Networks,10.36,NAN
+LG Corp,10.36,NAN
+Jabil,10.35,NAN
+Knorr-Bremse,10.34,NAN
+Localiza,10.32,NAN
+Freddie Mac,10.30,NAN
+Galp Energia,10.29,NAN
+CarMax,10.27,NAN
+Zillow,10.25,NAN
+CapitaLand Mall Trust,10.23,NAN
+PUMA,10.23,NAN
+Morningstar,10.22,NAN
+Deutsche Wohnen,10.21,NAN
+Hindustan Aeronautics,10.19,NAN
+Suntory,10.19,NAN
+PKO Bank Polski,10.18,NAN
+Qorvo,10.17,NAN
+Country Garden,10.15,NAN
+Vail Resorts,10.15,NAN
+Rheinmetall,10.14,NAN
+JD Sports Fashion,10.14,NAN
+Omron,10.12,NAN
+Adevinta,10.10,NAN
+Prysmian Group,10.10,NAN
+West Japan Railway,10.08,NAN
+Bruker,10.07,NAN
+ANA Holdings,10.06,NAN
+Evonik Industries,10.04,NAN
+Halma,10.02,NAN
+ENKA,9.99,NAN
+Allegion,9.99,NAN
+Liberty Global,9.98,NAN
+Koç Holding,9.98,NAN
+(HLBank) Hong Leong Bank,9.97,NAN
+InterGlobe Aviation,9.96,NAN
+Northern Star,9.95,NAN
+Twilio,9.95,NAN
+Lattice Semiconductor,9.95,NAN
+Eiffage,9.93,NAN
+Asahi Kasei,9.92,NAN
+Computershare,9.92,NAN
+Wolfspeed,9.92,NAN
+Repligen,9.88,NAN
+Novocure,9.86,NAN
+Jazz Pharmaceuticals,9.85,NAN
+Kikkoman,9.83,NAN
+Israel Chemicals,9.81,NAN
+Chr. Hansen,9.78,NAN
+Ares Capital,9.77,NAN
+Reinsurance Group of America,9.75,NAN
+East West Bancorp,9.75,NAN
+Tingyi (master kang),9.75,NAN
+Gjensidige Forsikring,9.74,NAN
+AutoNation,9.73,NAN
+Red Eléctrica,9.69,NAN
+AngloGold Ashanti,9.69,NAN
+Umicore,9.67,NAN
+Hong Kong Telecom,9.66,NAN
+Alcoa,9.66,NAN
+Varun Beverages,9.65,NAN
+China Oilfield Services,9.65,NAN
+Sage Group,9.64,NAN
+WillScot,9.64,NAN
+ESR,9.64,NAN
+Zendesk,9.62,NAN
+AMEC,9.62,NAN
+Rémy Cointreau,9.62,NAN
+Cochlear,9.62,NAN
+Plug Power,9.61,NAN
+Legend Biotech,9.60,NAN
+Westrock,9.56,NAN
+Vipshop,9.56,NAN
+Svenska Cellulosa Aktiebolaget (SCA),9.53,NAN
+Kesko,9.53,NAN
+Ipsen,9.52,NAN
+HELLA,9.51,NAN
+Ampol,9.49,NAN
+A. O. Smith,9.49,NAN
+Al Dar Properties,9.48,NAN
+Keppel,9.47,NAN
+Quanta Computer,9.43,NAN
+CubeSmart,9.43,NAN
+Lenovo,9.42,NAN
+Central Pattana,9.41,NAN
+President Chain Store (PSCS),9.37,NAN
+Yuanta Financial Holding,9.37,NAN
+TFI International,9.37,NAN
+Black Knight,9.36,NAN
+JBS,9.35,NAN
+Performance Food Group,9.35,NAN
+XP Inc.,9.32,NAN
+Bharat Petroleum,9.31,NAN
+International Consolidated Airlines,9.31,NAN
+James Hardie Industries,9.30,NAN
+BJ's Wholesale Club,9.28,NAN
+NEC Corp,9.25,NAN
+Schroders,9.25,NAN
+ASX,9.24,NAN
+Cognex,9.19,NAN
+Abu Dhabi Islamic Bank (ADIB),9.19,NAN
+Bharat Electronics,9.18,NAN
+Origin Energy,9.18,NAN
+Metso Outotec (Mo Group),9.18,NAN
+Toray Industries,9.16,NAN
+Lincoln Electric,9.15,NAN
+Jefferies Financial Group,9.15,NAN
+NOV,9.14,NAN
+Bangkok Bank,9.14,NAN
+Fertiglobe,9.13,NAN
+Genting Singapore,9.12,NAN
+Sofina,9.12,NAN
+VAT Group,9.11,NAN
+Hasbro,9.11,NAN
+Ford Otosan,9.11,NAN
+SIG Combibloc,9.10,NAN
+Adani Wilmar,9.09,NAN
+Havells India,9.08,NAN
+Regal Rexnord,9.08,NAN
+STORE Capital,9.07,NAN
+Yaskawa,9.04,NAN
+IMCD,9.03,NAN
+Largan Precision,9.03,NAN
+Spring Airlines,9.03,NAN
+Penumbra,9.03,NAN
+Elisa,9.02,NAN
+Mowi,9.01,NAN
+SBI Card,9.01,NAN
+Floor & Decor,8.99,NAN
+Mondi,8.98,NAN
+Comerica,8.97,NAN
+Lennox,8.96,NAN
+Yandex,8.95,NAN
+Recordati,8.95,NAN
+Advance Auto Parts,8.94,NAN
+Fisher & Paykel Healthcare,8.94,NAN
+Mizrahi-Tefahot,8.94,NAN
+ADT,8.94,NAN
+Federal Realty Investment Trust,8.93,NAN
+Taiwan Mobile,8.93,NAN
+Antero Resources,8.92,NAN
+Vistra,8.90,NAN
+SG Holdings,8.90,NAN
+LG Household & Health Care,8.90,NAN
+Huntington Ingalls Industries,8.90,NAN
+Advantech,8.90,NAN
+Dr. Reddy's,8.90,NAN
+Mitsui O.S.K. Lines,8.86,NAN
+Knight-Swift,8.86,NAN
+Logitech,8.84,NAN
+F5 Networks,8.84,NAN
+Coca-Cola HBC,8.84,NAN
+Sagax,8.84,NAN
+China Zheshang Bank,8.84,NAN
+Catalent,8.83,NAN
+New Hope Liuhe,8.81,NAN
+Invesco,8.81,NAN
+Cullen/Frost Bankers,8.81,NAN
+OpenText,8.81,NAN
+Samsung Electro-Mechanics,8.81,NAN
+Sumitomo Denki Kōgyō,8.80,NAN
+Mediobanca,8.80,NAN
+Getlink,8.80,NAN
+Commerce Bancshares,8.77,NAN
+Ascendas Reit,8.77,NAN
+Isuzu,8.77,NAN
+DCP Midstream,8.74,NAN
+Genpact,8.74,NAN
+Life Storage,8.73,NAN
+Japan Airlines,8.72,NAN
+Gecina,8.72,NAN
+Abu Dhabi Ports,8.71,NAN
+Grupo Aeroportuario del Pacífico,8.71,NAN
+SK Group,8.71,NAN
+Sibanye-Stillwater,8.71,NAN
+Fresnillo,8.67,NAN
+RenaissanceRe,8.66,NAN
+Owens Corning,8.65,NAN
+Nitto Denko,8.65,NAN
+Euronext,8.64,NAN
+KT&G (Korea Tobacco),8.64,NAN
+Covestro,8.62,NAN
+Taiwan Cement,8.62,NAN
+United Utilities,8.60,NAN
+T&D Holdings,8.60,NAN
+Meridian Energy,8.59,NAN
+Kazatomprom,8.58,NAN
+Becle,8.58,NAN
+Unibail-Rodamco-Westfield,8.58,NAN
+XPeng,8.55,NAN
+Intertek,8.55,NAN
+Williams-Sonoma,8.55,NAN
+Tata Consumer Products,8.55,NAN
+UGI Corporation,8.53,NAN
+Lifco,8.53,NAN
+Pinnacle West Capital,8.52,NAN
+Traton,8.52,NAN
+Banco Santander México,8.51,NAN
+Doosan Enerbility,8.51,NAN
+National Retail Properties,8.50,NAN
+Hang Lung Properties,8.49,NAN
+Penske Automotive,8.46,NAN
+HMM,8.45,NAN
+ICICI Prulife,8.45,NAN
+Signify Health,8.44,NAN
+Royal Gold,8.44,NAN
+Korea Zinc,8.43,NAN
+Plains All American Pipeline,8.42,NAN
+Robert Half,8.40,NAN
+Jones Lang LaSalle,8.40,NAN
+Americold,8.40,NAN
+Whirlpool,8.40,NAN
+Telefónica Deutschland (O2),8.40,NAN
+KEPCO,8.40,NAN
+Celsius Holdings,8.39,NAN
+Choice Properties REIT,8.39,NAN
+Churchill Downs,8.39,NAN
+Azrieli Group,8.39,NAN
+US Foods,8.38,NAN
+QNB Finansbank,8.38,NAN
+Casey's General Stores,8.37,NAN
+Want Want China,8.36,NAN
+SEI Investments,8.36,NAN
+Dropbox,8.36,NAN
+OTP Bank,8.36,NAN
+Wharf Holdings,8.35,NAN
+Webster Financial,8.35,NAN
+Oracle Corp Japan,8.34,NAN
+Dentsu,8.33,NAN
+Tōkyō Gas,8.32,NAN
+Shimadzu,8.32,NAN
+St. James's Place,8.32,NAN
+Pentair,8.31,NAN
+Qantas Airways,8.30,NAN
+Jardine Cycle & Carriage,8.29,NAN
+Indutrade,8.29,NAN
+Insurance Australia Group,8.27,NAN
+China Gas,8.27,NAN
+Switch,8.27,NAN
+Capri Holdings,8.27,NAN
+Admiral Group,8.26,NAN
+Masimo,8.23,NAN
+Unum,8.23,NAN
+Dino Polska,8.22,NAN
+Française des Jeux,8.21,NAN
+Grupo ACS,8.17,NAN
+Agilon Health,8.16,NAN
+Pearson,8.15,NAN
+Organon,8.15,NAN
+Lear Corporation,8.14,NAN
+Tata Power,8.13,NAN
+Middleby,8.13,NAN
+Grupo Aeroportuario del Sureste,8.12,NAN
+ST Engineering,8.11,NAN
+New Fortress Energy,8.10,NAN
+SK Telecom,8.10,NAN
+Coty,8.08,NAN
+Ally,8.08,NAN
+Banque Cantonale Vaudoise,8.07,NAN
+WH Group,8.03,NAN
+Ooredoo,8.02,NAN
+Sinopharm,8.01,NAN
+Indofood CBP,8.01,NAN
+Pure Storage,8.00,NAN
+OGE Energy,7.99,NAN
+Punjab National Bank,7.98,NAN
+CCL Industries,7.97,NAN
+Bajaj Holdings & Investment,7.96,NAN
+Megacable Holdings,7.96,NAN
+Accor,7.95,NAN
+SRF Limited,7.94,NAN
+S-OIL,7.93,NAN
+Marico,7.92,NAN
+Fortune Brands Home & Security,7.92,NAN
+Avis Budget Group,7.91,NAN
+Hamamatsu,7.89,NAN
+SKF (Svenska Kullagerfabriken),7.89,NAN
+Sealed Air,7.88,NAN
+Ocado,7.87,NAN
+Nissin Foods,7.87,NAN
+Tetra Tech,7.87,NAN
+Healthcare Realty,7.85,NAN
+Shoprite,7.85,NAN
+Dentsply Sirona,7.85,NAN
+Pershing Square Holdings,7.85,NAN
+Türkiye Petrol Rafinerileri,7.85,NAN
+Xero,7.85,NAN
+Auckland Airport,7.84,NAN
+GAIL,7.84,NAN
+Ralph Lauren,7.83,NAN
+Acadia Healthcare,7.82,NAN
+NCsoft,7.82,NAN
+PetGas (Petronas Gas),7.78,NAN
+Robinhood,7.78,NAN
+Grifols,7.78,NAN
+GEA Group,7.78,NAN
+Crocs,7.76,NAN
+RaiaDrogasil,7.75,NAN
+Yamaha Motor,7.74,NAN
+DiaSorin,7.74,NAN
+Olin,7.74,NAN
+Iridium Communications,7.74,NAN
+Edison,7.74,NAN
+ARC Resources,7.73,NAN
+YPF (Yacimientos Petrolíferos Fiscales),7.73,NAN
+Americana Restaurants International,7.72,NAN
+WEX,7.69,NAN
+Sinopac Financial Holdings,7.69,NAN
+Rakuten,7.69,NAN
+Dish Network,7.68,NAN
+Zions Bancorporation,7.68,NAN
+Medical Properties Trust,7.67,NAN
+MasTec,7.67,NAN
+Rational AG,7.66,NAN
+Allegro.eu,7.65,NAN
+Orion Corporation,7.65,NAN
+Phoenix Group,7.65,NAN
+AGC,7.65,NAN
+Manhattan Associates,7.63,NAN
+UiPath,7.63,NAN
+Elbit Systems,7.62,NAN
+Canadian Utilities,7.62,NAN
+Japan Exchange Group,7.61,NAN
+Kingdom Holding,7.61,NAN
+Melrose Industries,7.61,NAN
+Kakao Pay,7.61,NAN
+Amkor Technology,7.60,NAN
+Apollo Hospitals,7.60,NAN
+Arabian Internet and Communications Services,7.59,NAN
+Woori Financial Group,7.58,NAN
+Ciena,7.58,NAN
+Banco Santander-Chile,7.56,NAN
+Hess Midstream,7.55,NAN
+ICICI Lombard,7.55,NAN
+Chubu Electric Power,7.55,NAN
+Mohawk Industries,7.53,NAN
+Genscript Biotech,7.52,NAN
+Arkema,7.52,NAN
+Fosun,7.51,NAN
+Donaldson,7.50,NAN
+Concentrix,7.49,NAN
+MISC Berhad,7.49,NAN
+Berry Global,7.49,NAN
+Shanghai Commercial and Savings Bank,7.49,NAN
+Planet Fitness,7.49,NAN
+ABB India,7.49,NAN
+Indian Overseas Bank,7.49,NAN
+Symbotic,7.47,NAN
+Whitbread,7.46,NAN
+Tokyu,7.46,NAN
+RTL Group,7.45,NAN
+Signature Bank,7.44,NAN
+AptarGroup,7.44,NAN
+Globus Medical,7.42,NAN
+Old Republic International,7.42,NAN
+Monotaro,7.42,NAN
+Inspire Medical Systems,7.42,NAN
+Rohm,7.42,NAN
+Jindal Steel & Power,7.40,NAN
+Mitsubishi Chemical Holdings,7.40,NAN
+Chemed,7.39,NAN
+New World Development Company,7.39,NAN
+Nippon Building Fund,7.38,NAN
+Orkla,7.38,NAN
+BKW AG,7.38,NAN
+Erdemir,7.36,NAN
+United Spirits,7.36,NAN
+Advanced Drainage Systems,7.35,NAN
+IDBI Bank,7.35,NAN
+Alfamart,7.35,NAN
+Singapore Exchange,7.34,NAN
+NRG Energy,7.34,NAN
+Zoomlion,7.34,NAN
+Bâloise,7.33,NAN
+Futu Holdings,7.33,NAN
+Pandora,7.33,NAN
+Nestle Malaysia,7.33,NAN
+UnipolSai,7.32,NAN
+Sabesp,7.31,NAN
+Merdeka Copper Gold,7.30,NAN
+Cemex,7.29,NAN
+Oak Street Health,7.29,NAN
+ShockWave Medical,7.29,NAN
+Aisin Seiki,7.29,NAN
+ITT,7.29,NAN
+Etihad Etisalat (Mobily),7.28,NAN
+Emcor,7.27,NAN
+GoTo,7.27,NAN
+Hanwha Solutions,7.26,NAN
+CPFL Energia,7.24,NAN
+New Oriental,7.24,NAN
+IGM Financial,7.24,NAN
+Santander Polska,7.23,NAN
+China Development Financial,7.23,NAN
+Skechers,7.22,NAN
+Dolby,7.21,NAN
+Canara Bank,7.21,NAN
+Valmont Industries,7.21,NAN
+OCI,7.20,NAN
+Generac Power Systems,7.20,NAN
+Indorama Ventures,7.19,NAN
+KT Corporation,7.18,NAN
+Skanska,7.18,NAN
+Washington H. Soul Pattinson and Company (WHSP),7.18,NAN
+Mattel,7.18,NAN
+Far EasTone,7.16,NAN
+Daito Trust Construction,7.16,NAN
+Roivant Sciences,7.15,NAN
+Wacker Chemie,7.15,NAN
+Restoration Hardware,7.15,NAN
+Idemitsu Kosan,7.15,NAN
+Bid Corp,7.15,NAN
+Treasury Wine Estates,7.14,NAN
+Amorepacific,7.14,NAN
+Bancolombia,7.13,NAN
+Yes Bank,7.13,NAN
+Reece Group,7.12,NAN
+DWS Group,7.12,NAN
+Korean Air Lines,7.12,NAN
+DaVita,7.12,NAN
+Procore,7.11,NAN
+Medpace,7.10,NAN
+Meiji Holdings,7.10,NAN
+Elm Company,7.09,NAN
+GlobalWafers,7.09,NAN
+Q Holding,7.09,NAN
+Matador Resources,7.08,NAN
+Canadian Tire,7.07,NAN
+Roku,7.07,NAN
+KGHM Polska Miedź,7.07,NAN
+JFE Holdings,7.07,NAN
+Sainsbury's,7.06,NAN
+ZOZO,7.05,NAN
+Sanlam,7.04,NAN
+Cathay Pacific,7.04,NAN
+Yang Ming,7.04,NAN
+Klépierre,7.04,NAN
+Aselsan,7.04,NAN
+Western Alliance Bancorporation,7.03,NAN
+Globant,7.02,NAN
+KBR,7.02,NAN
+Ternium,7.01,NAN
+EastGroup Properties,7.01,NAN
+Saudi International Petrochemical Company (Sipchem),7.01,NAN
+Arrow Electronics,7.00,NAN
+Atlas Arteria,6.99,NAN
+Hankyu Hanshin Holdings,6.99,NAN
+Cholamandalam Investment and Finance,6.99,NAN
+Mindtree,6.98,NAN
+Swiss Prime Site,6.98,NAN
+Union Bank of India,6.97,NAN
+Autoliv,6.97,NAN
+Northland Power,6.97,NAN
+WESCO International,6.96,NAN
+Kongsberg Gruppen,6.95,NAN
+Nexstar Media Group,6.94,NAN
+CACI,6.93,NAN
+Novatek Microelectronics,6.93,NAN
+Mapletree Commercial Trust,6.92,NAN
+Sensata Technologies,6.92,NAN
+Centrica,6.91,NAN
+Copenhagen Airport,6.91,NAN
+Demant,6.90,NAN
+First Industrial Realty Trust,6.90,NAN
+Empire Company,6.90,NAN
+Nemetschek,6.89,NAN
+Karuna Therapeutics,6.89,NAN
+Graphic Packaging,6.88,NAN
+BOK Financial,6.88,NAN
+Bachem,6.87,NAN
+Clarivate,6.87,NAN
+Makita,6.87,NAN
+Banca Mediolanum,6.86,NAN
+Frontier Communications,6.85,NAN
+Prosperity Bancshares,6.84,NAN
+ASR Nederland,6.84,NAN
+Amplifon,6.83,NAN
+OTE Group,6.83,NAN
+Wan Hai Lines,6.83,NAN
+Rexel,6.82,NAN
+Halozyme Therapeutics,6.80,NAN
+Assurant,6.80,NAN
+Industrial Bank of Korea (IBK),6.79,NAN
+Clearway Energy,6.78,NAN
+Hero MotoCorp,6.78,NAN
+Tempur Sealy,6.78,NAN
+Omega Healthcare,6.77,NAN
+Texas Roadhouse,6.75,NAN
+Gentex,6.75,NAN
+Daiwa Securities Group,6.74,NAN
+PGNiG,6.74,NAN
+National Marine Dredging,6.73,NAN
+GitLab,6.73,NAN
+Houlihan Lokey,6.72,NAN
+Kinsale Capital Group,6.71,NAN
+CAE,6.70,NAN
+MKS Instruments,6.69,NAN
+Berger Paints,6.69,NAN
+Charoen Pokphand Indonesia,6.68,NAN
+Tele2,6.67,NAN
+Rumo,6.67,NAN
+Brixmor Property Group,6.67,NAN
+Voya Financial,6.66,NAN
+Stifel,6.65,NAN
+Krafton,6.65,NAN
+Agree Realty,6.65,NAN
+Hunter Douglas,6.65,NAN
+Harley-Davidson,6.65,NAN
+World Wrestling Entertainment,6.65,NAN
+Japan Post Insurance,6.64,NAN
+U.S. Steel,6.64,NAN
+CTS Eventim,6.63,NAN
+DXC Technology,6.62,NAN
+Capcom,6.62,NAN
+Şişecam,6.62,NAN
+nVent Electric,6.62,NAN
+GMO Payment Gateway,6.61,NAN
+ASUS,6.59,NAN
+Swedish Orphan Biovitrum,6.59,NAN
+UPL,6.59,NAN
+Ritchie Bros. Auctioneers,6.59,NAN
+Southwestern Energy,6.58,NAN
+New York Community Bank,6.58,NAN
+Norwegian Cruise Line,6.58,NAN
+Nippon Sanso,6.58,NAN
+NextEra Energy Partners,6.58,NAN
+Holmen,6.57,NAN
+Murphy Oil,6.57,NAN
+Israel Discount Bank,6.56,NAN
+Levi Strauss,6.56,NAN
+Commercial Metals Company,6.56,NAN
+Ingredion,6.56,NAN
+Toromont,6.56,NAN
+37 Interactive Entertainment,6.56,NAN
+Clean Harbors,6.56,NAN
+Ascendis Pharma,6.55,NAN
+Great Eastern,6.55,NAN
+On Holding,6.54,NAN
+Torrent Pharmaceuticals,6.54,NAN
+TIS,6.53,NAN
+Trend Micro,6.52,NAN
+Silergy,6.52,NAN
+OZ Minerals,6.50,NAN
+Helvetia Holding,6.50,NAN
+Wyndham Hotels & Resorts,6.50,NAN
+Petro Rio,6.50,NAN
+Osaka Gas,6.49,NAN
+RBC Bearings,6.49,NAN
+Fastighets AB Balder,6.48,NAN
+AirTAC International,6.47,NAN
+TOTO,6.47,NAN
+Wynn Macau,6.47,NAN
+Bankinter,6.46,NAN
+Magnolia Oil & Gas,6.45,NAN
+AGNC Investment,6.45,NAN
+Allegro MicroSystems,6.45,NAN
+Starwood Property Trust,6.43,NAN
+Woodward,6.43,NAN
+STAG Industrial,6.40,NAN
+Saia,6.40,NAN
+Dillard's,6.39,NAN
+Kobe Bussan,6.39,NAN
+Choice Hotels International,6.39,NAN
+Daifuku,6.39,NAN
+Adaro Energy,6.38,NAN
+Turquoise Hill Resources,6.38,NAN
+Reynolds Consumer,6.37,NAN
+Alaska Airlines,6.37,NAN
+ChampionX,6.37,NAN
+Newell Brands,6.37,NAN
+Stockland,6.37,NAN
+Yanbu National Petrochemical,6.36,NAN
+Covivio,6.36,NAN
+BELIMO Holding,6.36,NAN
+Curtiss-Wright,6.35,NAN
+MinebeaMitsumi,6.35,NAN
+TPG Telecom,6.34,NAN
+Lithia Motors,6.34,NAN
+Affiliated Managers Group,6.34,NAN
+Land Securities Group,6.34,NAN
+EnLink Midstream,6.33,NAN
+RLI Corp.,6.33,NAN
+DraftKings,6.33,NAN
+Shriram Transport Finance,6.32,NAN
+GXO Logistics,6.31,NAN
+Hualan Biological Engineering,6.30,NAN
+Indian Railway Catering & Tourism,6.30,NAN
+Samvardhana Motherson,6.30,NAN
+Spark New Zealand,6.29,NAN
+Doximity,6.29,NAN
+Corporate Office Properties Trust,6.29,NAN
+Kingfisher,6.29,NAN
+Cosan,6.29,NAN
+iA Financial,6.28,NAN
+MDU Resources,6.28,NAN
+Nedbank,6.27,NAN
+UWM Holdings,6.27,NAN
+Sampoerna,6.27,NAN
+Bombardier Recreational Products,6.26,NAN
+Lufax,6.26,NAN
+Qualtrics,6.25,NAN
+Nissan Chemical,6.25,NAN
+Unimicron,6.24,NAN
+Convatec Group,6.24,NAN
+Taishin Financial Holdings,6.24,NAN
+GameStop,6.24,NAN
+Macy's,6.23,NAN
+Samsara,6.23,NAN
+Tube Investments of India,6.22,NAN
+Toll Brothers,6.21,NAN
+Hikari Tsushin,6.21,NAN
+Bank Pekao (Bank Polska Kasa Opieki),6.21,NAN
+BOSCH India,6.20,NAN
+South State Corp,6.20,NAN
+Elanco,6.20,NAN
+Oshkosh Corporation,6.19,NAN
+Endeavor Group,6.19,NAN
+Mapfre,6.19,NAN
+Mirvac Group,6.18,NAN
+Banco BPM,6.17,NAN
+FirstService,6.17,NAN
+Polaris,6.17,NAN
+Chang Hwa Commercial Bank,6.15,NAN
+Yamaha,6.15,NAN
+SSAB,6.14,NAN
+Nutanix,6.14,NAN
+Canadian Apartment Properties REIT,6.14,NAN
+PDC Energy,6.13,NAN
+Sekisui Chemical,6.13,NAN
+Valvoline,6.13,NAN
+National Instruments,6.13,NAN
+Nippon Prologis REIT,6.13,NAN
+Littelfuse,6.11,NAN
+Türkiye Is Bankasi,6.11,NAN
+Toho Co.,6.11,NAN
+Murphy USA,6.10,NAN
+Pilgrim's Pride,6.10,NAN
+First American,6.10,NAN
+Lumen,6.10,NAN
+Lodha Group,6.10,NAN
+Landstar System,6.10,NAN
+West Fraser Timber,6.09,NAN
+Boyd Gaming,6.09,NAN
+Komerční banka,6.09,NAN
+Kinross Gold,6.09,NAN
+Atacadão,6.09,NAN
+Ashland,6.09,NAN
+HealthSouth,6.08,NAN
+LEG Immobilien,6.08,NAN
+Range Resources,6.08,NAN
+Universal Display Corporation,6.07,NAN
+CTP N.V.,6.06,NAN
+Kintetsu GHD,6.06,NAN
+Melco Resorts & Entertainment,6.06,NAN
+ENGIE Brasil,6.05,NAN
+Adecco Group,6.05,NAN
+Coupa,6.04,NAN
+Crane Co.,6.04,NAN
+Descartes Systems,6.03,NAN
+Indus Towers,6.03,NAN
+PI Industries,6.03,NAN
+Beijer Ref,6.02,NAN
+Axalta,6.01,NAN
+Raiffeisen Bank International,6.00,NAN
+Asset World Corp,6.00,NAN
+United Tractors,6.00,NAN
+BOC Aviation,5.99,NAN
+Otsuka,5.98,NAN
+Info Edge,5.97,NAN
+Huntsman Corporation,5.97,NAN
+BlueScope Steel,5.97,NAN
+Hulic,5.97,NAN
+Sonoco,5.96,NAN
+HYBE,5.96,NAN
+Banco Sabadell,5.96,NAN
+TopBuild,5.95,NAN
+SiteOne Landscape Supply,5.95,NAN
+Seek Limited,5.95,NAN
+Getinge,5.94,NAN
+Hapvida,5.92,NAN
+Sunrun,5.92,NAN
+Endeavour Mining,5.92,NAN
+DS Smith,5.91,NAN
+Flowers Foods,5.90,NAN
+Dexus,5.90,NAN
+Sumitomo Chemical,5.89,NAN
+Japan Real Estate Investment,5.89,NAN
+Andritz,5.89,NAN
+IDP Education,5.89,NAN
+MOL Group,5.89,NAN
+Axfood,5.89,NAN
+Spirit Realty Capital,5.89,NAN
+Emperador Brandy,5.89,NAN
+H&R Block,5.88,NAN
+Nanya Technology,5.88,NAN
+Yamana Gold,5.87,NAN
+GPT Group,5.87,NAN
+Investec,5.87,NAN
+HK Electric Investments,5.86,NAN
+Mapletree Logistics Trust,5.85,NAN
+Charoen Pokphand Foods,5.85,NAN
+Equatorial Energia,5.84,NAN
+M&G plc,5.84,NAN
+Confluent,5.84,NAN
+Air Canada,5.84,NAN
+Rockwool,5.83,NAN
+Telus International,5.83,NAN
+Dutch Bros,5.82,NAN
+Light & Wonder,5.81,NAN
+Apellis Pharmaceuticals,5.81,NAN
+Konami Holdings,5.81,NAN
+Envista,5.80,NAN
+Grupo Simec,5.80,NAN
+Bausch + Lomb,5.80,NAN
+Marriott Vacations Worldwide,5.80,NAN
+Silgan Holdings,5.80,NAN
+SAIC,5.78,NAN
+Soitec,5.78,NAN
+TVS Motor,5.78,NAN
+Columbia Sportswear,5.77,NAN
+Yancoal,5.77,NAN
+Abbott India,5.76,NAN
+iQIYI,5.76,NAN
+Synovus,5.75,NAN
+EXL Service,5.75,NAN
+Selective Insurance,5.75,NAN
+TechnipFMC,5.75,NAN
+Brunswick Corporation,5.74,NAN
+Telecom Italia,5.74,NAN
+Pinnacle Financial Partners,5.73,NAN
+Far Eastern New Century,5.73,NAN
+PSP Swiss Property,5.73,NAN
+Stantec,5.73,NAN
+Coherent,5.72,NAN
+Valley Bank,5.70,NAN
+The Weir Group,5.69,NAN
+Dun & Bradstreet,5.69,NAN
+BE Semiconductor,5.69,NAN
+Seven Group Holdings (SGH),5.68,NAN
+Timken Company,5.68,NAN
+Pegatron,5.68,NAN
+Yageo,5.68,NAN
+CG Power and Industrial Solutions,5.67,NAN
+Element Fleet Management,5.66,NAN
+Worley,5.66,NAN
+Ionis Pharmaceuticals,5.66,NAN
+Chart Industries,5.65,NAN
+Cemig,5.65,NAN
+National Fuel Gas,5.65,NAN
+Nomura Real Estate Master Fund,5.65,NAN
+Vertiv Holdings,5.64,NAN
+TMX Group,5.64,NAN
+Wärtsilä,5.64,NAN
+New York Times,5.64,NAN
+Hertz,5.64,NAN
+Prometheus Biosciences,5.63,NAN
+Koei Tecmo,5.63,NAN
+Tecan,5.62,NAN
+Guidewire Software,5.61,NAN
+Embracer Group,5.61,NAN
+PLDT,5.61,NAN
+Voestalpine,5.61,NAN
+Rightmove,5.61,NAN
+TAL Education Group,5.60,NAN
+Barratt Developments,5.60,NAN
+Groupe SEB,5.60,NAN
+Kosé,5.60,NAN
+Ebos Group,5.59,NAN
+Valmet,5.59,NAN
+Tomra,5.59,NAN
+Tenet Healthcare,5.59,NAN
+Persimmon,5.59,NAN
+FTI Consulting,5.59,NAN
+Permian Resources,5.58,NAN
+Chord Energy,5.58,NAN
+QuidelOrtho,5.58,NAN
+Gildan,5.58,NAN
+Jabal Omar Development,5.57,NAN
+GarantiBank,5.57,NAN
+Acuity Brands,5.56,NAN
+Trex,5.56,NAN
+Primerica,5.56,NAN
+Chongqing Rural Commercial Bank,5.56,NAN
+Smartsheet,5.56,NAN
+TIM S.A.,5.56,NAN
+Carsales,5.55,NAN
+Yamato Holdings,5.55,NAN
+Procter & Gamble India,5.55,NAN
+PBF Energy,5.54,NAN
+Zomato,5.54,NAN
+Square Enix,5.54,NAN
+Medibank,5.54,NAN
+KnowBe4,5.54,NAN
+Just Eat Takeaway,5.53,NAN
+Falabella,5.52,NAN
+Post Holdings,5.52,NAN
+Western Union,5.51,NAN
+FAW Car,5.51,NAN
+Kajima,5.51,NAN
+Glacier Bancorp,5.51,NAN
+Clariant,5.50,NAN
+Page Industries,5.50,NAN
+United Bankshares,5.50,NAN
+HashiCorp,5.49,NAN
+Viper Energy Partners,5.48,NAN
+Quebecor,5.48,NAN
+ALD Automotive,5.47,NAN
+Zydus Lifesciences,5.47,NAN
+Lancaster Colony Corporation,5.46,NAN
+The Ensign Group,5.46,NAN
+Clearwater Analytics,5.46,NAN
+Phillips-Van Heusen,5.46,NAN
+ACC,5.46,NAN
+Itochu Techno-Solutions,5.45,NAN
+Hagerty,5.45,NAN
+Saudi Kayan Petrochemical Company,5.45,NAN
+Antero Midstream,5.44,NAN
+Old National Bank,5.44,NAN
+Univar Solutions,5.44,NAN
+Realtek,5.43,NAN
+Idacorp,5.43,NAN
+Apartment Income REIT,5.42,NAN
+Quiñenco,5.42,NAN
+Lynas,5.42,NAN
+JSW Energy,5.41,NAN
+Georg Fischer,5.41,NAN
+City Developments,5.41,NAN
+Hargreaves Lansdown,5.40,NAN
+Airtel Africa,5.39,NAN
+Valaris,5.39,NAN
+CCC Intelligent Solutions,5.39,NAN
+Taiwan High Speed Rail,5.38,NAN
+Novanta,5.37,NAN
+Keyera,5.35,NAN
+Madrigal Pharmaceuticals,5.35,NAN
+“K” Line,5.35,NAN
+Universal Forest Products,5.35,NAN
+Somfy,5.35,NAN
+National Storage,5.34,NAN
+Zurich Airport,5.34,NAN
+Indian Railway Finance,5.34,NAN
+Indian Hotels Company,5.33,NAN
+Helmerich & Payne,5.33,NAN
+Lincoln National Corporation,5.33,NAN
+FS KKR Capital,5.33,NAN
+IAA-Insurance Auto Auctions,5.32,NAN
+Wintrust Financial,5.32,NAN
+Lundin Mining,5.32,NAN
+Ibiden,5.31,NAN
+Beazley,5.31,NAN
+Container Corporation of India,5.31,NAN
+Eurazeo,5.31,NAN
+Eagle Materials,5.31,NAN
+Credit Acceptance,5.31,NAN
+Ashok Leyland,5.30,NAN
+Hexcel,5.30,NAN
+Exelixis,5.29,NAN
+Mitsubishi Motors,5.29,NAN
+Balkrishna Industries,5.29,NAN
+Mercury NZ,5.28,NAN
+MSA Safety,5.28,NAN
+DT Midstream,5.28,NAN
+Gruma (Maseca),5.28,NAN
+Brookfield Renewable,5.27,NAN
+Discovery Limited,5.27,NAN
+Noble Corporation,5.27,NAN
+United Breweries,5.27,NAN
+Watts Water Technologies,5.26,NAN
+Option Care Health,5.26,NAN
+Assaí Atacadista,5.26,NAN
+Hyundai Glovis,5.25,NAN
+Core & Main,5.25,NAN
+Muthoot Finance,5.24,NAN
+BWX Technologies,5.24,NAN
+MP Materials,5.24,NAN
+Trent Limited,5.23,NAN
+Rayonier,5.23,NAN
+Lyft,5.22,NAN
+Valeo,5.22,NAN
+McDonald's Japan,5.22,NAN
+LOTTE Chemical,5.22,NAN
+Schaeffler India,5.22,NAN
+Obayashi,5.21,NAN
+Evoqua Water Technologies,5.20,NAN
+Euronet Worldwide,5.20,NAN
+Patanjali Foods,5.20,NAN
+Dongfeng Motor,5.19,NAN
+Bechtle,5.19,NAN
+IPG Photonics,5.18,NAN
+Dai Nippon Printing,5.18,NAN
+R1 RCM,5.17,NAN
+Fluor Corporation,5.16,NAN
+Leonardo,5.16,NAN
+Shift4 Payments,5.15,NAN
+Stevanato,5.15,NAN
+GLP J-REIT,5.15,NAN
+Civitas Resources,5.14,NAN
+Sotera Health,5.14,NAN
+DKSH Holding,5.14,NAN
+Exponent,5.13,NAN
+GOL Airlines,5.12,NAN
+Cerevel Therapeutics,5.12,NAN
+Hilton Grand Vacations,5.12,NAN
+AU Small Finance Bank,5.11,NAN
+İsdemir,5.11,NAN
+Five9,5.11,NAN
+RioCan REIT,5.10,NAN
+Penn National Gaming,5.08,NAN
+ZhongAn Insurance,5.08,NAN
+Aalberts,5.07,NAN
+Owl Rock Capital,5.07,NAN
+monday.com,5.06,NAN
+Chemours,5.06,NAN
+HealthEquity,5.06,NAN
+Barito Pacific,5.06,NAN
+Ormat Technologies,5.05,NAN
+LHC Group,5.05,NAN
+KION Group,5.04,NAN
+Fabrinet,5.04,NAN
+EVA Air,5.04,NAN
+Hektaş,5.03,NAN
+Koito Manufacturing,5.03,NAN
+Atkore,5.02,NAN
+Pirelli,5.02,NAN
+Banco de Crédito e Inversiones,5.02,NAN
+KOBAYASHI Pharmaceutical,5.01,NAN
+Alight,5.01,NAN
+Colgate-Palmolive India,5.01,NAN
+First Financial Bankshares,5.00,NAN
+Silicon Labs,4.99,NAN
+AltaGas,4.99,NAN
+Asia Cement,4.98,NAN
+PowerSchool,4.98,NAN
+Banco Popular,4.98,NAN
+Jollibee,4.97,NAN
+Nan Ya PCB,4.97,NAN
+Perrigo,4.96,NAN
+Cummins India,4.96,NAN
+HomeServe,4.95,NAN
+10x Genomics,4.94,NAN
+Bank of India,4.94,NAN
+Johnson Matthey,4.94,NAN
+Bharat Forge,4.93,NAN
+Sharp Corporation,4.93,NAN
+CSN Mineração,4.93,NAN
+Fuchs Petrolub,4.92,NAN
+New Jersey Resources,4.92,NAN
+Polycab India,4.92,NAN
+International Game Technology,4.92,NAN
+Evercore,4.92,NAN
+Kingsoft,4.92,NAN
+British Land,4.91,NAN
+Nykaa,4.91,NAN
+Reply,4.91,NAN
+Wendy’s Company,4.91,NAN
+Thor Industries,4.90,NAN
+Astral Poly Technik,4.89,NAN
+Petro Rabigh,4.89,NAN
+Bank OZK,4.89,NAN
+Elastic NV,4.89,NAN
+Weibo,4.89,NAN
+Unite Group (Unite Students),4.89,NAN
+Power Finance Corp,4.89,NAN
+Vale Indonesia,4.88,NAN
+Japan Airport Terminal,4.88,NAN
+Wix.com,4.88,NAN
+CyberArk,4.88,NAN
+Nippon Express,4.87,NAN
+X5 Retail Group,4.87,NAN
+GÜBRETAŞ,4.87,NAN
+Under Armour,4.87,NAN
+Stericycle,4.87,NAN
+Offcn Education,4.86,NAN
+Portland General Electric,4.86,NAN
+Applied Industrial Technologies,4.86,NAN
+NHPC Limited,4.85,NAN
+Whitecap Resources,4.85,NAN
+ALTEN,4.85,NAN
+Hanover Insurance Group,4.85,NAN
+APi Group,4.84,NAN
+JCDecaux,4.84,NAN
+SCSK Corporation,4.84,NAN
+Vanguard International Semiconductor,4.83,NAN
+F.N.B. Corporation,4.83,NAN
+Air Lease Corporation,4.82,NAN
+Jarir,4.82,NAN
+dLocal,4.81,NAN
+AXIS Capital,4.81,NAN
+Tower Semiconductor,4.81,NAN
+Vornado Realty Trust,4.80,NAN
+Integra LifeSciences,4.79,NAN
+Tata Elxsi,4.79,NAN
+SPS Commerce,4.78,NAN
+Kilroy Realty,4.78,NAN
+Fraport,4.78,NAN
+Argo Investments,4.77,NAN
+Home BancShares,4.77,NAN
+HelloFresh,4.77,NAN
+Bandhan Bank,4.77,NAN
+Terreno Realty,4.77,NAN
+Orica,4.76,NAN
+Tobu Railway,4.76,NAN
+Italgas,4.75,NAN
+Hochtief,4.75,NAN
+Bezeq,4.75,NAN
+Saudi Investment Bank,4.74,NAN
+Zai Lab,4.74,NAN
+BAWAG Group,4.74,NAN
+Koza Gold,4.74,NAN
+Hitachi Construction Machinery,4.74,NAN
+Merlin Properties,4.73,NAN
+Black Hills,4.73,NAN
+Powszechny Zakład Ubezpieczeń,4.73,NAN
+Driven Brands,4.73,NAN
+Ghitha,4.72,NAN
+Mphasis,4.72,NAN
+Element Solutions,4.72,NAN
+Tikehau Capital,4.72,NAN
+GDS Holdings,4.72,NAN
+Thyssenkrupp,4.72,NAN
+Ryman Hospitality Properties,4.72,NAN
+Emmi AG,4.71,NAN
+Gap Inc.,4.71,NAN
+Cadence Bancorp,4.71,NAN
+Toppan,4.70,NAN
+Workiva,4.70,NAN
+OneMain Financial,4.70,NAN
+Akbank,4.70,NAN
+Temenos,4.70,NAN
+Power Integrations,4.69,NAN
+Enagás,4.69,NAN
+Leggett & Platt,4.68,NAN
+Metropolitan Bank (Metrobank),4.68,NAN
+IMI plc,4.68,NAN
+Cirrus Logic,4.67,NAN
+Schaeffler,4.66,NAN
+Hiscox,4.66,NAN
+Inchcape,4.66,NAN
+Remgro Limited,4.65,NAN
+Madras Rubber Factory,4.65,NAN
+Informatica,4.65,NAN
+Castellum,4.64,NAN
+IDFC FIRST Bank,4.64,NAN
+Hawaiian Electric Industries,4.64,NAN
+Mapletree Industrial Trust,4.64,NAN
+Welcia Holdings,4.64,NAN
+Parsons,4.63,NAN
+Nuvei,4.63,NAN
+Coca-Cola Consolidated,4.63,NAN
+Companhia Siderúrgica Nacional,4.63,NAN
+CyberAgent,4.63,NAN
+Wayfair,4.63,NAN
+IAC/InterActiveCorp,4.63,NAN
+Fox Factory Holding,4.62,NAN
+Kite Realty,4.61,NAN
+Intermediate Capital Group (ICG),4.61,NAN
+AAK,4.60,NAN
+Howden Joinery,4.60,NAN
+National Mineral Development Corporation,4.60,NAN
+ERG,4.59,NAN
+Sembcorp,4.59,NAN
+Mazda,4.59,NAN
+Hikma Pharmaceuticals,4.59,NAN
+Ryder,4.59,NAN
+Aroundtown,4.58,NAN
+Allegheny Technologies,4.58,NAN
+Mediclinic International,4.58,NAN
+Jyske Bank,4.57,NAN
+Odakyu Electric Railway,4.57,NAN
+Seaboard,4.57,NAN
+Asahi Intecc,4.57,NAN
+Technoprobe,4.56,NAN
+LATAM Airlines,4.56,NAN
+The Bidvest Group,4.56,NAN
+Louisiana-Pacific,4.56,NAN
+Algonquin Power & Utilities,4.56,NAN
+MINISO Group,4.56,NAN
+Royal Boskalis Westminster,4.56,NAN
+Natera,4.55,NAN
+Topdanmarks,4.55,NAN
+Shin Kong Financial Holding,4.55,NAN
+Olam,4.55,NAN
+Wendel,4.55,NAN
+Commercial International Bank,4.55,NAN
+Husqvarna,4.54,NAN
+Intra-Cellular Therapies,4.54,NAN
+Schibsted,4.54,NAN
+TriNet,4.54,NAN
+Lechwerke,4.54,NAN
+CLEAR Secure,4.54,NAN
+Kinnevik,4.54,NAN
+Wiwynn,4.54,NAN
+HUGO BOSS,4.53,NAN
+MACOM,4.53,NAN
+Tegna,4.52,NAN
+Bloom Energy,4.52,NAN
+Synaptics,4.52,NAN
+Autohome,4.51,NAN
+Aerojet Rocketdyne,4.51,NAN
+Iida Group,4.51,NAN
+Nexans,4.50,NAN
+AMN Healthcare Services,4.50,NAN
+MSC Industrial Direct,4.49,NAN
+Magazine Luíza,4.49,NAN
+B2Gold,4.49,NAN
+Bucher Industries,4.48,NAN
+Alkermes,4.48,NAN
+Signify,4.47,NAN
+Alkem Laboratories,4.47,NAN
+Neoen,4.46,NAN
+Frasers Group,4.46,NAN
+Steel Authority of India,4.46,NAN
+Pepkor,4.46,NAN
+Endava,4.46,NAN
+Maximus,4.45,NAN
+Cencosud,4.45,NAN
+Denbury,4.45,NAN
+Sixt,4.45,NAN
+Comfort Systems,4.44,NAN
+Southwest Gas,4.42,NAN
+Flowserve,4.42,NAN
+ManpowerGroup,4.42,NAN
+Phillips Edison & Company,4.42,NAN
+Diploma plc,4.42,NAN
+Indian Bank,4.41,NAN
+Cable One,4.41,NAN
+United Internet,4.40,NAN
+Strabag,4.40,NAN
+Scor,4.40,NAN
+Bangkok Expressway and Metro (BEM),4.40,NAN
+Boston Beer Company,4.39,NAN
+Empresas CMPC,4.39,NAN
+Aditya Birla Capital,4.39,NAN
+Paytm,4.38,NAN
+SPIE,4.38,NAN
+A1 Telekom Austria,4.38,NAN
+South Jersey Industries,4.38,NAN
+Schneider,4.37,NAN
+Janus Henderson,4.37,NAN
+MSG Sports,4.37,NAN
+Wingstop Restaurants,4.36,NAN
+Hancock Whitney,4.36,NAN
+ONE Gas,4.35,NAN
+Teladoc Health,4.35,NAN
+Box,4.35,NAN
+SJM Holdings,4.35,NAN
+Insperity,4.35,NAN
+Aurubis,4.35,NAN
+Academy Sports,4.35,NAN
+SoFi,4.34,NAN
+Mainfreight,4.34,NAN
+Charter Hall Group,4.34,NAN
+Hera Group,4.34,NAN
+Air France-KLM,4.33,NAN
+Haemonetics,4.33,NAN
+Sabancı Holding,4.33,NAN
+ASGN,4.33,NAN
+MEG Energy,4.32,NAN
+Alamos Gold,4.32,NAN
+Herc Holdings,4.32,NAN
+Sallie Mae,4.32,NAN
+Hindustan Petroleum,4.31,NAN
+K+S,4.31,NAN
+Essent Group,4.31,NAN
+XPO Logistics,4.30,NAN
+Topicus,4.30,NAN
+UOL Group,4.30,NAN
+ALS Global,4.29,NAN
+Simpson Manufacturing Company,4.29,NAN
+Atlas Corp,4.29,NAN
+Galicia Financial Group,4.29,NAN
+Zhejiang Century Huatong,4.29,NAN
+Honeywell Automation India,4.28,NAN
+Yapı Kredi,4.27,NAN
+Livent,4.26,NAN
+Paycor,4.26,NAN
+Supermicro,4.26,NAN
+Colliers International,4.26,NAN
+Bumble,4.26,NAN
+Evolution Mining,4.25,NAN
+RLX Technology,4.25,NAN
+First International Bank of Israel,4.25,NAN
+Bright Horizons,4.24,NAN
+ICU Medical,4.24,NAN
+Powerchip Semiconductor Manufacturing,4.24,NAN
+Lupin Limited,4.24,NAN
+Scout24,4.23,NAN
+Enstar Group,4.23,NAN
+Godrej Properties,4.23,NAN
+Lanxess,4.22,NAN
+Rambus,4.22,NAN
+BlackLine,4.22,NAN
+PNM Resources,4.22,NAN
+Fomento de Construcciones y Contratas,4.21,NAN
+Banco del Bajío,4.21,NAN
+TFS Financial,4.21,NAN
+Richter Gedeon,4.20,NAN
+Calix,4.20,NAN
+AppFolio,4.20,NAN
+Triton International,4.20,NAN
+Sinch,4.20,NAN
+UMB Financial,4.19,NAN
+Sitio Royalties,4.19,NAN
+Rithm Capital,4.19,NAN
+National Beverage,4.19,NAN
+TMBThanachart Bank (ttb),4.19,NAN
+Finning,4.19,NAN
+Balchem,4.19,NAN
+Arrowhead Pharmaceuticals,4.19,NAN
+Cleanaway Waste Management,4.18,NAN
+Asbury Automotive Group,4.18,NAN
+Dairy Farm,4.18,NAN
+Spectris,4.16,NAN
+Tenable,4.16,NAN
+Topgolf Callaway Brands,4.15,NAN
+Bank Mega,4.14,NAN
+Colas,4.14,NAN
+FirstCash,4.14,NAN
+COSCO SHIPPING Development,4.14,NAN
+Aaon,4.14,NAN
+Bank AlJazira,4.14,NAN
+Parkland Corp,4.13,NAN
+Azenta,4.13,NAN
+Kojamo,4.13,NAN
+Dufry,4.12,NAN
+ITV plc,4.11,NAN
+First Interstate BancSystem,4.11,NAN
+Clicks Group,4.11,NAN
+Leapmotor,4.10,NAN
+Howard Hughes Corporation,4.10,NAN
+Dechra Pharmaceuticals,4.09,NAN
+Olaplex,4.08,NAN
+Peabody Energy,4.08,NAN
+Independence Realty Trust,4.08,NAN
+Transocean,4.08,NAN
+Cabot Corporation,4.08,NAN
+Onex,4.07,NAN
+WNS,4.07,NAN
+IG Group,4.06,NAN
+SM Energy,4.06,NAN
+PrairieSky Royalty,4.06,NAN
+Bombardier,4.06,NAN
+ChargePoint,4.05,NAN
+Freshworks,4.05,NAN
+Tokyo Century,4.05,NAN
+easyJet,4.05,NAN
+SentinelOne,4.04,NAN
+Petronet LNG,4.04,NAN
+Storebrand,4.04,NAN
+Jubilant FoodWorks,4.03,NAN
+F&F Co,4.03,NAN
+Avnet,4.03,NAN
+Chiba Bank,4.03,NAN
+United Community Bank,4.03,NAN
+BİM Birleşik Mağazalar,4.03,NAN
+Elang Mahkota Teknologi,4.02,NAN
+Tofaş Türk Otomobil Fabrikası,4.02,NAN
+Casella Waste Systems,4.01,NAN
+Visteon,4.01,NAN
+Cytokinetics,4.01,NAN
+AppLovin,4.01,NAN
+Galenica,4.01,NAN
+Qualys,4.00,NAN
+Allison Transmission,4.00,NAN
+Savola Group,4.00,NAN
+Franklin Electric,4.00,NAN
+Merit Medical,4.00,NAN
+Capital Power,4.00,NAN
+Rural Electrification Corp,4.00,NAN
+Infratil,4.00,NAN
+American Equity Investment Life Holding,3.99,NAN
+COSMOS Pharmaceutical,3.99,NAN
+Verbio,3.99,NAN
+Premier,3.99,NAN
+Lendlease,3.99,NAN
+Blackstone Mortgage Trust,3.99,NAN
+Altair Engineering,3.98,NAN
+Zurn Water Solutions,3.98,NAN
+Türk Telekom,3.98,NAN
+Bendigo and Adelaide Bank,3.98,NAN
+GATX,3.97,NAN
+Adient,3.97,NAN
+Perfect World Entertainment,3.97,NAN
+Diodes Incorporated,3.97,NAN
+Ziff Davis,3.96,NAN
+Pan American Silver,3.96,NAN
+Enact Holdings,3.95,NAN
+H.B. Fuller,3.95,NAN
+Crescent Point Energy,3.95,NAN
+Peloton,3.95,NAN
+Ambu,3.95,NAN
+Contact Energy,3.95,NAN
+New Relic,3.95,NAN
+Electrolux,3.95,NAN
+Denali Therapeutics,3.95,NAN
+Hamilton Lane,3.94,NAN
+Surgery Partners,3.94,NAN
+SFS Group,3.94,NAN
+Stadler Rail,3.93,NAN
+Turkcell,3.93,NAN
+MGIC Investment,3.93,NAN
+Cousins Properties,3.93,NAN
+Buzzi Unicem,3.93,NAN
+General Insurance Corporation of India,3.92,NAN
+Huhtamäki,3.92,NAN
+Oberbank,3.92,NAN
+Lumentum,3.92,NAN
+Netmarble,3.92,NAN
+Lawson,3.92,NAN
+AllianceBernstein,3.91,NAN
+ServisFirst Bancshares,3.91,NAN
+Altra Industrial Motion,3.91,NAN
+Venture Corporation,3.91,NAN
+CRISPR Therapeutics,3.91,NAN
+Insight Enterprises,3.89,NAN
+Enerplus,3.89,NAN
+DoubleVerify,3.89,NAN
+Indofood,3.88,NAN
+Freedom Holding,3.88,NAN
+Vopak,3.88,NAN
+YETI Holdings,3.87,NAN
+Arcadis,3.87,NAN
+Steadfast Group,3.87,NAN
+Dätwyler,3.87,NAN
+Inmobiliaria Colonial,3.87,NAN
+G-bits Network Technology,3.87,NAN
+Elis,3.86,NAN
+Neogen,3.86,NAN
+Vontobel,3.85,NAN
+Fluence Energy,3.85,NAN
+PBBank (Public Bank Bhd),3.84,NAN
+AntarChile,3.84,NAN
+Kangwon Land,3.84,NAN
+Weatherford International,3.84,NAN
+Spire Energy,3.84,NAN
+Onto Innovation,3.83,NAN
+Toyo Suisan,3.83,NAN
+Thai Oil,3.83,NAN
+APL Apollo,3.83,NAN
+Gujarat Fluorochemicals,3.83,NAN
+Aspen Pharmacare,3.83,NAN
+Sweco,3.83,NAN
+Lundbeck,3.82,NAN
+LG Display,3.82,NAN
+Mueller Industries,3.82,NAN
+Maxar Technologies,3.81,NAN
+VakıfBank,3.81,NAN
+Faurecia,3.81,NAN
+Harvey Norman,3.81,NAN
+Games Workshop Group,3.80,NAN
+Luzerner Kantonalbank,3.80,NAN
+Sunoco,3.80,NAN
+TUI,3.80,NAN
+Global-e,3.80,NAN
+Kirby Corporation,3.79,NAN
+Gujarat Gas,3.79,NAN
+Metro AG,3.79,NAN
+Supreme Industries,3.79,NAN
+Summit Materials,3.79,NAN
+Sarana Menara Nusantara,3.78,NAN
+China Airlines,3.78,NAN
+SNC-Lavalin Group,3.78,NAN
+Hecla Mining,3.77,NAN
+Société Foncière Lyonnaise,3.77,NAN
+Aritzia,3.77,NAN
+Apple Hospitality REIT,3.77,NAN
+Patterson-UTI Energy,3.76,NAN
+Tate & Lyle,3.76,NAN
+Oberoi Realty,3.76,NAN
+Umpqua Holdings,3.76,NAN
+Korea Aerospace Industries,3.75,NAN
+Minda Industries,3.75,NAN
+Indoritel,3.74,NAN
+PCCW,3.74,NAN
+Manchester United,3.74,NAN
+Assured Guaranty,3.74,NAN
+Allete,3.74,NAN
+Persistent Systems,3.73,NAN
+De' Longhi,3.73,NAN
+Affirm,3.73,NAN
+Grupo Catalana Occidente,3.73,NAN
+Brighthouse Financial,3.73,NAN
+Independent Bank,3.72,NAN
+SeaWorld Entertainment,3.72,NAN
+eMemory Technology,3.72,NAN
+UniFirst,3.71,NAN
+Biocon,3.70,NAN
+White Mountains Insurance Group,3.70,NAN
+Meritage Homes,3.69,NAN
+ATCO,3.69,NAN
+Nisshin Seifun Group,3.69,NAN
+Icade,3.68,NAN
+Braskem,3.68,NAN
+Copa Holdings,3.68,NAN
+Envestnet,3.68,NAN
+Beijing Airport,3.67,NAN
+Acom,3.67,NAN
+Virtu Financial,3.66,NAN
+China Lesso Group,3.66,NAN
+360 DigiTech,3.65,NAN
+Foot Locker,3.65,NAN
+Lantheus Holdings,3.65,NAN
+Federal Bank,3.65,NAN
+Krones,3.64,NAN
+TietoEVRY,3.64,NAN
+Innolux,3.64,NAN
+Physicians Realty Trust,3.64,NAN
+Royal Unibrew,3.64,NAN
+Select Medical Holdings,3.63,NAN
+BellRing Brands,3.62,NAN
+AGL Energy,3.62,NAN
+SIG (Semen Indonesia),3.62,NAN
+Wizz Air,3.62,NAN
+Spirit AeroSystems,3.61,NAN
+QuantumScape,3.61,NAN
+Instructure Holdings,3.61,NAN
+National Shipping Company of Saudi Arabia (Bahri),3.61,NAN
+Ginkgo Bioworks,3.60,NAN
+SmartCentres REIT,3.60,NAN
+Granite Real Estate,3.60,NAN
+Qube Holdings,3.60,NAN
+Amicus Therapeutics,3.60,NAN
+DMG Mori,3.60,NAN
+Cohen & Steers,3.60,NAN
+Simply Good Foods,3.59,NAN
+Inari Medical,3.59,NAN
+Gates Industrial Corp,3.59,NAN
+SSR Mining,3.59,NAN
+Derwent London,3.59,NAN
+Syneos Health,3.59,NAN
+Marqeta,3.59,NAN
+Taylor Morrison,3.59,NAN
+JB Hi-Fi,3.58,NAN
+NWS holdings,3.58,NAN
+PotlatchDeltic,3.58,NAN
+Beacon Roofing Supply,3.58,NAN
+Dada Nexus,3.57,NAN
+CVB Financial,3.57,NAN
+Tsuruha Holdings,3.57,NAN
+Indraprastha Gas,3.56,NAN
+Bakkafrost,3.56,NAN
+Marks & Spencer,3.56,NAN
+Greif,3.56,NAN
+Taiwan Business Bank,3.56,NAN
+Kemper,3.56,NAN
+Abcam,3.56,NAN
+Jungheinrich,3.56,NAN
+BB Biotech,3.55,NAN
+AmTrust Financial Services,3.55,NAN
+Interparfums,3.55,NAN
+Direct Line Group,3.55,NAN
+EVN Group,3.55,NAN
+Mercari,3.54,NAN
+African Rainbow Minerals,3.54,NAN
+Thoughtworks,3.53,NAN
+Vir Biotechnology,3.53,NAN
+Land and Houses,3.53,NAN
+Array Technologies,3.53,NAN
+PGE Polska,3.53,NAN
+Maravai LifeSciences,3.52,NAN
+American States Water,3.52,NAN
+Vaxcyte,3.52,NAN
+Nippon Shinyaku,3.51,NAN
+NCR Corporation,3.51,NAN
+Renishaw,3.51,NAN
+Melisron,3.51,NAN
+Black Stone Minerals,3.50,NAN
+Avient,3.50,NAN
+Unicaja Banco,3.50,NAN
+Alteryx,3.50,NAN
+The a2 Milk Company,3.50,NAN
+NorthWestern Corporation,3.50,NAN
+Sanmina,3.50,NAN
+Associated Banc-Corp,3.49,NAN
+STAAR Surgical,3.49,NAN
+BTS Group,3.49,NAN
+Essential Properties Realty Trust,3.49,NAN
+Federated Hermes,3.48,NAN
+Subsea 7,3.48,NAN
+PTC Therapeutics,3.48,NAN
+Rotork,3.48,NAN
+Nelnet,3.48,NAN
+Imerys,3.48,NAN
+RingCentral,3.48,NAN
+Grand Canyon Education,3.47,NAN
+Playtika,3.47,NAN
+Advanced Energy,3.47,NAN
+Grupo Aeroportuario Centro Norte,3.47,NAN
+Sime Darby,3.47,NAN
+Kosmos Energy,3.47,NAN
+Gelsenwasser,3.47,NAN
+Quaker Houghton,3.47,NAN
+Belden,3.46,NAN
+Fluidra,3.46,NAN
+First Hawaiian Bank,3.45,NAN
+Vontier,3.45,NAN
+Community Bank System,3.45,NAN
+Bank of East Asia,3.45,NAN
+Aixtron,3.44,NAN
+Mayora,3.43,NAN
+Broadstone Net Lease,3.43,NAN
+Max Financial Services,3.42,NAN
+Taisho Pharmaceutical,3.42,NAN
+Romgaz,3.42,NAN
+Armstrong World Industries,3.42,NAN
+Harbour Energy,3.42,NAN
+Enviva,3.42,NAN
+Bayanat AI,3.42,NAN
+The AZEK Company,3.42,NAN
+California Water Service,3.42,NAN
+Ameris Bancorp,3.42,NAN
+Kerry Properties,3.41,NAN
+Alumina Limited,3.41,NAN
+CIE Automotive,3.41,NAN
+Evotec,3.41,NAN
+GN Store Nord,3.40,NAN
+Boyd Group,3.40,NAN
+Escorts Limited,3.40,NAN
+NewMarket Corp,3.40,NAN
+Hysan Development,3.39,NAN
+Albany International,3.39,NAN
+Leroy Seafood,3.39,NAN
+Badger Meter,3.39,NAN
+Sprouts Farmers Market,3.38,NAN
+Ambarella,3.38,NAN
+Cactus Wellhead,3.38,NAN
+Südzucker,3.38,NAN
+Stagwell,3.37,NAN
+ASM Pacific Technology,3.37,NAN
+Logista (Compañía de Distribución Integral Logista),3.37,NAN
+Teradata,3.37,NAN
+Life Time Group,3.36,NAN
+Frasers Logistics & Industrial Trust,3.36,NAN
+Paramount Resources,3.36,NAN
+Nikon,3.36,NAN
+Mayr-Melnhof,3.36,NAN
+Skyline Champion,3.35,NAN
+One Medical (1Life Healthcare),3.35,NAN
+Ollie's Bargain Outlet,3.35,NAN
+California Resources Corporation,3.35,NAN
+Virgin Money UK,3.35,NAN
+Nordex,3.34,NAN
+Acushnet Holdings,3.34,NAN
+Natura&Co,3.33,NAN
+ScottsMiracle-Gro,3.33,NAN
+EnerSys,3.33,NAN
+Workman,3.32,NAN
+Metsä Board,3.32,NAN
+mBank,3.32,NAN
+Travel + Leisure,3.32,NAN
+Lazard,3.32,NAN
+Bellway,3.31,NAN
+Vienna Insurance Group,3.31,NAN
+Fielmann,3.31,NAN
+ACEA,3.30,NAN
+Axcelis Technologies,3.30,NAN
+Arçelik,3.29,NAN
+Transportadora de Gas del Sur,3.29,NAN
+Prestige Consumer Healthcare,3.29,NAN
+SPX Corporation,3.29,NAN
+ALK-Abelló,3.29,NAN
+Capstone Infrastructure,3.28,NAN
+Highwoods Properties,3.28,NAN
+Encavis,3.28,NAN
+Ubisoft,3.28,NAN
+Voltas,3.28,NAN
+Sensient Technologies,3.27,NAN
+Signet Jewelers,3.27,NAN
+DAQO New Energy,3.27,NAN
+Shoals Technologies,3.27,NAN
+Blackbaud,3.26,NAN
+Telecom Argentina,3.26,NAN
+Comgás,3.25,NAN
+Goodyear,3.25,NAN
+Douglas Emmett,3.25,NAN
+Vishay Intertechnology,3.25,NAN
+SunPower,3.25,NAN
+Intellia Therapeutics,3.24,NAN
+Deepak Nitrite,3.24,NAN
+Terex,3.24,NAN
+John Bean Technologies,3.24,NAN
+Tootsie Roll Industries,3.23,NAN
+Sportradar,3.23,NAN
+Sega Sammy Holdings,3.23,NAN
+Sembcorp Marine,3.22,NAN
+Summit Industrial Income REIT,3.22,NAN
+Bank of Hawaii,3.22,NAN
+Indosat,3.22,NAN
+ESAB,3.22,NAN
+Aurobindo Pharma,3.21,NAN
+Coway,3.21,NAN
+Old Mutual,3.21,NAN
+Cathay General Bancorp,3.21,NAN
+Cargotec,3.21,NAN
+CA Immo,3.21,NAN
+Axonics Modulation Tech,3.21,NAN
+HUTCHMED,3.21,NAN
+Hillenbrand,3.21,NAN
+CVR Energy,3.20,NAN
+Hankook Tire,3.20,NAN
+Greggs,3.20,NAN
+Evolent Health,3.20,NAN
+Burjeel Holdings,3.20,NAN
+Nordic Semiconductor,3.20,NAN
+Phoenix Mills,3.20,NAN
+Enovis,3.20,NAN
+National Vision Holdings,3.19,NAN
+Carter's,3.19,NAN
+Impinj,3.19,NAN
+Proximus,3.19,NAN
+Meitetsu,3.19,NAN
+Duolingo,3.18,NAN
+Kohl's,3.18,NAN
+Groupe Lagardère,3.18,NAN
+Vistry Group,3.18,NAN
+Mister Car Wash,3.18,NAN
+Televisa,3.18,NAN
+Coromandel,3.17,NAN
+Ardagh Metal Packaging,3.17,NAN
+Sprout Social,3.17,NAN
+Eastern Bankshares,3.16,NAN
+Avista,3.16,NAN
+PennyMac,3.15,NAN
+Samsung Heavy Industries,3.15,NAN
+Cushman & Wakefield,3.15,NAN
+Mr. Cooper Group,3.14,NAN
+Frontline,3.14,NAN
+PJT Partners,3.13,NAN
+Capstone Copper,3.13,NAN
+Outfront Media,3.13,NAN
+Plexus,3.13,NAN
+Alvotech,3.13,NAN
+Innovative Industrial,3.13,NAN
+Cogent Communications,3.12,NAN
+Equitrans Midstream,3.12,NAN
+Methanex,3.12,NAN
+Lion Corp,3.12,NAN
+Sigma Lithium,3.12,NAN
+LXP Industrial Trust,3.12,NAN
+3M India,3.12,NAN
+Enel Chile,3.12,NAN
+Guardant Health,3.11,NAN
+Indah Kiat Pulp & Paper,3.11,NAN
+Texas Capital Bancshares,3.11,NAN
+PagSeguro,3.11,NAN
+Kumho Petrochemical,3.10,NAN
+Moelis & Company,3.10,NAN
+Hannon Armstrong,3.10,NAN
+Plains GP,3.10,NAN
+St. Galler Kantonalbank,3.10,NAN
+Victoria's Secret & Co,3.10,NAN
+BillerudKorsnäs,3.10,NAN
+OVH Groupe,3.10,NAN
+Ameresco,3.09,NAN
+Strauss Group,3.09,NAN
+VZ Holding,3.09,NAN
+Exxaro Resources,3.09,NAN
+Tower Bersama Infrastructure,3.09,NAN
+Iluka Resources,3.09,NAN
+Radian Group,3.09,NAN
+Progyny,3.09,NAN
+Chegg,3.08,NAN
+MultiChoice Group,3.08,NAN
+Federal Signal,3.08,NAN
+LivaNova,3.08,NAN
+Boralex,3.08,NAN
+Yuhan,3.08,NAN
+Walker & Dunlop,3.07,NAN
+Atlantica,3.07,NAN
+EngageSmart,3.07,NAN
+Galapagos NV,3.07,NAN
+AMP Limited,3.07,NAN
+Hostess Brands,3.07,NAN
+NEXTDC,3.06,NAN
+Chindata,3.06,NAN
+iRhythm,3.06,NAN
+Scorpio Tankers,3.05,NAN
+Idorsia,3.05,NAN
+Ultragenyx,3.05,NAN
+Vienna Airport,3.05,NAN
+Ingevity,3.05,NAN
+Asana,3.04,NAN
+Graham Holdings,3.04,NAN
+Beam Therapeutics,3.04,NAN
+nCino,3.04,NAN
+Ströer,3.04,NAN
+Squarespace,3.04,NAN
+Shangri-La,3.04,NAN
+Immunocore,3.04,NAN
+Tata Chemicals,3.04,NAN
+Linamar,3.04,NAN
+ABM Industries,3.04,NAN
+Hisense Visual Technology,3.04,NAN
+Wienerberger,3.04,NAN
+Comstock Resources,3.03,NAN
+Sabra Health Care REIT,3.03,NAN
+Euronav,3.02,NAN
+Halkbank,3.02,NAN
+StoneCo,3.02,NAN
+O-I Glass,3.02,NAN
+Marel,3.02,NAN
+Liberty Energy,3.02,NAN
+Pacific Premier Bancorp,3.02,NAN
+ACI Worldwide,3.02,NAN
+Santen Pharmaceutical,3.02,NAN
+CNX Resources,3.01,NAN
+Siegfried Holding,3.01,NAN
+Archaea Energy,3.01,NAN
+BIC,3.01,NAN
+Sumitomo Chemical India,3.00,NAN
+Amot Investment,3.00,NAN
+Pennon Group,3.00,NAN
+Oil India,3.00,NAN
+KB Home,3.00,NAN
+TripAdvisor,3.00,NAN
+CD Projekt,3.00,NAN
+WSFS Financial,2.99,NAN
+GMR Group,2.99,NAN
+Syngene International,2.99,NAN
+ATS Automation,2.99,NAN
+Growthpoint Properties,2.99,NAN
+EPR Properties,2.99,NAN
+Kansai Paint,2.99,NAN
+Premium Brands,2.98,NAN
+Mainova,2.98,NAN
+PIERER Mobility,2.98,NAN
+Jackson Financial,2.98,NAN
+EVO Payments,2.98,NAN
+ACADIA Pharmaceuticals,2.97,NAN
+Nomad Foods,2.97,NAN
+Main Street Capital,2.97,NAN
+Intercorp Financial Services,2.97,NAN
+Viscofan,2.97,NAN
+J&J Snack Foods,2.97,NAN
+AbCellera,2.96,NAN
+Viva Energy,2.96,NAN
+Softcat,2.96,NAN
+Installed Building Products,2.96,NAN
+Dycom Industries,2.95,NAN
+Jinko Solar,2.95,NAN
+BancFirst,2.95,NAN
+Guoco,2.95,NAN
+Suntec REIT,2.95,NAN
+Kinaxis,2.94,NAN
+Braze,2.94,NAN
+Rajesh Exports,2.93,NAN
+Freshpet,2.93,NAN
+Prothena,2.93,NAN
+Polymetal,2.93,NAN
+Coforge,2.92,NAN
+Gland Pharma,2.92,NAN
+Privia Health Group,2.92,NAN
+Westports,2.92,NAN
+Prospect Capital,2.92,NAN
+AdaptHealth,2.92,NAN
+CONMED,2.92,NAN
+Axsome Therapeutics,2.92,NAN
+MakeMyTrip,2.92,NAN
+Rubis,2.92,NAN
+Kulicke and Soffa Industries,2.92,NAN
+Grupo Aval,2.92,NAN
+StepStone Group,2.91,NAN
+Pegasystems,2.91,NAN
+Brink's,2.90,NAN
+Harmonic Drive Systems,2.90,NAN
+Simmons First National,2.90,NAN
+MaxLinear,2.90,NAN
+Papa John's Pizza,2.90,NAN
+Thermax,2.89,NAN
+Computacenter,2.89,NAN
+Grocery Outlet,2.89,NAN
+SMA Solar Technology,2.88,NAN
+American Eagle Outfitters,2.88,NAN
+Atlas Air Worldwide Holdings,2.88,NAN
+CT REIT,2.88,NAN
+Timken India,2.88,NAN
+PacWest Bancorp,2.87,NAN
+Flywire,2.87,NAN
+Delhivery,2.87,NAN
+Corporación Financiera Alba,2.87,NAN
+Doosan Bobcat,2.87,NAN
+First Capital REIT,2.87,NAN
+Canadian Solar,2.87,NAN
+Altarea,2.86,NAN
+Olink Holding,2.86,NAN
+Curaleaf,2.86,NAN
+Blueprint Medicines,2.86,NAN
+Shapir Civil and Marine Engineering,2.86,NAN
+Acerinox,2.86,NAN
+Allreal Holding,2.86,NAN
+Rush Enterprises,2.85,NAN
+Kyndryl,2.85,NAN
+Vidrala,2.84,NAN
+Vodafone Idea,2.84,NAN
+EFG International,2.84,NAN
+nternational Bancshares Corp,2.84,NAN
+Nordstrom,2.83,NAN
+SKF India,2.83,NAN
+Sulzer,2.83,NAN
+Arcosa,2.83,NAN
+Macerich,2.83,NAN
+Torrent Power,2.83,NAN
+Hanesbrands,2.83,NAN
+Focus Financial Partners,2.82,NAN
+Dorman Products,2.82,NAN
+Bank Jago,2.82,NAN
+Park Hotels & Resorts,2.82,NAN
+GoHealth,2.82,NAN
+Fulton Financial,2.82,NAN
+Atul,2.81,NAN
+IronSource,2.81,NAN
+Harmony Biosciences,2.81,NAN
+SITE Centers,2.81,NAN
+Vector Limited,2.81,NAN
+Group 1 Automotive,2.80,NAN
+Cvent,2.80,NAN
+LCI Industries,2.80,NAN
+Lithium Americas,2.80,NAN
+Jet2,2.79,NAN
+Equity Commonwealth,2.79,NAN
+Port of Tauranga,2.79,NAN
+Easterly Government Properties,2.79,NAN
+Korn Ferry,2.79,NAN
+e.l.f. Cosmetics,2.79,NAN
+SimCorp,2.79,NAN
+Evergrande,2.78,NAN
+Crestwood Equity Partners,2.78,NAN
+Boise Cascade,2.78,NAN
+Makkah Construction & Development,2.78,NAN
+Allied Properties REIT,2.78,NAN
+TreeHouse Foods,2.78,NAN
+Patterson Companies,2.77,NAN
+Certara,2.77,NAN
+ViaSat,2.76,NAN
+JOYY,2.76,NAN
+Amedisys,2.75,NAN
+Punjab & Sind Bank,2.75,NAN
+Petco,2.75,NAN
+JK Cement,2.75,NAN
+Sumitomo Dainippon Pharma,2.74,NAN
+Mercury Systems,2.74,NAN
+Ermenegildo Zegna,2.74,NAN
+Atlantic Union Bankshares,2.74,NAN
+Big Yellow Group,2.74,NAN
+Encore Wire,2.73,NAN
+Bank of Maharashtra,2.73,NAN
+Vitesco Technologies Group,2.73,NAN
+Freenet,2.73,NAN
+Worthington Industries,2.73,NAN
+Ultrapar Participacoes,2.73,NAN
+Nerolac Paints,2.73,NAN
+Northern Oil and Gas,2.73,NAN
+CRISIL,2.73,NAN
+Fonterra,2.73,NAN
+BGF Retail,2.72,NAN
+Werner Enterprises,2.72,NAN
+H&R REIT,2.72,NAN
+BankUnited,2.72,NAN
+Hub Group,2.71,NAN
+Innospec,2.71,NAN
+InMode,2.71,NAN
+HighPeak Energy,2.71,NAN
+Excelerate Energy,2.71,NAN
+Relaxo Footwear,2.71,NAN
+Zee Entertainment,2.71,NAN
+Bausch Health,2.71,NAN
+Giant Network Group,2.71,NAN
+Varonis,2.71,NAN
+Sage Therapeutics,2.71,NAN
+Grindwell Norton,2.71,NAN
+Metcash,2.70,NAN
+Ipca Laboratories,2.70,NAN
+Forward Air,2.70,NAN
+CorVel Corporation,2.70,NAN
+Lundin Gold,2.69,NAN
+The Navigator Company,2.69,NAN
+Konecranes,2.69,NAN
+Siltronic,2.69,NAN
+Mitra Keluarga,2.69,NAN
+Helen of Troy,2.69,NAN
+Alm. Brand,2.67,NAN
+LIC Housing Finance,2.67,NAN
+XL Axiata,2.67,NAN
+International Distributions Services (Royal Mail),2.67,NAN
+Revolution Medicines,2.67,NAN
+Gibson Energy,2.67,NAN
+Travis Perkins,2.66,NAN
+Jetblue Airways,2.66,NAN
+DigitalOcean,2.66,NAN
+Safestore,2.66,NAN
+Globalstar,2.66,NAN
+Frontier Airlines,2.66,NAN
+IVERIC bio,2.66,NAN
+ALSOK,2.66,NAN
+SYNLAB,2.65,NAN
+Pegasus Airlines,2.65,NAN
+Dürr,2.65,NAN
+Vicor,2.65,NAN
+Resideo Technologies,2.65,NAN
+Tandem Diabetes Care,2.65,NAN
+Genworth Financial,2.65,NAN
+CNO Financial Group,2.64,NAN
+Energizer Holdings,2.64,NAN
+Cal-Maine Foods,2.64,NAN
+Itron,2.63,NAN
+Insmed,2.63,NAN
+Rand Merchant Investment,2.63,NAN
+Aksa Energy,2.63,NAN
+Spectrum Brands,2.62,NAN
+Hensoldt,2.62,NAN
+Fortis Healthcare,2.62,NAN
+Spin Master,2.62,NAN
+Otter Tail,2.62,NAN
+Alarm.com,2.62,NAN
+Joby Aviation,2.61,NAN
+Bayer Crop Science,2.61,NAN
+Alliance Resource Partners,2.61,NAN
+Steve Madden,2.61,NAN
+Pick n Pay Stores,2.61,NAN
+Urban Outfitters,2.61,NAN
+TeamViewer,2.61,NAN
+Solaria Energía,2.60,NAN
+MGE Energy,2.60,NAN
+Bavarian Nordic,2.60,NAN
+New India Assurance,2.60,NAN
+Hayward,2.60,NAN
+Rumble,2.60,NAN
+Myovant Sciences,2.60,NAN
+Xerox,2.60,NAN
+Dixon Technologies,2.60,NAN
+Perficient,2.60,NAN
+Nova Measuring Instruments,2.60,NAN
+Bachoco,2.60,NAN
+Mallplaza,2.59,NAN
+AMC Entertainment,2.59,NAN
+Elekta AB,2.58,NAN
+Leslie's,2.58,NAN
+Ansell,2.58,NAN
+Voltalia,2.58,NAN
+Dunelm Group,2.58,NAN
+Champion REIT,2.57,NAN
+Ebro Foods,2.57,NAN
+Mr Price Group,2.57,NAN
+Boral,2.57,NAN
+Kunlun Tech,2.57,NAN
+WH Smith,2.57,NAN
+Appian,2.57,NAN
+Trigano,2.57,NAN
+ALSO Holding,2.56,NAN
+Tianjin FAW,2.56,NAN
+Brady,2.56,NAN
+Fletcher Building,2.56,NAN
+Beach Energy,2.55,NAN
+Vivint Smart Home,2.55,NAN
+Tohoku Electric Power,2.54,NAN
+Omnicell,2.54,NAN
+Genus,2.54,NAN
+Aarti Industries,2.54,NAN
+Piper Sandler,2.54,NAN
+VIAVI Solutions,2.54,NAN
+Kontoor Brands,2.54,NAN
+Balfour Beatty,2.53,NAN
+Independent Bank Group,2.53,NAN
+Vermilion Energy,2.53,NAN
+Zain Saudi Arabia,2.53,NAN
+Compañía Cervecerías Unidas,2.53,NAN
+MDC Holdings,2.53,NAN
+Tronox,2.53,NAN
+Duck Creek Technologies,2.53,NAN
+TransAlta,2.53,NAN
+Iveco Group,2.53,NAN
+Swissquote,2.52,NAN
+Pan Ocean,2.52,NAN
+IHS Towers,2.52,NAN
+Red Rock Resorts,2.52,NAN
+Stepan Company,2.52,NAN
+Extreme Networks,2.51,NAN
+Keppel REIT,2.51,NAN
+Coca-Cola İçecek,2.51,NAN
+Multiplan Empreendimentos Imobiliários,2.51,NAN
+Kadokawa,2.51,NAN
+First Merchants Corporation,2.51,NAN
+Cembra Money Bank,2.51,NAN
+Harmony Gold,2.51,NAN
+Keywords Studios,2.51,NAN
+Arch Resources,2.51,NAN
+Relay Therapeutics,2.51,NAN
+Dana,2.50,NAN
+WIN Semiconductors,2.50,NAN
+MicroStrategy,2.50,NAN
+Innergex Renewable Energy,2.50,NAN
+Uniqa Insurance Group,2.50,NAN
+SD BioSensor,2.50,NAN
+ams AG,2.49,NAN
+Alpha Metallurgical Resources,2.49,NAN
+PB Fintech,2.49,NAN
+LGI Homes,2.49,NAN
+PagerDuty,2.49,NAN
+Dream Industrial REIT,2.48,NAN
+Primo Water,2.48,NAN
+Axos Financial,2.48,NAN
+Amylyx Pharmaceuticals,2.48,NAN
+Apollo Tyres,2.48,NAN
+Mirati Therapeutics,2.48,NAN
+Pacific Biosciences,2.47,NAN
+Bata India,2.47,NAN
+Hang Lung Group,2.47,NAN
+OPC Energy,2.47,NAN
+SATS,2.47,NAN
+Callon Petroleum,2.47,NAN
+Britvic,2.46,NAN
+NexTier Oilfield,2.46,NAN
+QinetiQ,2.46,NAN
+NetLink Trust,2.46,NAN
+United Natural Foods,2.45,NAN
+SL Green Realty,2.45,NAN
+Commvault,2.45,NAN
+Verint Systems,2.45,NAN
+Compagnie Plastic Omnium,2.45,NAN
+McGrath RentCorp,2.45,NAN
+Millicom,2.45,NAN
+SSP Group,2.45,NAN
+SoftwareONE,2.45,NAN
+Arbor Realty Trust,2.45,NAN
+Golar LNG,2.45,NAN
+CBIZ,2.45,NAN
+St. Joe Company,2.45,NAN
+John Wiley & Sons,2.44,NAN
+Jumbo S.A.,2.44,NAN
+EnPro Industries,2.44,NAN
+Rogers Corporation,2.44,NAN
+Covivio Hotels,2.44,NAN
+Kemira,2.44,NAN
+Sunnova,2.44,NAN
+ESCO Technologies,2.44,NAN
+Piramal Enterprises,2.43,NAN
+Integer Holdings,2.43,NAN
+Cogeco,2.43,NAN
+Osisko Gold Royalties,2.43,NAN
+Kingnet Network,2.43,NAN
+SJW Group,2.43,NAN
+Gestamp Automoción,2.43,NAN
+Hatsun Agro Products,2.43,NAN
+Holly Energy Partners,2.42,NAN
+Kimbell Royalty Partners,2.42,NAN
+Mandarin Oriental,2.42,NAN
+Permata Bank,2.42,NAN
+Outokumpu,2.42,NAN
+Maple Leaf Foods,2.42,NAN
+Baytex Energy,2.42,NAN
+Corcept Therapeutics,2.41,NAN
+INFICON,2.41,NAN
+Gerresheimer,2.41,NAN
+CASIO,2.41,NAN
+Iren,2.41,NAN
+Österreichische Post,2.40,NAN
+Immunovant,2.40,NAN
+Arconic,2.40,NAN
+Lightspeed POS,2.39,NAN
+Matson,2.39,NAN
+United Industrial Corporation,2.39,NAN
+Acer,2.39,NAN
+National Health Investors,2.39,NAN
+Jamf,2.39,NAN
+E-L Financial,2.39,NAN
+First Majestic Silver,2.39,NAN
+Gentherm,2.38,NAN
+Navient,2.38,NAN
+Endurance Technologies,2.38,NAN
+Kainos Group,2.38,NAN
+Weis Markets,2.37,NAN
+Grainger plc,2.37,NAN
+WaFd Bank,2.37,NAN
+Cyfrowy Polsat,2.37,NAN
+Shake Shack,2.37,NAN
+WD-40 Company,2.37,NAN
+Dermapharm,2.37,NAN
+Four Corners Property Trust,2.37,NAN
+Ashmore Group,2.36,NAN
+AEON REIT Investment,2.36,NAN
+KWS,2.36,NAN
+Chorus,2.36,NAN
+Artisan Partners,2.36,NAN
+Bowlero,2.36,NAN
+Laurus Labs,2.35,NAN
+Rocket Lab,2.35,NAN
+Alignment Healthcare,2.35,NAN
+1&1,2.35,NAN
+Akero Therapeutics,2.34,NAN
+Glaukos,2.34,NAN
+Kadant,2.34,NAN
+Golub Capital,2.34,NAN
+Emami,2.34,NAN
+Doosan Fuel Cell,2.34,NAN
+Devyani International,2.34,NAN
+Sun TV Network,2.34,NAN
+KPIT Technologies,2.33,NAN
+CompuGroup Medical,2.33,NAN
+First Financial Bank,2.33,NAN
+Office Depot,2.33,NAN
+Corbion,2.33,NAN
+Cavco Industries,2.33,NAN
+Netwealth,2.33,NAN
+Canada Goose,2.32,NAN
+Cracker Barrel,2.32,NAN
+Hays plc,2.32,NAN
+Weber,2.32,NAN
+Topaz Energy,2.32,NAN
+LondonMetric Property,2.32,NAN
+NuVasive,2.31,NAN
+Progress Software,2.31,NAN
+Befesa,2.30,NAN
+Whirlpool India,2.30,NAN
+MVV Energie,2.30,NAN
+Park National Corp,2.30,NAN
+MGP Ingredients,2.29,NAN
+Distell Group,2.29,NAN
+ReNew Power,2.29,NAN
+Revance Therapeutics,2.29,NAN
+Liontown Resources,2.29,NAN
+Columbia Bank,2.29,NAN
+VisEra Technologies,2.29,NAN
+Sonos,2.29,NAN
+NexPoint Residential,2.28,NAN
+NETSCOUT,2.28,NAN
+TowneBank,2.28,NAN
+Trinity Industries,2.28,NAN
+Tricon Residential,2.28,NAN
+TTEC,2.28,NAN
+SiTime,2.28,NAN
+FLSmidth,2.28,NAN
+Banco Macro,2.28,NAN
+Berner Kantonalbank,2.28,NAN
+OC Oerlikon,2.27,NAN
+Cedar Fair,2.27,NAN
+Darktrace,2.27,NAN
+Korea Gas,2.27,NAN
+Future plc,2.27,NAN
+Elkem,2.27,NAN
+Fisker,2.26,NAN
+NovaGold Resources,2.26,NAN
+Embraer,2.26,NAN
+Xenon Pharmaceuticals,2.26,NAN
+Entra,2.26,NAN
+Netcompany Group,2.26,NAN
+Buckle,2.25,NAN
+Griffon Corporation,2.25,NAN
+Boot Barn Holdings,2.25,NAN
+Evertec,2.25,NAN
+Spirit Airlines,2.24,NAN
+Kennedy Wilson,2.24,NAN
+ProSiebenSat.1 Media,2.24,NAN
+NexGen Energy,2.24,NAN
+Claros Mortgage Trust,2.23,NAN
+JBG SMITH,2.23,NAN
+Trupanion,2.23,NAN
+Jfrog,2.23,NAN
+Sabre,2.22,NAN
+Crombie Real Estate Investment Trust,2.22,NAN
+TORM,2.22,NAN
+AeroVironment,2.22,NAN
+Landis+Gyr,2.22,NAN
+WesBanco,2.21,NAN
+Barnes Group,2.21,NAN
+Patria Investments,2.21,NAN
+GMS,2.21,NAN
+Agiliti,2.21,NAN
+NOS,2.21,NAN
+BlackBerry,2.21,NAN
+IIFL Finance,2.20,NAN
+Tiger Brands,2.20,NAN
+Altice USA,2.20,NAN
+Banner Bank,2.20,NAN
+Silk Road Medical,2.20,NAN
+Chesapeake Utilities,2.20,NAN
+Kennametal,2.20,NAN
+Filo Mining,2.19,NAN
+FTAI Aviation,2.19,NAN
+Six Flags,2.19,NAN
+International Games System,2.19,NAN
+Sprinklr,2.19,NAN
+Dr Lal PathLabs,2.19,NAN
+Enlight Renewable Energy,2.19,NAN
+Strategic Education,2.19,NAN
+Interroll,2.19,NAN
+Gudang Garam,2.19,NAN
+Catalyst Pharmaceuticals,2.19,NAN
+Micro Focus,2.19,NAN
+Shutterstock,2.18,NAN
+AUTO1,2.18,NAN
+Itaú CorpBanca,2.18,NAN
+Ninety One Group,2.18,NAN
+Farfetch,2.18,NAN
+Luminar Technologies,2.18,NAN
+Verra Mobility,2.18,NAN
+Minerals Technologies,2.17,NAN
+Prestige Group,2.16,NAN
+NV5 Global,2.16,NAN
+PriceSmart,2.16,NAN
+Celldex Therapeutics,2.16,NAN
+Jeudan,2.16,NAN
+Plus500,2.16,NAN
+Credo Technology,2.16,NAN
+Kajaria Ceramics,2.16,NAN
+Carpenter Technology,2.16,NAN
+Silicon Motion,2.15,NAN
+Supernus Pharmaceuticals,2.15,NAN
+Aareal Bank,2.14,NAN
+Shimao Property,2.14,NAN
+Trustmark,2.14,NAN
+Cranswick,2.13,NAN
+Star Bulk Carriers,2.13,NAN
+Krystal Biotech,2.13,NAN
+Carborundum Universal,2.13,NAN
+Triple Flag Precious Metals,2.12,NAN
+Stella-Jones,2.12,NAN
+Empire State Realty Trust,2.12,NAN
+Renasant Corp,2.12,NAN
+Buenaventura Mining Company,2.12,NAN
+Redrow,2.12,NAN
+American Assets Trust,2.12,NAN
+RPC,2.11,NAN
+Sylvamo,2.11,NAN
+Edgewell Personal Care,2.11,NAN
+Fannie Mae,2.11,NAN
+Momo,2.10,NAN
+Cricut,2.10,NAN
+Delek Group,2.10,NAN
+Assura Plc,2.10,NAN
+Sunstone Hotel Investors,2.10,NAN
+Agilysys,2.10,NAN
+Bloomin' Brands,2.10,NAN
+AvidXchange,2.10,NAN
+Blue Dart Express,2.10,NAN
+Allscripts,2.09,NAN
+Central Garden & Pet,2.09,NAN
+Fine Organics,2.09,NAN
+Spirent,2.09,NAN
+The Foschini Group,2.09,NAN
+CI Financial,2.09,NAN
+Eve Air Mobility,2.09,NAN
+TRI Pointe Group,2.09,NAN
+Bharat Dynamics,2.09,NAN
+Indra Sistemas,2.09,NAN
+GoodRx,2.08,NAN
+Orange Polska,2.08,NAN
+Philip Morris ČR,2.08,NAN
+CONSOL Energy,2.08,NAN
+Breville Group,2.08,NAN
+Dave & Buster's,2.07,NAN
+Ramco Cements,2.07,NAN
+AMTD Digital,2.06,NAN
+Close Brothers Group,2.06,NAN
+Nu Skin,2.06,NAN
+Electra,2.06,NAN
+Gogo Inflight Internet,2.05,NAN
+Software AG,2.05,NAN
+Aliansce Sonae Shopping Centers,2.05,NAN
+USA Compression Partners,2.04,NAN
+Remitly,2.04,NAN
+eXp World Holdings,2.04,NAN
+Delek Logistics Partners,2.04,NAN
+Coface,2.04,NAN
+ZIM Integrated Shipping Services,2.04,NAN
+Hilltop Holdings,2.04,NAN
+Melco International Development,2.03,NAN
+PeptiDream,2.03,NAN
+Lenzing,2.03,NAN
+First Advantage,2.03,NAN
+BayWa,2.03,NAN
+Safehold,2.03,NAN
+Tata Teleservices,2.03,NAN
+Laboratorios Farmaceuticos Rovi,2.03,NAN
+Alony Hetz,2.03,NAN
+CSW Industrials,2.02,NAN
+ContourGlobal,2.02,NAN
+Harel Group,2.02,NAN
+Yelp,2.02,NAN
+Payoneer,2.02,NAN
+Winpak,2.02,NAN
+Kindred Group,2.02,NAN
+Playtech,2.01,NAN
+XPEL,2.01,NAN
+Stelco,2.01,NAN
+NuVista Energy,2.01,NAN
+Seacoast Banking,2.01,NAN
+Rapid7,2.00,NAN
+Basic-Fit,2.00,NAN
+Victory Capital,2.00,NAN
+AtriCure,2.00,NAN
+IIFL Wealth Management,2.00,NAN
+LifeStance Health Group,2.00,NAN
+Enerjisa Enerji,2.00,NAN
+Flagstar Bank,2.00,NAN
+Newmark,2.00,NAN
+Burford Capital,1.99,NAN
+Heartland Financial USA,1.99,NAN
+Canfor,1.99,NAN
+Air Transport Services Group,1.99,NAN
+Semtech,1.99,NAN
+RXO,1.98,NAN
+Grayscale Bitcoin Trust,1.98,NAN
+Mercury General,1.98,NAN
+Materion,1.98,NAN
+TG Therapeutics,1.98,NAN
+The Cheesecake Factory,1.98,NAN
+Expro Group,1.98,NAN
+Tidewater,1.97,NAN
+Ventyx Biosciences,1.96,NAN
+GlobalData,1.96,NAN
+Liberty Latin America,1.96,NAN
+Brigham Minerals,1.96,NAN
+ProKidney,1.96,NAN
+Pets at Home,1.95,NAN
+Salzgitter,1.95,NAN
+Krispy Kreme,1.95,NAN
+Helios Technologies,1.95,NAN
+Green Thumb Industries,1.95,NAN
+Constellium,1.95,NAN
+Tilray,1.95,NAN
+Coursera,1.94,NAN
+Pactiv Evergreen,1.94,NAN
+Curevac,1.94,NAN
+Frontdoor,1.94,NAN
+Pampa Energía,1.94,NAN
+ZipRecruiter,1.94,NAN
+BRP Group,1.94,NAN
+TransMedics Group,1.94,NAN
+Lakeland Financial Corp,1.94,NAN
+ICF International,1.94,NAN
+Warby Parker,1.93,NAN
+FormFactor,1.93,NAN
+Boardwalk Real Estate Investment Trust,1.93,NAN
+Eutelsat,1.93,NAN
+CarGurus,1.93,NAN
+Earthstone Energy,1.93,NAN
+Hornbach Baumarkt,1.93,NAN
+Green Plains,1.92,NAN
+Vector Group,1.92,NAN
+Compass Minerals,1.92,NAN
+Tanger Factory Outlet Centers,1.92,NAN
+Retail Opportunity Investments,1.92,NAN
+FibroGen,1.92,NAN
+DigitalBridge Group,1.92,NAN
+Exclusive Networks,1.92,NAN
+Energix Renewable Energies,1.92,NAN
+Mueller Water Products,1.92,NAN
+RWS Holdings,1.91,NAN
+Exide Industries,1.91,NAN
+SIGNA Sports United,1.91,NAN
+ImmunityBio,1.91,NAN
+Oceaneering International,1.91,NAN
+Bread Financial,1.91,NAN
+Veracyte,1.91,NAN
+StoneX Group,1.90,NAN
+Formosa Sumco Technology,1.90,NAN
+ArcBest,1.90,NAN
+Usiminas,1.90,NAN
+PageGroup,1.90,NAN
+Masonite,1.90,NAN
+Enterprise Financial Services Corp,1.90,NAN
+CommScope,1.90,NAN
+Colbún,1.90,NAN
+U.S. Cellular,1.89,NAN
+Canadian Western Bank,1.89,NAN
+Urban Edge Properties,1.89,NAN
+Kymera Therapeutics,1.89,NAN
+Toho Gas,1.89,NAN
+Nagarro,1.89,NAN
+BioCryst Pharmaceuticals,1.89,NAN
+National Aluminum & Alloy,1.89,NAN
+NuStar Energy,1.89,NAN
+NBT Bancorp,1.88,NAN
+Shinsegae,1.88,NAN
+AJ Bell,1.88,NAN
+Telenet,1.87,NAN
+Zug Estates Holding,1.87,NAN
+Altus Group,1.87,NAN
+CareTrust REIT,1.87,NAN
+Winnebago Industries,1.87,NAN
+ComfortDelGro,1.86,NAN
+Phreesia,1.86,NAN
+LOTTE Corporation,1.86,NAN
+Primary Health Properties,1.86,NAN
+MONETA Money Bank,1.86,NAN
+International Seaways,1.86,NAN
+Immofinanz,1.86,NAN
+Alamo Group,1.85,NAN
+WABCO India,1.85,NAN
+Labrador Iron Ore Royalty Corp.,1.85,NAN
+Vertex,1.85,NAN
+Braves Group,1.85,NAN
+Ingles Markets,1.84,NAN
+Victrex,1.84,NAN
+Goodman Property Trust,1.84,NAN
+Sacyr,1.84,NAN
+Paradox Interactive,1.84,NAN
+Century Communities,1.84,NAN
+Pebblebrook Hotel Trust,1.84,NAN
+CSG International,1.83,NAN
+Fairfax India Holdings,1.83,NAN
+Arcos Dorados Holdings,1.83,NAN
+Tamarack Valley Energy,1.83,NAN
+Cannae Holdings,1.83,NAN
+RLJ Lodging Trust,1.83,NAN
+Zeta Global,1.83,NAN
+Babcock International Group,1.83,NAN
+AssetMark,1.83,NAN
+Birchcliff Energy,1.83,NAN
+Nuvalent,1.83,NAN
+Peab,1.82,NAN
+Robertet,1.82,NAN
+Stock Yards Bancorp,1.82,NAN
+CJ Group,1.82,NAN
+Northwest Bank,1.82,NAN
+Diamondrock Hospitality Company,1.82,NAN
+Alfen,1.82,NAN
+Aavas Financiers,1.81,NAN
+Türkiye Kalkınma,1.81,NAN
+Almirall,1.81,NAN
+Forbo Holding,1.81,NAN
+Golden Ocean Group,1.81,NAN
+Pfeiffer Vacuum,1.81,NAN
+Jenoptik,1.81,NAN
+SpringWorks Therapeutics,1.80,NAN
+Verona Pharma,1.80,NAN
+Pigeon,1.80,NAN
+N-Able,1.80,NAN
+E2open,1.80,NAN
+Shaftesbury,1.80,NAN
+TDCX,1.80,NAN
+Sonic Automotive,1.80,NAN
+Ballard Power Systems,1.79,NAN
+NMI Holdings,1.79,NAN
+Olav Thon,1.79,NAN
+Hongkong and Shanghai Hotels,1.79,NAN
+Syndax Pharmaceuticals,1.79,NAN
+Genesis Energy,1.78,NAN
+TKH Group,1.78,NAN
+NorthWest Healthcare Properties REIT,1.78,NAN
+Bukalapak.com,1.78,NAN
+Arvinas,1.78,NAN
+Secure Energy Services,1.78,NAN
+Great Portland Estates,1.78,NAN
+Warrior Met Coal,1.77,NAN
+Ironwood Pharmaceuticals,1.77,NAN
+Hercules Capital,1.77,NAN
+Ryman Healthcare,1.77,NAN
+Kenon Holdings,1.77,NAN
+Mahindra CIE,1.77,NAN
+FB Financial,1.76,NAN
+TTM Technologies,1.76,NAN
+Q2,1.76,NAN
+Custom Truck One Source,1.76,NAN
+Arhaus,1.76,NAN
+Tabcorp,1.76,NAN
+3R Petroleum,1.76,NAN
+StorageVault Canada,1.76,NAN
+Rocket Pharmaceuticals,1.76,NAN
+Rhythm Pharmaceuticals,1.76,NAN
+Radico Khaitan,1.75,NAN
+Efes Beverage Group,1.75,NAN
+InterDigital,1.75,NAN
+Sandstorm Gold,1.75,NAN
+Revolve,1.75,NAN
+Freehold Royalties,1.75,NAN
+Aktieselskabet Schouw & Co.,1.75,NAN
+Sanoma,1.75,NAN
+Trainline,1.75,NAN
+Lindsay Corporation,1.75,NAN
+Target Hospitality,1.75,NAN
+Parex Resources,1.74,NAN
+Delek US,1.74,NAN
+World Fuel Services,1.74,NAN
+Getty Images,1.74,NAN
+NW Natural,1.74,NAN
+Hexaware Technologies,1.74,NAN
+Toyo Tire,1.73,NAN
+Fila,1.73,NAN
+Great Eagle,1.73,NAN
+Hanmi Pharmaceutical,1.73,NAN
+IDFC,1.73,NAN
+Quilter,1.73,NAN
+Redington India,1.73,NAN
+Talos Energy,1.73,NAN
+Wüstenrot & Württembergische,1.72,NAN
+Peyto Exploration & Development,1.72,NAN
+ForgeRock,1.72,NAN
+BRF,1.72,NAN
+TaskUs,1.72,NAN
+Vtech,1.72,NAN
+Budimex,1.71,NAN
+Seadrill,1.71,NAN
+MillerKnoll,1.71,NAN
+Pacira Biosciences,1.71,NAN
+First Bancorp,1.71,NAN
+IndiaMART,1.71,NAN
+H&E Equipment Services,1.71,NAN
+Cohu,1.71,NAN
+Loma Negra,1.71,NAN
+Piramal Pharma,1.71,NAN
+Granite Construction,1.70,NAN
+Hillman Solutions,1.70,NAN
+HPH Trust (Hutchison Port),1.70,NAN
+JYP Entertainment,1.70,NAN
+First National Financial,1.70,NAN
+Criteo,1.70,NAN
+Tokai Carbon,1.70,NAN
+Flex Lng,1.70,NAN
+DCM Shriram,1.70,NAN
+Exchange Income Corporation,1.69,NAN
+Hain Celestial,1.69,NAN
+DSME (Daewoo Shipbuilding),1.69,NAN
+Veritiv,1.69,NAN
+Schrödinger,1.69,NAN
+AAR,1.69,NAN
+Intapp,1.69,NAN
+Xencor,1.69,NAN
+Methode Electronics,1.69,NAN
+The Bancorp,1.69,NAN
+Adtalem Global Education,1.69,NAN
+Superior Plus,1.69,NAN
+Santam,1.69,NAN
+Bank für Tirol und Vorarlberg,1.69,NAN
+Oxford Industries,1.68,NAN
+EverCommerce,1.68,NAN
+Establishment Labs,1.68,NAN
+Diversey,1.68,NAN
+dormakaba,1.68,NAN
+Provident Financial Services,1.68,NAN
+Addus HomeCare,1.68,NAN
+Shufersal,1.68,NAN
+Minera Valparaíso,1.68,NAN
+Day One Biopharmaceuticals,1.67,NAN
+Redefine Properties,1.67,NAN
+InvenTrust Properties,1.67,NAN
+Veris Residential,1.67,NAN
+MYR Group,1.67,NAN
+TriCo Bancshares,1.67,NAN
+Tenneco,1.66,NAN
+Digital Turbine,1.66,NAN
+Eldorado Gold,1.66,NAN
+Viaplay Group,1.66,NAN
+Ratnamani Metals & Tubes,1.66,NAN
+TF1,1.66,NAN
+Chinook Therapeutics,1.66,NAN
+National Bank Holdings,1.65,NAN
+Fortune REIT,1.65,NAN
+Montauk Renewables,1.65,NAN
+Vivid Seats,1.65,NAN
+Upwork,1.65,NAN
+Brinker International,1.65,NAN
+Bank Danamon,1.65,NAN
+Apollo Commercial Real Estate,1.65,NAN
+Biotest,1.65,NAN
+Recursion Pharmaceuticals,1.64,NAN
+Air New Zealand,1.64,NAN
+Bystronic AG,1.64,NAN
+Nongshim,1.64,NAN
+Nokian Tyres,1.64,NAN
+Paladin Energy,1.64,NAN
+SJVN,1.63,NAN
+Top Glove,1.63,NAN
+Agios Pharmaceuticals,1.63,NAN
+VIZIO,1.63,NAN
+Apollo Medical Holdings,1.63,NAN
+EQB (Equitable Bank),1.63,NAN
+KIOCL,1.63,NAN
+Sappi,1.63,NAN
+Resolute Forest Products,1.63,NAN
+Marten Transport,1.63,NAN
+Bajaj Electricals,1.63,NAN
+PROCEPT BioRobotics,1.63,NAN
+Getty Realty,1.62,NAN
+HBM Healthcare Investments,1.62,NAN
+Zhejiang Jinke Tom Culture Industry,1.62,NAN
+Enghouse Systems,1.62,NAN
+TODA corp,1.62,NAN
+Madison Square Garden,1.61,NAN
+TAV Airports Holding,1.61,NAN
+Aurora Innovation,1.61,NAN
+Savills,1.61,NAN
+Hudbay Minerals,1.61,NAN
+Harmonic,1.61,NAN
+Galaxy Digital Holdings,1.61,NAN
+Elme Communities,1.61,NAN
+Herbalife,1.61,NAN
+Bodycote,1.61,NAN
+MAG Silver,1.60,NAN
+Chartwell Retirement Residences,1.60,NAN
+LiveRamp,1.60,NAN
+Sanofi India Limited,1.60,NAN
+Momentum Metropolitan,1.60,NAN
+TAG Immobilien,1.60,NAN
+Xenia Hotels & Resorts,1.60,NAN
+Evraz,1.60,NAN
+Elgi Equipments,1.59,NAN
+Happiest Minds Technologies,1.59,NAN
+Gibraltar Industries,1.59,NAN
+CSI,1.59,NAN
+LegalZoom,1.59,NAN
+billtrust (BTRS),1.59,NAN
+Knowles,1.59,NAN
+Corporación América Airports,1.59,NAN
+Nabors Industries,1.59,NAN
+Sandy Spring Bank,1.58,NAN
+Vaisala,1.58,NAN
+Chimera Investment Corporation,1.58,NAN
+Model N,1.58,NAN
+Stellar Bancorp,1.58,NAN
+Deutsche EuroShop,1.58,NAN
+Super Group,1.58,NAN
+Celestica,1.57,NAN
+Jack in the Box,1.57,NAN
+Jindal Stainless,1.57,NAN
+Sally Beauty Holdings,1.57,NAN
+Laureate Education,1.57,NAN
+NH Hotel Group,1.56,NAN
+Getnet,1.56,NAN
+Infinera,1.56,NAN
+Atos,1.56,NAN
+Westamerica Bancorporation,1.56,NAN
+Hims & Hers Health,1.56,NAN
+Veritex Holdings,1.56,NAN
+Compass,1.56,NAN
+Life Healthcare Group,1.56,NAN
+Bank of N. T. Butterfield & Son,1.56,NAN
+PMetal (Press Metal Aluminium),1.56,NAN
+Shikun & Binui,1.56,NAN
+Montrose Environmental,1.55,NAN
+Indian Energy Exchange,1.55,NAN
+Udemy,1.55,NAN
+Richelieu Hardware,1.55,NAN
+XD Inc.,1.55,NAN
+Virtus Investment Partners,1.55,NAN
+Hope Bancorp,1.55,NAN
+Vista Outdoor,1.55,NAN
+Prime Medicine,1.55,NAN
+Horace Mann Educators,1.55,NAN
+ADTRAN,1.54,NAN
+Gulfport Energy,1.54,NAN
+Asahi India Glass,1.54,NAN
+BGC Partners,1.54,NAN
+Trisura Group,1.54,NAN
+Owens & Minor,1.54,NAN
+YOOZOO Interactive,1.54,NAN
+Mirion Technologies,1.54,NAN
+Dis-Chem Pharmacies,1.53,NAN
+Transaction Capital,1.53,NAN
+Chambal Fertilisers,1.53,NAN
+Paragon 28,1.53,NAN
+Tecnoglass,1.53,NAN
+Killam Apartment REIT,1.53,NAN
+Helios Towers,1.53,NAN
+AVI Limited,1.53,NAN
+Grosvenor Capital Management,1.53,NAN
+KEC International,1.53,NAN
+Monarch Casino & Resort,1.53,NAN
+Borregaard,1.52,NAN
+DeNA,1.52,NAN
+Jastrzebska Spólka Weglowa,1.52,NAN
+Sterling Check,1.52,NAN
+EVgo,1.52,NAN
+Hindustan Copper,1.52,NAN
+stem,1.52,NAN
+Monro,1.52,NAN
+Compass Diversified Holdings,1.51,NAN
+Jasa Marga,1.51,NAN
+Sixth Street Specialty Lending,1.51,NAN
+First National of Nebraska,1.51,NAN
+Fever-Tree Drinks,1.51,NAN
+Myriad Genetics,1.51,NAN
+K92 Mining,1.51,NAN
+Cargojet,1.51,NAN
+Acadia Realty Trust,1.50,NAN
+Hudson Pacific Properties,1.50,NAN
+LTC Properties,1.50,NAN
+City Union Bank,1.50,NAN
+Two Harbors Investment,1.50,NAN
+Eagle Bancorp,1.44,NAN
+ACV Auctions,1.44,NAN
+Goosehead Insurance,1.44,NAN
+Hornbach Holding,1.44,NAN
+Middlesex Water Company,1.44,NAN
+Avidity Biosciences,1.50,NAN
+Sihanoukville Autonomous Port,1.50,NAN
+Yanlord,1.50,NAN
+EchoStar,1.50,NAN
+Patrick Industries,1.50,NAN
+InterRent Real Estate Investment Trust,1.50,NAN
+Kinetik,1.49,NAN
+FREYR Battery,1.49,NAN
+Corsair Gaming,1.49,NAN
+Janus International Group,1.49,NAN
+UCT (Ultra Clean Holdings),1.49,NAN
+SolarWinds,1.49,NAN
+Formosa Taffeta,1.49,NAN
+Oatly,1.49,NAN
+AT&S Austria Technologie & Systemtechnik,1.49,NAN
+Fiskars,1.48,NAN
+YTL Corporation Berhad,1.44,NAN
+Russel Metals,1.44,NAN
+Siam City Cement (INSEE),1.44,NAN
+Alexander & Baldwin,1.44,NAN
+Treace Medical Concepts,1.43,NAN
+Everi Holdings,1.43,NAN
+HiteJinro,1.43,NAN
+Aston Martin,1.43,NAN
+Guaranty Trust Bank,1.43,NAN
+Geo Group,1.42,NAN
+WeWork,1.42,NAN
+Virgin Galactic,1.42,NAN
+Zentalis Pharmaceuticals,1.42,NAN
+KRUK Spólka Akcyjna,1.42,NAN
+K12,1.42,NAN
+CenturyPly,1.42,NAN
+Par Pacific Holdings,1.42,NAN
+Adaptive Biotechnologies,1.42,NAN
+Live Oak Bank,1.42,NAN
+Triumph Bancorp,1.48,NAN
+Andlauer Healthcare Group,1.48,NAN
+Sheela Foam,1.48,NAN
+Textainer Group,1.48,NAN
+Arendals Fossekompani,1.48,NAN
+Archrock,1.48,NAN
+OSI Systems,1.48,NAN
+Cytek Biosciences,1.48,NAN
+RHI Magnesita,1.48,NAN
+Marcus & Millichap,1.48,NAN
+M/I Homes,1.48,NAN
+Vista Oil & Gas,1.47,NAN
+CTS Corporation,1.47,NAN
+Arcus Biosciences,1.47,NAN
+Meridian Bioscience,1.47,NAN
+Integral Ad Science,1.47,NAN
+Perimeter Solutions,1.42,NAN
+The Beauty Health Company,1.41,NAN
+Geron,1.41,NAN
+Cassava Sciences,1.41,NAN
+Amplitude,1.41,NAN
+Ero Copper,1.41,NAN
+DHT Holdings,1.41,NAN
+Truecaller,1.41,NAN
+Poshmark,1.41,NAN
+Verve Therapeutics,1.41,NAN
+ModivCare,1.40,NAN
+Kaiser Aluminum,1.40,NAN
+The Chefs' Warehouse,1.40,NAN
+Bank Islam Malaysia,1.40,NAN
+SM Entertainment,1.40,NAN
+goeasy,1.40,NAN
+DICE Therapeutics,1.40,NAN
+Twist Bioscience,1.47,NAN
+KAR Auction Services,1.46,NAN
+Blue Star,1.46,NAN
+Sovos Brands,1.46,NAN
+Scandinavian Tobacco Group,1.46,NAN
+BASF India,1.46,NAN
+Global Net Lease,1.46,NAN
+Arcellx,1.46,NAN
+NOW Inc.,1.46,NAN
+Glenmark Pharmaceuticals,1.46,NAN
+GrafTech,1.46,NAN
+Allegiant Air,1.45,NAN
+Viridian Therapeutics,1.45,NAN
+Uranium Energy,1.45,NAN
+Construction Partners,1.45,NAN
+Inter Cars,1.45,NAN
+Scholastic,1.45,NAN
+Suzlon,1.45,NAN
+Paramount Group,1.45,NAN
+Wacker Neuson,1.40,NAN
+Asseco,1.40,NAN
+Amphastar Pharmaceuticals,1.39,NAN
+Reata Pharmaceuticals,1.39,NAN
+Ladder Capital,1.39,NAN
+Replimune,1.39,NAN
+Rent-A-Center,1.39,NAN
+C3 AI,1.39,NAN
+City Holding Company,1.39,NAN
+TechTarget,1.39,NAN
+Upstart,1.39,NAN
+International Petroleum,1.39,NAN
+Deciphera Pharmaceuticals,1.45,NAN
+Dynavax Technologies,1.44,NAN
+Enerpac Tool Group,1.44,NAN
+Huron Consulting,1.44,NAN
+UNITI,1.44,NAN
+Planet Labs,1.39,NAN
+Mativ Holdings,1.38,NAN
+NeoGenomics,1.38,NAN
+Casino Guichard-Perrachon,1.38,NAN
+Berkshire Hills Bancorp,1.38,NAN
+Veidekke,1.38,NAN
+PRA Group,1.38,NAN
+NLC India,1.38,NAN
+Ottogi,1.38,NAN
+Maytronics,1.38,NAN
+Medifast,1.38,NAN
+tuya,1.38,NAN
+Partner Communications,1.38,NAN
+First Busey,1.37,NAN
+CDSL,1.37,NAN
+SpareBank 1,1.37,NAN
+ANGI Homeservices,1.37,NAN
+secunet,1.37,NAN
+Ready Capital,1.37,NAN
+Diagnosticos da America,1.37,NAN
+Abercrombie & Fitch,1.37,NAN
+Atoss,1.37,NAN
+GAG Immobilien,1.36,NAN
+China Gold International Resources,1.36,NAN
+Avanos Medical,1.36,NAN
+Kratos Defense & Security Solutions,1.36,NAN
+Alkami Technology,1.36,NAN
+P10,1.36,NAN
+Pilot Corporation,1.35,NAN
+Mixi,1.35,NAN
+Centerra Gold,1.35,NAN
+V-Guard Industries,1.35,NAN
+Aether Industries,1.35,NAN
+Qt Group,1.35,NAN
+Ivanhoe Electric,1.35,NAN
+Aris Water Solutions,1.35,NAN
+Gamma Communications,1.35,NAN
+Keros Therapeutics,1.35,NAN
+OFG Bancorp,1.35,NAN
+EIH Limited,1.35,NAN
+Saul Centers,1.35,NAN
+Ourpalm,1.34,NAN
+Meliá Hotels International,1.34,NAN
+First Commonwealth Financial Corp,1.34,NAN
+FIGS,1.34,NAN
+Summerset Holdings,1.34,NAN
+Altus Power,1.34,NAN
+Xometry,1.34,NAN
+Pediatrix Medical Group,1.34,NAN
+Trulieve Cannabis,1.34,NAN
+Service Properties Trust,1.34,NAN
+Genesis Energy L.P.,1.34,NAN
+Jindal Stainless (Hisar),1.34,NAN
+Alembic Pharmaceuticals,1.33,NAN
+Fresh Del Monte Produce,1.33,NAN
+Finolex Industries,1.33,NAN
+Perion Network,1.33,NAN
+Calumet Specialty Products Partners,1.33,NAN
+KCC Corp,1.33,NAN
+SFL Corp,1.33,NAN
+Utz Brands,1.33,NAN
+Kornit Digital,1.33,NAN
+John Wood Group,1.33,NAN
+RSA Insurance Group,1.33,NAN
+EQRx,1.33,NAN
+Vericel,1.33,NAN
+Iamgold,1.33,NAN
+Meta Financial Group,1.32,NAN
+Universal Corporation,1.32,NAN
+GasLog,1.32,NAN
+Polenergia,1.32,NAN
+S&T Bancorp,1.32,NAN
+Hipgnosis Songs Fund,1.32,NAN
+Magnite,1.32,NAN
+1st Source,1.32,NAN
+CoreCivic,1.32,NAN
+Bilfinger,1.32,NAN
+Compañía de Acero del Pacífico,1.32,NAN
+Borr Drilling,1.32,NAN
+Embecta,1.31,NAN
+Eurocommercial Properties,1.31,NAN
+Primoris Services Corporation,1.31,NAN
+Federal Agricultural Mortgage,1.31,NAN
+AMAG Austria Metall,1.31,NAN
+Digi International,1.31,NAN
+V2X,1.31,NAN
+Standex,1.31,NAN
+FuelCell Energy,1.31,NAN
+iRobot,1.31,NAN
+Palomar Holdings,1.30,NAN
+PC Connection,1.30,NAN
+BridgeBio Pharma,1.30,NAN
+IntegraFin,1.30,NAN
+Afya,1.30,NAN
+Nikola,1.30,NAN
+OceanFirst Financial,1.30,NAN
+Cancom,1.30,NAN
+Travere Therapeutics,1.30,NAN
+Definitive Healthcare,1.30,NAN
+Cinemark Theatres,1.30,NAN
+Heartland Express,1.30,NAN
+Outset Medical,1.29,NAN
+Telephone and Data Systems,1.29,NAN
+Blucora,1.29,NAN
+Enovix,1.29,NAN
+Ecovyst,1.29,NAN
+RBL Bank,1.29,NAN
+Enova International,1.29,NAN
+Aurinia Pharmaceuticals,1.29,NAN
+Orla Mining,1.29,NAN
+Clean Energy Fuels,1.29,NAN
+Atea ASA,1.28,NAN
+The North West Company,1.28,NAN
+ePlus,1.28,NAN
+Huya,1.28,NAN
+Bénéteau,1.28,NAN
+Paya,1.28,NAN
+Dime Community Bancshares,1.28,NAN
+PennyMac Mortgage Investment Trust,1.28,NAN
+Nevro,1.27,NAN
+Uponor,1.27,NAN
+Green Brick Partners,1.27,NAN
+Biohaven Pharmaceutical,1.27,NAN
+TriMas,1.27,NAN
+MannKind Corp,1.27,NAN
+Kronos Worldwide,1.27,NAN
+Equinox Gold,1.26,NAN
+HNI Corporation,1.26,NAN
+Canopy Growth,1.26,NAN
+CinCor Pharma,1.26,NAN
+PVR Cinemas,1.26,NAN
+Deutsche Pfandbriefbank,1.26,NAN
+Precinct Properties,1.26,NAN
+Telia Lietuva,1.26,NAN
+Avid Technology,1.26,NAN
+Safety Insurance,1.26,NAN
+dentalcorp,1.26,NAN
+Hudco,1.26,NAN
+Stewart Information Services,1.26,NAN
+Uni-Select,1.26,NAN
+Sinclair Broadcast,1.26,NAN
+Tennant Company,1.25,NAN
+Himax,1.25,NAN
+Waterdrop Inc.,1.25,NAN
+NetDragon Websoft,1.25,NAN
+Skycity Entertainment Group,1.25,NAN
+PureCycle Technologies,1.25,NAN
+ProPetro,1.24,NAN
+PBF Logistics,1.24,NAN
+Carvana,1.24,NAN
+Grenke,1.24,NAN
+Clearfield,1.24,NAN
+Indian Telephone Industries,1.24,NAN
+Energy Recovery,1.24,NAN
+MeridianLink,1.24,NAN
+SES AI,1.24,NAN
+Shop Apotheke Europe,1.23,NAN
+Radius Global Infrastructure,1.23,NAN
+Citycon,1.23,NAN
+OYAK Çimento,1.23,NAN
+Natco Pharma,1.23,NAN
+Fiverr,1.23,NAN
+Schweiter Technologies,1.23,NAN
+Piedmont Office Realty Trust,1.23,NAN
+Guess,1.23,NAN
+Allcargo Logistics,1.23,NAN
+Donnelley Financial Solutions,1.22,NAN
+Kayne Anderson Capital Advisors,1.22,NAN
+Encore Capital Group,1.22,NAN
+VIP Industries,1.22,NAN
+Mediaset España Comunicación,1.22,NAN
+Brookline Bancorp,1.22,NAN
+Ryerson,1.22,NAN
+Volaris,1.22,NAN
+Morphic Therapeutic,1.22,NAN
+Pharma Mar,1.22,NAN
+Magellan Financial Group,1.22,NAN
+Sapiens,1.21,NAN
+NextGen Healthcare,1.21,NAN
+Imago BioSciences,1.21,NAN
+Wabash National,1.21,NAN
+Xponential Fitness,1.21,NAN
+OPKO Health,1.21,NAN
+Citizen Watch,1.21,NAN
+Cyient,1.21,NAN
+Sierra Wireless,1.21,NAN
+Modine Manufacturing,1.20,NAN
+Kforce,1.20,NAN
+The Andersons,1.20,NAN
+Diversified Energy,1.20,NAN
+Mechel PAO,1.20,NAN
+Varta,1.20,NAN
+Ligand Pharmaceuticals,1.20,NAN
+Helix Energy Solutions,1.20,NAN
+EaseMyTrip,1.20,NAN
+Orion Engineered Carbons,1.20,NAN
+PGT Innovations,1.19,NAN
+CropEnergies,1.19,NAN
+TANLA,1.19,NAN
+3D Systems,1.19,NAN
+Banco de Brasília,1.19,NAN
+Aclaris Therapeutics,1.19,NAN
+Lakeland Bancorp,1.19,NAN
+Formula Systems,1.19,NAN
+Malibu Boats,1.19,NAN
+ProFrac,1.19,NAN
+Amara Raja Batteries,1.19,NAN
+Capitol Federal Savings Bank,1.19,NAN
+Costamare,1.19,NAN
+Korian,1.19,NAN
+AdvanSix,1.19,NAN
+East India Distilleries Parry,1.18,NAN
+Bytes Technology,1.18,NAN
+Fastly,1.18,NAN
+Ascential,1.18,NAN
+Caverion,1.18,NAN
+Dingdong Maicai,1.18,NAN
+Nicolet Bankshares,1.17,NAN
+NaaS Technology,1.17,NAN
+Zydus Wellness,1.17,NAN
+Eckert & Ziegler,1.17,NAN
+Semrush,1.17,NAN
+Employers Holdings,1.17,NAN
+Southside Bancshares,1.17,NAN
+Hollysys Automation Technologie,1.17,NAN
+Franklin BSP Realty Trust,1.17,NAN
+Faes Farma,1.16,NAN
+OPAL Fuels,1.16,NAN
+U.S. Physical Therapy,1.16,NAN
+Dorchester Minerals,1.16,NAN
+A10 Networks,1.16,NAN
+E. W. Scripps Company,1.16,NAN
+Docebo,1.15,NAN
+Fenix Outdoor,1.15,NAN
+Origin Bancorp,1.15,NAN
+Netstreit,1.15,NAN
+Diamond Offshore Drilling,1.15,NAN
+Kingsoft Cloud,1.15,NAN
+Taro Pharmaceutical,1.15,NAN
+Prosegur,1.15,NAN
+La-Z-Boy,1.14,NAN
+RadNet,1.14,NAN
+Advantage Energy,1.14,NAN
+Aimco,1.14,NAN
+Everbridge,1.14,NAN
+ACLEDA Bank,1.14,NAN
+PDF Solutions,1.14,NAN
+Pliant Therapeutics,1.14,NAN
+CI&T,1.14,NAN
+B. Riley Financial,1.14,NAN
+Grupa Zywiec,1.14,NAN
+Global Partners LP,1.14,NAN
+GB Group (GBG),1.13,NAN
+MFA Financial,1.13,NAN
+Uniper,1.13,NAN
+Doosan,1.13,NAN
+Tellurian,1.13,NAN
+Photronics,1.13,NAN
+Lemonade,1.13,NAN
+Grendene,1.13,NAN
+Seabridge Gold,1.13,NAN
+Laurentian Bank of Canada,1.13,NAN
+Westshore Terminals Investment,1.13,NAN
+Consensus Cloud Solutions,1.13,NAN
+Zhihu,1.13,NAN
+STRATEC,1.13,NAN
+Bpost,1.12,NAN
+Olo,1.12,NAN
+Brandywine Realty Trust,1.12,NAN
+Matthews International Corporation,1.12,NAN
+Coeur Mining,1.12,NAN
+Playa Hotels & Resorts,1.12,NAN
+Atrion,1.12,NAN
+German American Bancorp,1.12,NAN
+Tompkins Financial,1.11,NAN
+Jamieson Wellness,1.11,NAN
+Proterra,1.11,NAN
+Bonheur ASA,1.11,NAN
+Danaos,1.11,NAN
+THG (The Hut Group),1.11,NAN
+Denison Mines,1.11,NAN
+Revenio,1.11,NAN
+Nutex Health,1.11,NAN
+Paysafe,1.11,NAN
+Hangzhou Shunwang Technology,1.11,NAN
+Dah Sing Banking Group,1.11,NAN
+USANA,1.11,NAN
+VEON,1.10,NAN
+Cosmo Pharmaceuticals,1.10,NAN
+Precision Drilling Corporation,1.10,NAN
+CVR Partners,1.10,NAN
+Golden Entertainment,1.10,NAN
+23andMe,1.10,NAN
+Energy Fuels,1.10,NAN
+MTY Food Group,1.10,NAN
+Camtek,1.10,NAN
+Prosegur Cash,1.09,NAN
+Freightways,1.09,NAN
+Franchise Group,1.09,NAN
+Camping World,1.09,NAN
+Merchants Bancorp,1.09,NAN
+Miramar Hotel and Investment,1.09,NAN
+Sweetgreen,1.09,NAN
+Piedmont Lithium,1.09,NAN
+AZZ,1.09,NAN
+Sun Country Airlines,1.09,NAN
+UserTesting,1.08,NAN
+New York Mortgage Trust,1.08,NAN
+Cowen,1.08,NAN
+SpartanNash,1.08,NAN
+Metrovacesa,1.08,NAN
+IGM Biosciences,1.08,NAN
+Core Laboratories,1.08,NAN
+NAPCO Security Technologies,1.08,NAN
+Mullen Group,1.08,NAN
+OdontoPrev,1.08,NAN
+Armada Hoffler Properties,1.08,NAN
+uniQure,1.08,NAN
+American Well,1.07,NAN
+PROS,1.07,NAN
+Dundee Precious Metals,1.07,NAN
+Momentive Global,1.07,NAN
+Titan International,1.07,NAN
+S&T AG,1.07,NAN
+EHang Holdings,0.96,NAN
+Nexa Resources,0.96,NAN
+Central Puerto,0.96,NAN
+Summit Therapeutics,0.96,NAN
+AmRest,0.96,NAN
+Scilex Holding,1.07,NAN
+Fnac Darty,1.07,NAN
+Wolverine World Wide,1.07,NAN
+Gray Television,1.07,NAN
+Agrana,1.07,NAN
+Hamburger Hafen,1.07,NAN
+Cementir,1.07,NAN
+KKR Real Estate Finance Trust,1.07,NAN
+Enanta Pharmaceuticals,1.07,NAN
+Rhön-Klinikum,1.06,NAN
+Fortuna Silver Mines,1.06,NAN
+SiriusPoint,1.06,NAN
+The Shyft Group,1.06,NAN
+Preferred Bank,1.06,NAN
+REGENXBIO,1.06,NAN
+National Express Group,1.06,NAN
+Grupa Kety,1.06,NAN
+Tejas Networks,1.06,NAN
+Youdao,0.96,NAN
+Collegium Pharmaceutical,0.96,NAN
+Barings BDC,0.96,NAN
+Italtile,0.96,NAN
+Central Securities,0.96,NAN
+Cronos Group,0.96,NAN
+Customers Bancorp,0.96,NAN
+Portillo's,0.96,NAN
+The Greenbrier Companies,0.96,NAN
+SunOpta,0.96,NAN
+Jeld-Wen,0.95,NAN
+HireRight,0.95,NAN
+Morguard,0.95,NAN
+Barloworld,0.95,NAN
+Waldencast,0.95,NAN
+ASOS,0.95,NAN
+Juventus Turin,0.95,NAN
+New Work,0.95,NAN
+LSB Industries,1.05,NAN
+Heritage Financial,1.05,NAN
+Opendoor,1.05,NAN
+MoneyGram,1.05,NAN
+Global Blue Group,1.05,NAN
+First Watch Restaurant,0.95,NAN
+BBVA Argentina,0.95,NAN
+Nürnberger Versicherung,0.95,NAN
+Modern Times Group (MTG),0.94,NAN
+flatexDEGIRO AG,0.94,NAN
+The First Bancshares,0.94,NAN
+Argo Group,0.94,NAN
+Applus Services,0.94,NAN
+Amerant Bancorp,0.94,NAN
+Pushpay Holdings,0.94,NAN
+Yatsen Holding,0.94,NAN
+U.S. Silica,0.94,NAN
+TomTom,0.94,NAN
+Sri Trang Gloves,0.94,NAN
+Dream Finders Homes,0.94,NAN
+Steel Partners,0.94,NAN
+Schnitzer Steel,0.94,NAN
+Sparkassen Immobilien,0.94,NAN
+BrightSpire Capital,0.93,NAN
+Inter & Co,0.93,NAN
+Amryt Pharma,0.93,NAN
+Kiwi Property,0.93,NAN
+Overstock.com,0.93,NAN
+Alamar Foods Company,0.93,NAN
+WideOpenWest,0.93,NAN
+Sumo Logic,0.93,NAN
+Jeju Air,0.93,NAN
+Tauron Polska,0.93,NAN
+Innoviva,0.93,NAN
+Trinseo,0.93,NAN
+Knr Constructions,0.93,NAN
+Savencia Fromage & Dairy,0.92,NAN
+Terveystalo,0.92,NAN
+Hibbett Sports,0.92,NAN
+MYT Netherlands Parent (Mytheresa),0.92,NAN
+Universal Logistics Holdings,0.92,NAN
+Green Dot,0.92,NAN
+Osisko Mining,0.92,NAN
+PostNL,1.05,NAN
+Headwater Exploration,1.05,NAN
+Karur Vysya Bank,1.04,NAN
+Membership Collective,1.04,NAN
+Select Energy Services,1.04,NAN
+Finolex Cables,1.04,NAN
+i3 Verticals,0.92,NAN
+iHeartMedia,0.91,NAN
+Imax Corp,0.91,NAN
+Adecoagro,0.91,NAN
+Hypoport,0.91,NAN
+CGN Mining Company,0.91,NAN
+Century Aluminum,0.91,NAN
+Perella Weinberg Partners,0.91,NAN
+Graphite India,0.91,NAN
+Gree,0.91,NAN
+Cogent Biosciences,0.91,NAN
+Albireo Pharma,0.91,NAN
+A-Mark Precious Metals,0.90,NAN
+Veeco,1.04,NAN
+NRC Health,1.04,NAN
+Patrizia Immobilien,1.04,NAN
+Novavax,1.04,NAN
+Cross Country Healthcare,1.04,NAN
+Banc of California,1.04,NAN
+Galaxy Surfactants,1.04,NAN
+Columbus McKinnon,1.03,NAN
+Jindal Worldwide,1.03,NAN
+Gogoro,1.03,NAN
+AST SpaceMobile,1.03,NAN
+Construcciones y Auxiliar de Ferrocarriles,1.03,NAN
+Sprott Inc,1.03,NAN
+Mahanagar Gas,1.03,NAN
+OrthoPediatrics,1.03,NAN
+SkyWest,1.03,NAN
+Inhibrx,1.03,NAN
+Van Lanschot Kempen,1.02,NAN
+Enerflex,0.89,NAN
+Matterport,0.89,NAN
+UFP Technologies,0.89,NAN
+RAPT Therapeutics,0.89,NAN
+Arco Platform,0.89,NAN
+National Healthcare,0.89,NAN
+AerSale,0.89,NAN
+BSE,0.89,NAN
+Synthomer,0.90,NAN
+The Necessity Retail REIT,0.90,NAN
+Shentel,0.90,NAN
+Ferroglobe,0.90,NAN
+Stratasys,0.90,NAN
+Phnom Penh Water Supply Authority,0.90,NAN
+Pharming Group,0.90,NAN
+Plymouth Industrial REIT,0.90,NAN
+IRSA Inversiones y Representaciones,0.90,NAN
+Rush Street Interactive,0.90,NAN
+Genius Sports,0.90,NAN
+Ceres Power,0.90,NAN
+Myers Industries,0.90,NAN
+Sana Biotechnology,0.90,NAN
+Singapore Post,0.90,NAN
+Yellow Cake plc,0.90,NAN
+Recipe Unlimited,0.90,NAN
+IDEAYA Biosciences,0.90,NAN
+Apogee Enterprises,1.02,NAN
+Allego,1.02,NAN
+Community Healthcare Trust,1.02,NAN
+Sterling Construction,1.02,NAN
+InnovAge,1.02,NAN
+Westrock Coffee,1.02,NAN
+ProAssurance,1.02,NAN
+CryoPort,1.02,NAN
+Arko,1.02,NAN
+Healthcare Services Group,1.02,NAN
+Open Lending,1.01,NAN
+MRC Global,1.01,NAN
+NCC,1.01,NAN
+Allogene Therapeutics,1.01,NAN
+Palfinger,1.01,NAN
+Astra Agro Lestari,1.01,NAN
+Mesa Laboratories,1.01,NAN
+Avid Bioservices,1.01,NAN
+Li-Cycle,1.01,NAN
+Ichor Systems,0.88,NAN
+Douglas Dynamics,0.88,NAN
+BrightSphere Investment Group,0.88,NAN
+Winmark,0.88,NAN
+indie Semiconductor,0.88,NAN
+Westlake Chemical Partners,0.88,NAN
+Geopark,0.88,NAN
+(DIA) Distribuidora Internacional de Alimentación,0.88,NAN
+IonQ,0.88,NAN
+Astec Industries,0.88,NAN
+Chase Corporation,0.87,NAN
+Norway Royal Salmon,0.87,NAN
+RCI Hospitality Holdings,0.87,NAN
+CRA International,0.87,NAN
+Radware,0.87,NAN
+NBCC India,0.87,NAN
+GoPro,0.87,NAN
+RPT Realty,0.87,NAN
+International Money Express,0.87,NAN
+Steelcase,0.87,NAN
+Asiana Airlines,0.87,NAN
+Agenus,0.89,NAN
+Zuora,0.89,NAN
+Anywhere Real Estate,0.89,NAN
+Riskified,0.89,NAN
+Provention Bio,0.89,NAN
+American Woodmark,0.89,NAN
+ioneer,0.89,NAN
+Marathon Digital Holdings,0.89,NAN
+Beyond Meat,1.01,NAN
+LeMaitre Vascular,1.01,NAN
+Conduent,1.01,NAN
+Kiniksa Pharmaceuticals,1.01,NAN
+American Axle & Manufacturing,1.01,NAN
+Tianyu Digital Technology (Dalian),1.00,NAN
+Benchmark Electronics,1.00,NAN
+TimkenSteel,0.87,NAN
+Cardinal Energy,0.86,NAN
+Grid Dynamics,0.86,NAN
+Exscientia,0.86,NAN
+Shinpoong Pharm,0.86,NAN
+PureTech Health,0.86,NAN
+Cerence,0.86,NAN
+Redwood Trust,0.86,NAN
+ViewRay,0.86,NAN
+PAR Technology,0.86,NAN
+W&T Offshore,0.86,NAN
+Alpha & Omega Semiconductor,0.86,NAN
+Arcutis Biotherapeutics,0.86,NAN
+7Road,0.86,NAN
+Cera Sanitaryware,0.85,NAN
+Bain Capital,0.85,NAN
+Bangkok Airways,0.85,NAN
+Janux Therapeutics,0.85,NAN
+Perdoceo Education,1.00,NAN
+AMERISAFE,1.00,NAN
+Cars.com,1.00,NAN
+BELLUS Health,1.00,NAN
+Suburban Propane Partners,1.00,NAN
+ConnectOne Bancorp,1.00,NAN
+Forma Therapeutics,1.00,NAN
+Maxeon Solar Technologies,1.00,NAN
+Riot Blockchain,1.00,NAN
+LendingClub,1.00,NAN
+Biolife Solutions,1.00,NAN
+Valneva SE,1.00,NAN
+Multi Commodity Exchange,1.00,NAN
+Iovance Biotherapeutics,1.00,NAN
+Centerspace,1.00,NAN
+ImmunoGen,1.00,NAN
+Paymentus,0.99,NAN
+Edelweiss Financial Services,0.85,NAN
+First Foundation,0.85,NAN
+Mensch und Maschine,0.85,NAN
+Mission Produce,0.85,NAN
+Unitil Corporation,0.85,NAN
+Africa Oil,0.85,NAN
+Hinduja Global Solutions,0.85,NAN
+Perfect Corp.,0.85,NAN
+Associated Capital Group,0.85,NAN
+Sligro Food,0.85,NAN
+QCR Holdings,0.85,NAN
+Republic Bank,0.85,NAN
+Caleres,0.85,NAN
+DocGo,0.85,NAN
+Heska Corporation,0.84,NAN
+Chalet Hotels,0.84,NAN
+Heritage-Crystal Clean,0.84,NAN
+BrainChip,0.84,NAN
+OneSpaWorld,0.99,NAN
+UMH Properties,0.99,NAN
+PROG Holdings,0.99,NAN
+Telkom SA,0.99,NAN
+B&G Foods,0.99,NAN
+RITES,0.99,NAN
+Transcontinental,0.99,NAN
+ARMOUR Residential REIT,0.99,NAN
+Premier Financial,0.98,NAN
+National Western Life,0.98,NAN
+PolyPeptide Group,0.98,NAN
+Fortress REIT,0.98,NAN
+Gaotu Techedu,0.98,NAN
+Fulgent Genetics,0.98,NAN
+GungHo Online Entertainment,0.98,NAN
+Bally's Corporation,0.98,NAN
+Teekay Tankers,0.98,NAN
+SilverCrest Metals,0.98,NAN
+Shen Zhen Shengxunda Technology (gamexun),0.84,NAN
+Dah Sing Financial,0.84,NAN
+Forestar Group,0.84,NAN
+Wesdome Gold Mines,0.84,NAN
+Amarin Corporation,0.84,NAN
+CBL Properties,0.84,NAN
+Network18,0.84,NAN
+BLS International,0.84,NAN
+Community Trust Bancorp,0.84,NAN
+Aktia Bank,0.84,NAN
+QuinStreet,0.84,NAN
+LivePerson,0.83,NAN
+DIC Asset,0.83,NAN
+Deluxe,0.83,NAN
+Sterlite Technologies,0.83,NAN
+Artis REIT,0.83,NAN
+edenor,0.83,NAN
+Rashtriya Chemicals and Fertilizers,0.83,NAN
+Movado,0.82,NAN
+SPARC,0.82,NAN
+SMART Global Holdings,0.82,NAN
+ScanSource,0.82,NAN
+Cadre,0.81,NAN
+Peoples Bancorp,0.81,NAN
+Clairvest Group,0.81,NAN
+Global Industrial Company,0.98,NAN
+Jupiter Fund Management,0.98,NAN
+Cymbria,0.98,NAN
+Dole PLC,0.97,NAN
+Grindr,0.97,NAN
+Kura Oncology,0.97,NAN
+Omega Flex,0.97,NAN
+"Sturm, Ruger & Co",0.97,NAN
+Titan Machinery,0.97,NAN
+Verano Holdings,0.97,NAN
+Dril-Quip,0.97,NAN
+Crinetics Pharmaceuticals,0.97,NAN
+Kalpataru Power Transmission,0.97,NAN
+GPA,0.97,NAN
+Marshalls plc,0.96,NAN
+Boston Omaha,0.83,NAN
+Hawkins,0.81,NAN
+Indiabulls Housing Finance,0.81,NAN
+Mercer International,0.81,NAN
+Simulations Plus,0.81,NAN
+CEAT,0.81,NAN
+Zealand Pharma,0.81,NAN
+Softchoice,0.81,NAN
+Coherus BioSciences,0.81,NAN
+Repay Holdings,0.81,NAN
+Converge Technology Solutions,0.81,NAN
+AvePoint,0.81,NAN
+Yext,0.81,NAN
+Ponsse,0.81,NAN
+Mirum Pharmaceuticals,0.81,NAN
+Ranger Oil,0.81,NAN
+BioXcel Therapeutics,0.81,NAN
+Pacific Century Regional Developments,0.81,NAN
+Bristow Group,0.81,NAN
+Cellebrite,0.83,NAN
+Tokmanni,0.83,NAN
+Allegiance Bancshares,0.83,NAN
+Varex Imaging,0.82,NAN
+Washington Trust Bancorp,0.82,NAN
+SLR Investment,0.82,NAN
+VTEX,0.82,NAN
+Hangzhou Electronic Soul Network Technology,0.82,NAN
+Quanex Building Products,0.82,NAN
+Bicycle Therapeutics,0.82,NAN
+Office Properties Income Trust,0.82,NAN
+Taboola.com,0.82,NAN
+Symphony Limited,0.82,NAN
+POINT Biopharma,0.82,NAN
+Anavex Life Sciences,0.82,NAN
+Ellington Financial,0.82,NAN
+REV Group,0.80,NAN
+Laredo Petroleum,0.80,NAN
+Standard Motor Products (SMP),0.80,NAN
+Interfor,0.80,NAN
+James River Group,0.80,NAN
+Lyell Immunopharma,0.80,NAN
+Summit Hotel Properties,0.80,NAN
+Heritage Commerce,0.80,NAN
+Aehr Test Systems,0.80,NAN
+Altimmune,0.80,NAN
+Prince Pipes And Fittings,0.80,NAN
+NextDecade Corp,0.79,NAN
+JBM Auto,0.79,NAN
+Cimpress,0.79,NAN
+Praj Industries,0.79,NAN
+IES Holdings,0.79,NAN
+Pitney Bowes,0.79,NAN
+CrossAmerica Partners,0.79,NAN
+ChipMOS Technologies,0.79,NAN
+Cellcom Israel,0.79,NAN
+Bioceres Crop Solutions,0.79,NAN
+Sharecare,0.79,NAN
+Azul,0.79,NAN
+Borosil,0.79,NAN
+Bombay Burmah,0.78,NAN
+Bank First,0.78,NAN
+Aspen Aerogels,0.78,NAN
+Zeal Network,0.78,NAN
+Origin Materials,0.78,NAN
+Nextdoor,0.78,NAN
+Ingersoll Rand India,0.78,NAN
+Stillfront Group,0.78,NAN
+Kahoot!,0.78,NAN
+Drägerwerk,0.77,NAN
+Navios Maritime Partners,0.77,NAN
+BEML,0.77,NAN
+Newegg,0.77,NAN
+Olvi plc,0.77,NAN
+Accel Entertainment,0.77,NAN
+WisdomTree Investments,0.77,NAN
+KSB ltd,0.77,NAN
+WalkMe,0.77,NAN
+Amber Enterprises India,0.77,NAN
+Hanmi Financial,0.77,NAN
+Badger Infrastructure Solutions,0.77,NAN
+Adler Real Estate,0.77,NAN
+Ambac,0.76,NAN
+Shenzhen Zqgame,0.76,NAN
+TCG BDC,0.76,NAN
+Vacasa,0.76,NAN
+Magic Software,0.76,NAN
+Qurate Retail Group,0.76,NAN
+DRDGOLD,0.76,NAN
+Banco Latinoamericano de Comercio Exterior,0.76,NAN
+ANI Pharmaceuticals,0.76,NAN
+Univest,0.76,NAN
+MultiPlan,0.76,NAN
+NerdWallet,0.76,NAN
+Alabama Power,0.76,NAN
+Vitru,0.76,NAN
+CareDx,0.76,NAN
+Theravance Biopharma,0.76,NAN
+Northfield Bancorp,0.76,NAN
+Team17,0.75,NAN
+Enfusion,0.75,NAN
+SunCoke Energy,0.75,NAN
+Norwegian Air Shuttle,0.75,NAN
+United Fire Group,0.75,NAN
+The Vita Coco Company,0.75,NAN
+Advantage Solutions,0.75,NAN
+AMC Networks,0.75,NAN
+Al Moammar Information Systems,0.75,NAN
+Aerie Pharmaceuticals,0.75,NAN
+MarineMax,0.75,NAN
+BigCommerce,0.75,NAN
+ADMA Biologics,0.75,NAN
+Sleep Number,0.75,NAN
+New Gold,0.75,NAN
+ATN International,0.75,NAN
+AnaptysBio,0.75,NAN
+Locaweb,0.74,NAN
+Pagaya Technologies,0.74,NAN
+Ethan Allen,0.74,NAN
+Eventbrite,0.74,NAN
+loanDepot,0.74,NAN
+CEWE,0.74,NAN
+ESAB India,0.74,NAN
+iStar,0.74,NAN
+Protolabs,0.74,NAN
+SP Plus Corporation,0.74,NAN
+PubMatic,0.74,NAN
+HealthStream,0.74,NAN
+Expensify,0.74,NAN
+Wallbox,0.74,NAN
+Rain Industries,0.74,NAN
+Karooooo,0.74,NAN
+iDreamSky,0.74,NAN
+Sunlight REIT,0.74,NAN
+Farmland Partners,0.74,NAN
+G-III Apparel Group,0.73,NAN
+Property For Industry,0.73,NAN
+UB Properties,0.73,NAN
+LiveChat Software,0.73,NAN
+Cano Health,0.73,NAN
+TrustCo Bank,0.73,NAN
+CTI BioPharma,0.73,NAN
+Finnair,0.73,NAN
+Indus Holding,0.73,NAN
+Via S.A.,0.73,NAN
+Old Second Bancorp,0.73,NAN
+BJ's Restaurants,0.73,NAN
+Hanger,0.73,NAN
+MBIA,0.72,NAN
+Slam Corp,0.72,NAN
+Samyang Foods,0.72,NAN
+PropertyGuru,0.72,NAN
+Gorman-Rupp,0.72,NAN
+Quess,0.72,NAN
+Bluelinx,0.72,NAN
+Aedas Homes,0.72,NAN
+Alector,0.72,NAN
+Dorian LPG,0.71,NAN
+Skyward Specialty Insurance Group,0.71,NAN
+Maverix Metals,0.71,NAN
+BrightView,0.71,NAN
+Global Medical REIT,0.71,NAN
+Universal Health Realty Income Trust,0.71,NAN
+CMGE Technology Group,0.71,NAN
+Merus,0.71,NAN
+Jin Air,0.71,NAN
+Belite Bio,0.71,NAN
+4D Molecular Therapeutics,0.71,NAN
+Amalgamated Financial,0.71,NAN
+G8 Education,0.71,NAN
+YG Entertainment,0.71,NAN
+Tango Therapeutics,0.71,NAN
+IDT Corporation,0.70,NAN
+Delta Corp,0.70,NAN
+TravelCenters of America,0.70,NAN
+CEVA,0.70,NAN
+Riley Permian,0.70,NAN
+Johnson Outdoors,0.70,NAN
+Forrester Research,0.70,NAN
+Navitas Semiconductor,0.70,NAN
+Brooge Energy,0.70,NAN
+Eagle Bulk Shipping,0.70,NAN
+MapmyIndia,0.70,NAN
+Godawari Power & Ispat,0.70,NAN
+Seritage Growth Properties,0.69,NAN
+Shoe Carnival,0.69,NAN
+Kearny Financial,0.69,NAN
+Orient Electric,0.69,NAN
+National Energy Services Reunited,0.69,NAN
+Jubilant Pharmova,0.69,NAN
+HarborOne Bancorp,0.69,NAN
+Valhi,0.69,NAN
+NHN Corp,0.69,NAN
+VIB Vermögen,0.69,NAN
+Gladstone Land,0.69,NAN
+Endeavour Silver,0.69,NAN
+Riverstone Holdings,0.69,NAN
+Boohoo Group,0.69,NAN
+Ducommun,0.69,NAN
+Denny's,0.69,NAN
+Anterix,0.69,NAN
+Lightwave Logic,0.69,NAN
+Orthofix Medical,0.69,NAN
+Innoviz,0.69,NAN
+Rover,0.69,NAN
+Blink Charging,0.69,NAN
+Horizon Bancorp,0.69,NAN
+Kaiser (China) Culture,0.68,NAN
+Thryv,0.68,NAN
+Religare,0.68,NAN
+Viking Therapeutics,0.68,NAN
+American Vanguard,0.68,NAN
+ITM Power,0.68,NAN
+Seres Therapeutics,0.68,NAN
+Genco Shipping & Trading,0.68,NAN
+Hawaiian Airlines,0.68,NAN
+Gateway Real Estate,0.68,NAN
+Barrett Business Services,0.67,NAN
+Haynes International,0.67,NAN
+Guild Mortgage,0.67,NAN
+iTeos Therapeutics,0.67,NAN
+Accolade,0.67,NAN
+OTC Markets Group,0.67,NAN
+Mahindra Lifespaces,0.67,NAN
+MediaAlpha,0.67,NAN
+The Hackett Group,0.67,NAN
+Intercept Pharmaceuticals,0.67,NAN
+First Mid-Illinois Bancshares,0.67,NAN
+Allakos,0.67,NAN
+1-800-Flowers,0.67,NAN
+Amneal Pharmaceuticals,0.67,NAN
+i-80 Gold,0.67,NAN
+Wirtualna Polska (WP Holding),0.67,NAN
+Clear Channel Outdoor,0.67,NAN
+Digital World Acquisition,0.67,NAN
+Enhabit,0.67,NAN
+Immatics,0.67,NAN
+TrueBlue,0.67,NAN
+Emergent BioSolutions,0.66,NAN
+Koppers,0.66,NAN
+Gladstone Commercial,0.66,NAN
+Redfin,0.66,NAN
+ChannelAdvisor,0.66,NAN
+Neowiz Games,0.66,NAN
+QNB Finansleasing,0.66,NAN
+Cass Information Systems,0.66,NAN
+Berry Corporation,0.66,NAN
+Dynex Capital,0.66,NAN
+Metropolitan Bank Holding,0.66,NAN
+Health Catalyst,0.66,NAN
+Vital Farms,0.66,NAN
+Algoma Steel,0.66,NAN
+New Found Gold,0.66,NAN
+DoubleUGames,0.66,NAN
+Yalla Group,0.66,NAN
+Gujarat Alkalies and Chemicals,0.66,NAN
+Triumph Group,0.66,NAN
+Snap One,0.65,NAN
+Kelly Services,0.65,NAN
+Kaman,0.65,NAN
+Sunway,0.65,NAN
+Sunteck Realty,0.65,NAN
+Nordic American Tankers,0.65,NAN
+MMTC,0.65,NAN
+Com2uS,0.65,NAN
+bluebird bio,0.65,NAN
+Peapack-Gladstone Financial,0.65,NAN
+VSE Corporation,0.65,NAN
+INDUS Realty Trust,0.65,NAN
+RE/MAX Holdings,0.65,NAN
+Nano Dimension,0.65,NAN
+Faro Technologies,0.65,NAN
+Norma Group,0.65,NAN
+York Water,0.64,NAN
+Zynex,0.64,NAN
+AMTD IDEA Group,0.64,NAN
+YIT,0.64,NAN
+Oscar Health,0.64,NAN
+ACM Research,0.64,NAN
+Franklin Covey,0.64,NAN
+Interface,0.64,NAN
+Mastek,0.64,NAN
+Allied Motion Technologies,0.63,NAN
+Orrön Energy,0.63,NAN
+Vimeo,0.63,NAN
+UP Fintech (Tiger Brokers),0.63,NAN
+Orpea,0.63,NAN
+Reliance Power,0.63,NAN
+Cutera,0.63,NAN
+Aurelius Group,0.63,NAN
+SandRidge Energy,0.63,NAN
+Hingham Institution for Savings,0.63,NAN
+Eurowag,0.63,NAN
+Delegat,0.63,NAN
+Archer Aviation,0.63,NAN
+Zymeworks,0.63,NAN
+Novonix,0.63,NAN
+COLOPL,0.63,NAN
+Ares Commercial Real Estate,0.62,NAN
+Stoneridge,0.62,NAN
+Técnicas Reunidas,0.62,NAN
+Electrica,0.62,NAN
+Zensar,0.62,NAN
+Morphosys,0.62,NAN
+Erasca,0.62,NAN
+NEUCA,0.62,NAN
+Scholar Rock Holding,0.62,NAN
+Shenzhen Bingchuan Network,0.62,NAN
+sterling & wilson solar,0.62,NAN
+Chatham Lodging Trust,0.62,NAN
+Community Health Systems,0.61,NAN
+Transcat,0.61,NAN
+Camden National Bank,0.61,NAN
+Gujarat Mineral Development,0.61,NAN
+Luther Burbank,0.61,NAN
+Aerovate Therapeutics,0.61,NAN
+Opera,0.61,NAN
+Standard Lithium,0.61,NAN
+Insteel Industries,0.61,NAN
+LexinFintech Holdings,0.61,NAN
+Couchbase,0.61,NAN
+SIGA Technologies,0.61,NAN
+Cathay Real Estate Development,0.61,NAN
+TPG Real Estate Finance Trust,0.61,NAN
+I-Mab Biopharma,0.61,NAN
+Iguatemi,0.61,NAN
+Clearwater Paper,0.61,NAN
+Designer Brands,0.61,NAN
+SilverBow Resources,0.61,NAN
+Hikal,0.61,NAN
+Vaibhav Global,0.60,NAN
+Silvercorp Metals,0.60,NAN
+Invitae,0.60,NAN
+trivago,0.60,NAN
+Cambium Networks,0.60,NAN
+Cloetta,0.60,NAN
+Hartalega,0.60,NAN
+Poseida Therapeutics,0.60,NAN
+Mersana Therapeutics,0.60,NAN
+Genesco,0.60,NAN
+VRL Logistics,0.60,NAN
+Secureworks,0.60,NAN
+Clover Health Investments,0.60,NAN
+Ruth's Hospitality Group,0.60,NAN
+Kimball Electronics,0.60,NAN
+Enento Group,0.60,NAN
+Kirloskar Ferrous Industries,0.59,NAN
+Lindblad Expeditions,0.59,NAN
+Protagonist Therapeutics,0.59,NAN
+Bandwidth,0.59,NAN
+Sight Sciences,0.59,NAN
+Flushing Financial Corp,0.59,NAN
+TPI Composites,0.59,NAN
+Sangamo Therapeutics,0.59,NAN
+Cresco Labs,0.59,NAN
+Rackspace Technology,0.59,NAN
+Phibro Animal Health,0.59,NAN
+RGP,0.59,NAN
+Mullen Automotive,0.59,NAN
+Anora Group,0.55,NAN
+Vertical Aerospace,0.55,NAN
+REX American Resources,0.55,NAN
+Virgin Orbit,0.55,NAN
+System1,0.55,NAN
+Babcock & Wilcox,0.55,NAN
+Americanas,0.55,NAN
+CION Investment,0.59,NAN
+Polyplex,0.59,NAN
+Schneider Electric Infrastructure,0.59,NAN
+Ardelyx,0.59,NAN
+NETGEAR,0.59,NAN
+AudioCodes,0.59,NAN
+ZeroFox,0.59,NAN
+PDS Multinational,0.59,NAN
+Gorilla Technology,0.59,NAN
+Ebix,0.59,NAN
+Harsco,0.58,NAN
+Infibeam Avenues,0.58,NAN
+Boss Energy,0.58,NAN
+Syrma SGS Technology,0.58,NAN
+Chuy's,0.58,NAN
+Cardiovascular Systems,0.58,NAN
+Transport Corporation of India,0.58,NAN
+Arrow Financial,0.55,NAN
+Cerus,0.55,NAN
+Broadmark Realty Capital,0.55,NAN
+Mercantile Bank,0.55,NAN
+Capital City Bank Group,0.55,NAN
+SI-BONE,0.55,NAN
+Agora.io,0.55,NAN
+Tiptree,0.55,NAN
+Bluegreen Vacations,0.55,NAN
+Vinci Partners,0.55,NAN
+First Financial,0.55,NAN
+Energy Vault,0.55,NAN
+Trustpilot Group,0.55,NAN
+CymaBay Therapeutics,0.55,NAN
+Playstudios,0.55,NAN
+Ranpak,0.55,NAN
+Hyliion,0.54,NAN
+Nurix Therapeutics,0.54,NAN
+Acco Brands,0.58,NAN
+JSW Holdings,0.58,NAN
+Cara Therapeutics,0.58,NAN
+Engineers India,0.58,NAN
+Karnataka Bank,0.58,NAN
+Heidrick & Struggles,0.58,NAN
+Amyris,0.58,NAN
+Absolute Software,0.58,NAN
+HBT Financial,0.58,NAN
+2U,0.58,NAN
+Bright Health,0.58,NAN
+Central Pacific Financial,0.58,NAN
+Editas Medicine,0.57,NAN
+Chico's,0.57,NAN
+Desktop Metal,0.57,NAN
+Satixfy Communications,0.57,NAN
+Tunas Ridean,0.57,NAN
+Ardmore Shipping,0.57,NAN
+PennantPark Floating Rate,0.54,NAN
+SmartRent,0.54,NAN
+Havertys,0.54,NAN
+FDC India,0.54,NAN
+Varroc,0.54,NAN
+AlloVir,0.54,NAN
+Lion Electric,0.54,NAN
+Lilium,0.54,NAN
+Microvast,0.54,NAN
+Simona,0.54,NAN
+Brasil Agro,0.54,NAN
+Nine Energy Service,0.54,NAN
+nLIGHT,0.54,NAN
+ElringKlinger,0.54,NAN
+Senseonics Holdings,0.54,NAN
+AngioDynamics,0.53,NAN
+Repare Therapeutics,0.53,NAN
+MetroCity Bankshares,0.53,NAN
+Bionano Genomics,0.53,NAN
+Vishay Precision Group,0.56,NAN
+Funko,0.56,NAN
+Suprajit Engineering,0.56,NAN
+Artesian Resources,0.56,NAN
+DXP Enterprises,0.56,NAN
+Calavo Growers,0.56,NAN
+Energy Resources of Australia,0.56,NAN
+DouYu,0.56,NAN
+NuScale Power,0.56,NAN
+Phillips Carbon Black,0.56,NAN
+PlayWay,0.56,NAN
+Kura Sushi USA,0.56,NAN
+Diamond Hill Investment Group,0.56,NAN
+Procaps Group,0.56,NAN
+Materialise NV,0.56,NAN
+B Communications,0.56,NAN
+MaxCyte,0.56,NAN
+Centrus Energy,0.53,NAN
+PORR,0.53,NAN
+CIRCOR International,0.53,NAN
+Sundial Growers,0.53,NAN
+CSB Bank,0.53,NAN
+EverQuote,0.53,NAN
+Tejon Ranch,0.53,NAN
+Esperion Therapeutics,0.53,NAN
+Sohu.com,0.53,NAN
+Inogen,0.53,NAN
+Sorrento Therapeutics,0.53,NAN
+Safari Industries India,0.53,NAN
+HomeStreet Bank,0.53,NAN
+Calliditas Therapeutics,0.53,NAN
+Nuvation Bio,0.53,NAN
+Liquidity Services,0.53,NAN
+Oil States International,0.53,NAN
+Obsidian Energy,0.53,NAN
+Tremor International,0.52,NAN
+Viad,0.52,NAN
+Arcturus Therapeutics,0.52,NAN
+Equity BancShares,0.52,NAN
+Ramkrishna Forgings,0.52,NAN
+FRP Holdings,0.52,NAN
+Bank of Marin Bancorp,0.52,NAN
+Taseko Mines,0.52,NAN
+Big Lots,0.52,NAN
+Purple Innovation,0.52,NAN
+Sprague Resources LP,0.52,NAN
+Argan,0.52,NAN
+Fate Therapeutics,0.52,NAN
+Vertex Energy,0.52,NAN
+HEG,0.52,NAN
+Hyster-Yale Materials Handling,0.52,NAN
+AVEO Oncology,0.52,NAN
+Mishra Dhatu Nigam,0.52,NAN
+MidWestOne Financial Group,0.52,NAN
+Amprius Technologies,0.51,NAN
+Heidelbergcement India,0.51,NAN
+Consolidated Communications,0.51,NAN
+Patriot Battery Metals,0.51,NAN
+Whitestone REIT,0.51,NAN
+Zur Rose Group,0.51,NAN
+Ribbon Communications,0.51,NAN
+8x8,0.51,NAN
+Artivion,0.51,NAN
+Stitch Fix,0.51,NAN
+Garrett Motion,0.51,NAN
+5E Advanced Materials,0.51,NAN
+Runway Growth Finance,0.51,NAN
+Valens Semiconductor,0.51,NAN
+SurModics,0.51,NAN
+Alta Equipment Group,0.51,NAN
+MasterCraft Boat,0.51,NAN
+Silence Therapeutics,0.51,NAN
+Mesoblast,0.51,NAN
+Aarti Drugs,0.51,NAN
+Brookdale Senior Living,0.50,NAN
+Azerion Group,0.50,NAN
+HilleVax,0.50,NAN
+Tsakos Energy Navigation,0.50,NAN
+OneSpan,0.50,NAN
+National Presto Industries,0.50,NAN
+CNB Financial Corp,0.50,NAN
+Canaan,0.50,NAN
+Tetra Technologies,0.50,NAN
+Value Line,0.50,NAN
+Veru,0.50,NAN
+Design Therapeutics,0.50,NAN
+Vaalco Energy,0.50,NAN
+One Liberty Properties,0.50,NAN
+TH International (Tims China),0.50,NAN
+American Software,0.50,NAN
+Entravision Communications,0.50,NAN
+Orion Office REIT,0.50,NAN
+CareMax,0.50,NAN
+Benson Hill,0.49,NAN
+GH Research,0.49,NAN
+America's Car-Mart,0.49,NAN
+Bafang Yunji,0.49,NAN
+Oppenheimer Holdings,0.49,NAN
+ECN Capital,0.49,NAN
+Eagle Point Credit Company,0.49,NAN
+AO World,0.49,NAN
+Skeena Resources,0.49,NAN
+Ace Hardware Indonesia,0.49,NAN
+Donegal Group,0.49,NAN
+Spandana Sphoorty Financial,0.49,NAN
+Wemade,0.49,NAN
+Olectra Greentech,0.49,NAN
+Synlait Milk,0.49,NAN
+Tata Coffee,0.49,NAN
+Hudson Technologies,0.49,NAN
+World Acceptance Corporation,0.49,NAN
+TuSimple,0.49,NAN
+Gevo,0.49,NAN
+South Indian Bank,0.49,NAN
+TerrAscend,0.49,NAN
+Greenpanel Industries,0.49,NAN
+Reliance Infrastructure,0.49,NAN
+Covenant Logistics,0.49,NAN
+EZCorp,0.49,NAN
+DoubleDown Interactive,0.49,NAN
+CECO Environmental,0.49,NAN
+Hyzon Motors,0.49,NAN
+Akouos,0.49,NAN
+Domo,0.49,NAN
+RADA Electronic Industries,0.49,NAN
+The RMR Group,0.49,NAN
+Greenlam Industries,0.49,NAN
+Mail.ru Group,0.48,NAN
+Bridgewater Bancshares,0.48,NAN
+Quanterix,0.48,NAN
+89bio,0.48,NAN
+Blue Bird Corporation,0.48,NAN
+Marcus Corporation,0.48,NAN
+Nazara Technologies,0.48,NAN
+Butterfly Network,0.48,NAN
+Qingci Games,0.48,NAN
+Evolus,0.48,NAN
+Borussia Dortmund,0.48,NAN
+Seneca Foods,0.48,NAN
+IGG Inc,0.48,NAN
+Bar Harbor Bankshares,0.48,NAN
+VectivBio,0.48,NAN
+Solid Power,0.48,NAN
+Rovio Entertainment,0.48,NAN
+Grupo Supervielle,0.48,NAN
+ContextLogic (wish.com),0.47,NAN
+Telesat,0.47,NAN
+Baozun,0.47,NAN
+Magnachip,0.47,NAN
+The Children's Place,0.47,NAN
+Zumiez,0.47,NAN
+OneWater Marine,0.47,NAN
+IBEX,0.47,NAN
+Wave Life Sciences,0.47,NAN
+Inovio Pharmaceuticals,0.47,NAN
+Nektar Therapeutics,0.47,NAN
+NanoString Technologies,0.47,NAN
+Five Star Bancorp,0.47,NAN
+Alerus Financial,0.47,NAN
+GuangZhou Wahlap Technology,0.47,NAN
+Smith & Wesson,0.47,NAN
+Apollo Endosurgery,0.46,NAN
+Pearl Abyss,0.46,NAN
+Gateway Distriparks,0.46,NAN
+Kezar Life Sciences,0.46,NAN
+Marine Products Corporation,0.46,NAN
+SmartFinancial (SmartBank),0.46,NAN
+Action Construction Equipment,0.46,NAN
+Canoo,0.46,NAN
+Powell Industries,0.46,NAN
+Olympic Steel,0.46,NAN
+MoonLake Immunotherapeutics,0.46,NAN
+Greene County Bancorp,0.45,NAN
+Beazer Homes USA,0.45,NAN
+Teekay,0.45,NAN
+Anant Raj,0.45,NAN
+Newpark Resources,0.45,NAN
+Gladstone Investment,0.45,NAN
+Icelandair,0.45,NAN
+Civeo,0.45,NAN
+Biglari,0.45,NAN
+Anika Therapeutics,0.45,NAN
+The Tinplate Company Of India,0.45,NAN
+Ituran,0.45,NAN
+IFB Industries,0.45,NAN
+Sutro Biopharma,0.45,NAN
+Fission Uranium,0.45,NAN
+Nano-X Imaging,0.45,NAN
+Indoco Remedies,0.45,NAN
+Axogen,0.44,NAN
+Arbutus Biopharma,0.44,NAN
+Similarweb,0.44,NAN
+Mitek Systems,0.44,NAN
+Webzen,0.44,NAN
+Restaurant Brands New Zealand,0.44,NAN
+Carriage Services,0.44,NAN
+Lexicon Pharmaceuticals,0.44,NAN
+Newtek,0.44,NAN
+Latham Group,0.44,NAN
+Southern Missouri Bancorp,0.44,NAN
+Avacta Group,0.44,NAN
+Aaron's,0.44,NAN
+Barbeque Nation Hospitality,0.44,NAN
+Tutor Perini,0.44,NAN
+Dutch Lady Milk Industries,0.43,NAN
+Enterprise Bancorp,0.43,NAN
+Orchid Island Capital,0.43,NAN
+Destination XL,0.43,NAN
+OPTiM,0.43,NAN
+Tallink Grupp,0.43,NAN
+West Coast Paper Mills,0.43,NAN
+Bel Fuse,0.43,NAN
+GAMCO Investors,0.43,NAN
+Vanda Pharmaceuticals,0.43,NAN
+NGM Biopharmaceuticals,0.43,NAN
+Kodiak Sciences,0.43,NAN
+Intrepid Potash,0.43,NAN
+Paisalo Digital,0.43,NAN
+Atlanticus,0.43,NAN
+Entrada Therapeutics,0.43,NAN
+Trinity Capital,0.43,NAN
+Microvision,0.43,NAN
+Preformed Line Products,0.42,NAN
+Bed Bath & Beyond,0.42,NAN
+Rayonier Advanced Materials,0.42,NAN
+Huuuge,0.42,NAN
+ShotSpotter,0.42,NAN
+Luxfer,0.42,NAN
+Archosaur Games,0.42,NAN
+fuboTV,0.42,NAN
+New Pacific Metals,0.42,NAN
+Reservoir Media,0.42,NAN
+National Fertilizers,0.42,NAN
+JTEKT India,0.42,NAN
+Mahindra Logistics,0.42,NAN
+Harrow Health,0.42,NAN
+Dynamic Materials Corporation,0.42,NAN
+Vigil Neuroscience,0.42,NAN
+Avadel Pharmaceuticals,0.42,NAN
+Guaranty Bancshares,0.42,NAN
+MOIL,0.42,NAN
+ON24,0.42,NAN
+Great Lakes Dredge & Dock Corp.,0.42,NAN
+Eagle Pharmaceuticals,0.42,NAN
+Cyxtera Technologies,0.42,NAN
+Ring Energy,0.42,NAN
+Deep Yellow,0.41,NAN
+Computer Programs and Systems,0.41,NAN
+FutureFuel,0.41,NAN
+Argonaut Gold,0.41,NAN
+Gamania Digital,0.41,NAN
+Precigen,0.41,NAN
+C4 Therapeutics,0.41,NAN
+Silvergate Capital,0.41,NAN
+NIU,0.41,NAN
+Digimarc,0.41,NAN
+Xperi,0.41,NAN
+Voyager Therapeutics,0.41,NAN
+Liquidia Technologies,0.41,NAN
+Largo,0.41,NAN
+Omega Therapeutics,0.41,NAN
+Chennai Petroleum,0.41,NAN
+Ramaco Resources,0.41,NAN
+Marimekko,0.41,NAN
+Codexis,0.41,NAN
+Giordano,0.41,NAN
+The Manitowoc Company,0.41,NAN
+Aura Biosciences,0.41,NAN
+Atea Pharmaceuticals,0.41,NAN
+Sify,0.40,NAN
+Akoya Biosciences,0.40,NAN
+SkyWater Technology,0.40,NAN
+Eneti,0.40,NAN
+ALX Oncology,0.40,NAN
+McPhy Energy,0.40,NAN
+COMPASS Pathways,0.40,NAN
+El Pollo Loco,0.40,NAN
+2seventy bio,0.40,NAN
+Transcontinental Realty Investors,0.40,NAN
+Daily Journal,0.40,NAN
+Arrival,0.40,NAN
+Jindal Poly Films,0.40,NAN
+LoveSac,0.40,NAN
+International General Insurance,0.40,NAN
+RBB Bancorp,0.40,NAN
+1-800-PetMeds,0.40,NAN
+Professional Holding,0.40,NAN
+GreenTree Hospitality,0.40,NAN
+Bank Mayapada Internasional,0.40,NAN
+Vesuvius India,0.40,NAN
+Dish TV,0.40,NAN
+DZS Inc,0.40,NAN
+Alpine Immune Sciences,0.40,NAN
+Jumia,0.40,NAN
+Tredegar,0.40,NAN
+AGC Networks,0.40,NAN
+Global Cord Blood,0.40,NAN
+PennantPark Investment,0.39,NAN
+Phnom Penh Autonomous Port,0.39,NAN
+Global Indemnity,0.39,NAN
+CPI Card Group,0.39,NAN
+Surya Roshni,0.39,NAN
+CapStar Financial,0.39,NAN
+Power Mech Projects,0.39,NAN
+Avon Protection,0.39,NAN
+Tata Steel Long Products,0.39,NAN
+Despegar,0.39,NAN
+American National Bank & Trust Company,0.39,NAN
+NexPoint Real Estate Finance,0.39,NAN
+Velo3D,0.39,NAN
+Hawesko,0.39,NAN
+iRadimed,0.39,NAN
+CS Disco,0.36,NAN
+Blend Labs,0.36,NAN
+India Tourism Development Corp,0.36,NAN
+Kewal Kiran Clothing,0.39,NAN
+PREOS Real Estate,0.39,NAN
+Astec Lifesciences,0.38,NAN
+Ottakringer Getränke,0.38,NAN
+Regencell Bioscience,0.38,NAN
+ADC Therapeutics,0.38,NAN
+Tarsus Pharmaceuticals,0.38,NAN
+Bushiroad,0.38,NAN
+Turning Point Brands,0.38,NAN
+Vor Biopharma,0.38,NAN
+Stoke Therapeutics,0.38,NAN
+Automotive Axles,0.38,NAN
+BRT Apartments,0.38,NAN
+374Water,0.38,NAN
+CarParts.com,0.38,NAN
+HomeTrust Bancshares,0.38,NAN
+Mammoth Energy Services,0.38,NAN
+Braemar Hotels & Resorts,0.38,NAN
+Bahnhof AB,0.38,NAN
+Foghorn Therapeutics,0.36,NAN
+Wheels Up,0.36,NAN
+Hong Kong Ferry,0.36,NAN
+Selina Hospitality,0.36,NAN
+Autolus Therapeutics,0.36,NAN
+SciPlay,0.36,NAN
+Hathway,0.36,NAN
+RxSight,0.36,NAN
+NVE Corporation,0.36,NAN
+Sichuan Xunyou Network Technology,0.36,NAN
+Aviat Networks,0.36,NAN
+Gladstone Capital,0.36,NAN
+SeaSpine,0.36,NAN
+T’way Air,0.35,NAN
+Safe Bulkers,0.35,NAN
+Build-A-Bear,0.35,NAN
+Traeger,0.35,NAN
+Macatawa Bank,0.38,NAN
+LendingTree,0.38,NAN
+Sportsman's Warehouse,0.38,NAN
+Rimini Street,0.37,NAN
+ESS Tech,0.37,NAN
+Hippo,0.37,NAN
+HCI Group,0.37,NAN
+Rain Therapeutics,0.37,NAN
+PepGen,0.37,NAN
+Financial Institutions,0.37,NAN
+Monte Rosa Therapeutics,0.37,NAN
+Aldeyra Therapeutics,0.37,NAN
+Sun Corp,0.37,NAN
+TCNS Clothing,0.37,NAN
+Heron Therapeutics,0.37,NAN
+PMV Pharmaceuticals,0.37,NAN
+Gold Royalty Corp,0.37,NAN
+GasLog Partners,0.37,NAN
+Red River Bancshares,0.35,NAN
+Hersha Hospitality Trust,0.35,NAN
+Burning Rock Biotech,0.35,NAN
+Citizens & Northern Corp,0.35,NAN
+Gatos Silver,0.35,NAN
+Civista Bancshares,0.35,NAN
+Unisys,0.35,NAN
+Digital Bros,0.35,NAN
+Hindustan Construction Company,0.35,NAN
+Shriram Pistons & Rings,0.35,NAN
+Kaveri Seed,0.35,NAN
+The Restaurant Group plc,0.35,NAN
+Clarus,0.35,NAN
+Northwest Pipe Company,0.35,NAN
+Postal Realty Trust,0.35,NAN
+Shore Bancshares,0.35,NAN
+ReneSola,0.35,NAN
+Astronics Corporation,0.35,NAN
+Allbirds,0.37,NAN
+OraSure Technologies,0.37,NAN
+LSI Industries,0.37,NAN
+Sanara MedTech,0.37,NAN
+Comtech Telecommunications,0.37,NAN
+North American Construction Group,0.37,NAN
+Farmers & Merchants Bancorp,0.37,NAN
+Karyopharm Therapeutics,0.37,NAN
+Meta Materials,0.37,NAN
+City Office REIT,0.37,NAN
+Adicet Bio,0.37,NAN
+Tucows,0.37,NAN
+Strides Pharma,0.37,NAN
+JCI Hitachi India,0.37,NAN
+Southern First Bancshares,0.35,NAN
+Arizona Metals,0.35,NAN
+Mirza International,0.35,NAN
+Satellogic,0.35,NAN
+Ooma,0.35,NAN
+Nilkamal,0.35,NAN
+Centessa Pharmaceuticals,0.35,NAN
+Inspired Entertainment,0.34,NAN
+Weave Communications,0.34,NAN
+Belpointe OZ,0.34,NAN
+Gilat Telecom,0.34,NAN
+Arlo Technologies,0.34,NAN
+Corby Spirit and Wine,0.34,NAN
+Quotient Technology,0.34,NAN
+Phathom Pharmaceuticals,0.34,NAN
+Telos,0.34,NAN
+Vicarious Surgical,0.34,NAN
+Torrid,0.37,NAN
+Priority Technology Holdings,0.36,NAN
+Penseco Financial Services,0.36,NAN
+Atara Biotherapeutics,0.36,NAN
+Aeva Technologies,0.36,NAN
+Hailiang Education,0.36,NAN
+Regal Hotels International,0.36,NAN
+Black Rifle Coffee (BRC),0.36,NAN
+NL Industries,0.36,NAN
+Inox Wind,0.36,NAN
+Arctic Paper,0.34,NAN
+Outlook Therapeutics,0.34,NAN
+Gannett,0.34,NAN
+Village Super Market,0.34,NAN
+Forge Global,0.34,NAN
+Marathon Gold,0.34,NAN
+Vasta Platform,0.34,NAN
+HBL Power Systems,0.34,NAN
+Orient Cement,0.34,NAN
+The Original BARK Company,0.34,NAN
+Amplify Energy,0.34,NAN
+Organogenesis,0.33,NAN
+AFC Gamma,0.33,NAN
+MeiraGTx,0.33,NAN
+Arqit Quantum,0.33,NAN
+Loop Media,0.33,NAN
+Concert Pharmaceuticals,0.33,NAN
+McEwen Mining,0.33,NAN
+Skillsoft,0.33,NAN
+Happinet,0.33,NAN
+Aurora Cannabis,0.33,NAN
+Home Bancorp,0.33,NAN
+Gran Tierra Energy,0.33,NAN
+Maiden Holdings,0.33,NAN
+Pulmonx,0.33,NAN
+Pizza Pizza,0.33,NAN
+Workhorse Group,0.33,NAN
+PTC India,0.33,NAN
+PetIQ,0.33,NAN
+Rani Therapeutics,0.33,NAN
+Miller Industries,0.33,NAN
+American Battery Technology Company,0.33,NAN
+The Pennant Group,0.32,NAN
+American Realty Investors,0.32,NAN
+First Bancorp,0.32,NAN
+Cosmo Films,0.32,NAN
+Remedy Entertainment,0.32,NAN
+Utah Medical Products,0.32,NAN
+CVRx,0.32,NAN
+Red Violet,0.32,NAN
+Marksans Pharma,0.32,NAN
+Annexon,0.32,NAN
+Seer,0.32,NAN
+Summit Financial Group,0.32,NAN
+ACNB Corporation,0.32,NAN
+Velocity Financial,0.32,NAN
+Gabriel India,0.32,NAN
+Granite Point Mortgage Trust,0.32,NAN
+Sierra Bancorp,0.32,NAN
+Sudarshan Chemical,0.32,NAN
+Northeast Bank,0.32,NAN
+Saratoga Investment,0.32,NAN
+Franklin Street Properties,0.32,NAN
+Hallador Energy Company,0.32,NAN
+Columbia Care,0.32,NAN
+Soft-World International,0.32,NAN
+Silicom,0.32,NAN
+Vuzix,0.31,NAN
+G1 Therapeutics,0.31,NAN
+Cue Health,0.31,NAN
+Alpha Tau Medical,0.31,NAN
+Greenlight Reinsurance,0.31,NAN
+NextNav,0.31,NAN
+Focus Entertainment,0.31,NAN
+WhiteHorse Finance,0.31,NAN
+Richardson Electronics,0.31,NAN
+OptimizeRx,0.31,NAN
+Voltamp Transformers,0.31,NAN
+Aadi Bioscience,0.31,NAN
+ASA Gold and Precious Metals,0.31,NAN
+11 bit studios,0.31,NAN
+Marvelous,0.31,NAN
+eGain,0.31,NAN
+Casa Systems,0.31,NAN
+Diana Shipping,0.31,NAN
+Siyaram Silk Mills,0.31,NAN
+NeoGames,0.31,NAN
+Gravity Co.,0.31,NAN
+Weight Watchers,0.31,NAN
+Sterling Bancorp,0.31,NAN
+MBM Resources,0.31,NAN
+OrganiGram Holdings,0.31,NAN
+Skillz,0.31,NAN
+Hut 8 Mining,0.31,NAN
+Aeroporto G. Marconi Bologna,0.30,NAN
+Green Plains Partners,0.30,NAN
+Northrim BanCorp,0.30,NAN
+Regional Management,0.30,NAN
+Kyokuyo,0.30,NAN
+BCB Bancorp,0.30,NAN
+Quantum-Si,0.30,NAN
+Qiwi,0.30,NAN
+Ocular Therapeutix,0.30,NAN
+Trean Insurance Group,0.30,NAN
+DBV Technologies,0.30,NAN
+enCore Energy,0.30,NAN
+Adaptimmune Therapeutics,0.30,NAN
+Rigel Pharmaceuticals,0.30,NAN
+Media and Games Invest,0.30,NAN
+Pharvaris,0.30,NAN
+Rubicon Technologies,0.30,NAN
+Zengame Technology,0.30,NAN
+Astra Microwave,0.30,NAN
+Full House Resorts,0.30,NAN
+Karat Packaging,0.30,NAN
+BigBear.ai,0.30,NAN
+Investors Title Company,0.30,NAN
+Generation Bio,0.30,NAN
+Holley,0.30,NAN
+Ashoka Buildcon,0.30,NAN
+Luna Innovations,0.30,NAN
+Innate Pharma,0.30,NAN
+Bakhu Holdings,0.30,NAN
+Overseas Shipholding Group,0.30,NAN
+First Business Financial Services,0.29,NAN
+PDS Biotechnology,0.29,NAN
+Oyster Point Pharma,0.29,NAN
+Faraday Future,0.29,NAN
+Viemed Healthcare,0.29,NAN
+Atai Life Sciences,0.29,NAN
+Hovnanian Enterprises,0.29,NAN
+Clipper Realty,0.29,NAN
+Western Copper and Gold,0.29,NAN
+Forum Energy Technologies,0.29,NAN
+Betterware de Mexico,0.29,NAN
+Air Busan,0.29,NAN
+F45 Training,0.29,NAN
+Tidewater Renewables,0.29,NAN
+Jaypee Group,0.29,NAN
+Cerberus Cyber Sentinel,0.29,NAN
+eMudhra,0.29,NAN
+Cabaletta Bio,0.29,NAN
+PCSB Financial,0.29,NAN
+Devolver Digital,0.29,NAN
+Zevia,0.29,NAN
+Nouveau Monde Graphite,0.28,NAN
+FriendTimes,0.28,NAN
+Prelude Therapeutics,0.28,NAN
+OneConnect,0.28,NAN
+Noodles & Company,0.28,NAN
+Arbe Robotics,0.28,NAN
+Eastman Kodak Company,0.28,NAN
+Ethos Watches,0.28,NAN
+Park Aerospace,0.28,NAN
+Ocugen,0.28,NAN
+LumiraDx,0.28,NAN
+GrowGeneration,0.28,NAN
+Sonder Holdings,0.28,NAN
+Ranger Energy Services,0.28,NAN
+Unity Bancorp,0.28,NAN
+Grindrod Shipping,0.28,NAN
+Qudian,0.28,NAN
+Genie Energy,0.28,NAN
+Kinnate Biopharma,0.28,NAN
+NI Holdings,0.28,NAN
+India Glycols,0.28,NAN
+SRA Holdings,0.28,NAN
+Gritstone bio,0.28,NAN
+The Honest Company,0.28,NAN
+Arvind,0.28,NAN
+MVB Financial,0.28,NAN
+Ur Energy,0.28,NAN
+Honda Siel Power Products,0.28,NAN
+Lands' End,0.28,NAN
+908 Devices,0.28,NAN
+AirSculpt Technologies,0.27,NAN
+NACCO Industries,0.27,NAN
+Chicago Atlantic Real Estate Finance,0.27,NAN
+Accelya,0.27,NAN
+AMMO,0.27,NAN
+Timberland Bancorp,0.27,NAN
+HireQuest,0.27,NAN
+PolyMet,0.27,NAN
+Focus Universal,0.27,NAN
+Kaltura,0.27,NAN
+Fire Rock,0.27,NAN
+Transphorm,0.27,NAN
+Cipher Mining,0.27,NAN
+SpiceJet,0.27,NAN
+People Can Fly,0.27,NAN
+Rupa Company,0.27,NAN
+SmileDirectClub,0.27,NAN
+Prime Focus,0.27,NAN
+Electrosteel Castings,0.27,NAN
+Upland Software,0.27,NAN
+Confidence Petroleum,0.27,NAN
+Nkarta,0.27,NAN
+Daseke,0.27,NAN
+Semler Scientific,0.27,NAN
+TrueCar,0.27,NAN
+Stellus Capital,0.26,NAN
+Sequent Scientific,0.26,NAN
+Motorcar Parts of America,0.26,NAN
+Babylon Holdings,0.26,NAN
+Markforged,0.26,NAN
+Performant Financial,0.26,NAN
+Somany Ceramics,0.26,NAN
+The Joint Corp.,0.26,NAN
+Caledonia Mining,0.26,NAN
+Tactile Medical,0.26,NAN
+Orange County Bancorp,0.26,NAN
+Dakota Gold,0.26,NAN
+Absci,0.26,NAN
+Kimball International,0.26,NAN
+The Container Store,0.26,NAN
+MSTC Limited,0.26,NAN
+Blade Air Mobility,0.26,NAN
+Hyderabad Industries Limited,0.26,NAN
+Addiko Bank,0.26,NAN
+Lordstown Motors,0.26,NAN
+RattanIndia Power,0.26,NAN
+Cantabil Retail India,0.26,NAN
+Terran Orbital,0.26,NAN
+Frontier Developments,0.26,NAN
+LiveVox,0.26,NAN
+Neuland Laboratories,0.26,NAN
+Solo Brands,0.26,NAN
+DHI Group,0.26,NAN
+Groupon,0.26,NAN
+Pangaea Logistics Solutions,0.26,NAN
+Innovid,0.26,NAN
+Landsea Homes,0.26,NAN
+HIVE Blockchain Technologies,0.25,NAN
+Asiasoft,0.25,NAN
+Alpine Income Property Trust,0.25,NAN
+Puravankara,0.25,NAN
+Acrivon Therapeutics,0.25,NAN
+Tillys,0.25,NAN
+Landec,0.25,NAN
+Orrstown Financial Services,0.25,NAN
+SEACOR Marine,0.25,NAN
+Actinium Pharmaceuticals,0.25,NAN
+Selecta Biosciences,0.25,NAN
+NACL Industries,0.25,NAN
+Lineage Cell Therapeutics,0.25,NAN
+Homeland Interactive Technology,0.25,NAN
+Cognyte Software,0.25,NAN
+Humacyte,0.25,NAN
+Central Valley Community Bancorp,0.25,NAN
+First Western Financial,0.25,NAN
+Rent the Runway,0.25,NAN
+XOMA,0.25,NAN
+Ocwen,0.25,NAN
+Nautilus Biotechnology,0.25,NAN
+Willdan Group,0.25,NAN
+Azure Power,0.25,NAN
+GigaCloud Technology,0.25,NAN
+Enad Global 7,0.25,NAN
+Acumen Pharmaceuticals,0.25,NAN
+Backblaze,0.25,NAN
+Lesaka Technologies,0.25,NAN
+BayCom (United Business Bank),0.25,NAN
+Vaxxinity,0.25,NAN
+Uranium Royalty,0.25,NAN
+Nacon,0.25,NAN
+Third Coast Bancshares,0.25,NAN
+Radiant Logistics,0.25,NAN
+VA Tech Wabag,0.25,NAN
+Subros,0.25,NAN
+Nerdy,0.25,NAN
+First Guaranty Bancshares,0.25,NAN
+MM Forgings,0.25,NAN
+Aenza,0.25,NAN
+Fathom Digital Manufacturing,0.25,NAN
+J.Jill,0.25,NAN
+Oil-Dri Corporation Of America,0.25,NAN
+Force Motors,0.25,NAN
+Jain Irrigation Systems,0.25,NAN
+Opthea,0.25,NAN
+Gulf Oil Lubricants,0.25,NAN
+LianBio,0.25,NAN
+Filatex India,0.25,NAN
+Fabasoft,0.25,NAN
+Weyco Group,0.25,NAN
+Information Services Group,0.24,NAN
+Parke Bancorp,0.24,NAN
+TransGlobe Energy,0.24,NAN
+Sundaram Finance,0.24,NAN
+Jagran Prakashan,0.24,NAN
+Time Technoplast,0.24,NAN
+Yiren Digital,0.24,NAN
+Brightcove,0.24,NAN
+Commercial Vehicle Group (CVG),0.24,NAN
+Veritone,0.24,NAN
+Ten Square Games,0.24,NAN
+IsoEnergy,0.24,NAN
+Ponce Financial Group,0.24,NAN
+Urban One,0.24,NAN
+Bank7,0.24,NAN
+SKYX Platforms,0.24,NAN
+Immersion Corporation,0.24,NAN
+Southern States Bancshares,0.24,NAN
+Molecular Partners,0.24,NAN
+Marinus Pharmaceuticals,0.24,NAN
+Apollo Pipes,0.24,NAN
+ProQR,0.24,NAN
+Zomedica Pharmaceuticals,0.24,NAN
+Hindustan Sanitaryware & Industries,0.24,NAN
+tinyBuild,0.24,NAN
+Troops,0.24,NAN
+Gati,0.24,NAN
+Emerald Holding,0.24,NAN
+Voxx International,0.24,NAN
+Alto Ingredients,0.24,NAN
+Conn's,0.24,NAN
+Atlas Technical Consultants,0.24,NAN
+KalVista Pharmaceuticals,0.24,NAN
+Invivyd,0.24,NAN
+Vst Tillers Tractors,0.24,NAN
+American Public Education,0.24,NAN
+Porch Group,0.24,NAN
+SWK Holdings,0.24,NAN
+Appen,0.23,NAN
+Nordic Paper,0.23,NAN
+Velodyne Lidar,0.23,NAN
+SoundHound AI,0.23,NAN
+Vizsla Silver,0.23,NAN
+The ONE Group Hospitality,0.23,NAN
+Homepoint,0.23,NAN
+Century Casinos,0.23,NAN
+Cian,0.23,NAN
+ZimVie,0.23,NAN
+Eurobio Scientific,0.23,NAN
+Pure Cycle (water),0.23,NAN
+Vadilal Industries,0.23,NAN
+CARE's Ratings,0.23,NAN
+First Internet Bancorp,0.23,NAN
+Sanghi Industries,0.23,NAN
+Texmaco Rail & Engineering,0.23,NAN
+ORIC Pharmaceuticals,0.23,NAN
+Limoneira,0.23,NAN
+EMX Royalty,0.23,NAN
+Bitfarms,0.23,NAN
+Bankwell Financial Group,0.23,NAN
+Absa Bank,0.23,NAN
+22nd Century Group,0.23,NAN
+Aveanna Healthcare,0.23,NAN
+Hooker Furniture,0.23,NAN
+GEOX,0.23,NAN
+1stdibs.Com,0.23,NAN
+RGC Resources,0.23,NAN
+Eargo,0.23,NAN
+Consolidated Water,0.23,NAN
+AXT Inc,0.22,NAN
+Akatsuki Inc,0.22,NAN
+Quad,0.22,NAN
+Rallybio,0.22,NAN
+Greenhill,0.22,NAN
+Kamada,0.22,NAN
+Rocky Brands,0.22,NAN
+Vidhi Specialty Food,0.22,NAN
+Territorial Bancorp,0.22,NAN
+Codorus Valley Bancorp,0.22,NAN
+Community Financial Corporation,0.22,NAN
+CompX International,0.22,NAN
+Big 5 Sporting Goods,0.22,NAN
+Maruzen,0.22,NAN
+BlackSky Technology,0.22,NAN
+TMC the metals company,0.22,NAN
+Caesarstone,0.22,NAN
+Ouster,0.22,NAN
+Bank of Innovation,0.22,NAN
+Accuray,0.22,NAN
+Alembic Limited,0.22,NAN
+Greenply,0.22,NAN
+HF Foods Group,0.22,NAN
+Gallantt Ispat,0.22,NAN
+Gossamer Bio,0.22,NAN
+Matrix Service,0.22,NAN
+Planet13,0.22,NAN
+Genius Brands,0.22,NAN
+Limestone Bancorp,0.21,NAN
+Ames National Corp.,0.21,NAN
+Portman Ridge,0.21,NAN
+Plumas Bancorp,0.21,NAN
+Danimer Scientific,0.21,NAN
+Hindustan Oil Exploration Company,0.21,NAN
+TELA Bio,0.21,NAN
+Evans Bancorp,0.21,NAN
+Cazoo,0.21,NAN
+Middlefield Banc,0.21,NAN
+Western New England Bancorp,0.21,NAN
+scPharmaceuticals,0.21,NAN
+"PLAID,Inc.",0.21,NAN
+Kandi Technologies Group,0.21,NAN
+UBM Development,0.21,NAN
+Akoustis Technologies,0.21,NAN
+Cato Fashion,0.21,NAN
+The Beachbody Company,0.21,NAN
+ESSA Bancorp,0.21,NAN
+Duluth Holdings,0.21,NAN
+Tide Water Oil,0.21,NAN
+Investar Holding,0.21,NAN
+Perpetua Resources,0.21,NAN
+FuRyu,0.21,NAN
+Ashford Hospitality Trust,0.21,NAN
+Ellomay Capital,0.21,NAN
+Cooper Standard,0.21,NAN
+Prenetics,0.21,NAN
+Fiesta Restaurant Group,0.20,NAN
+Savara Pharmaceuticals,0.20,NAN
+Y-mAbs Therapeutics,0.20,NAN
+MainStreet Bancshares,0.20,NAN
+LCNB,0.20,NAN
+Inotiv,0.20,NAN
+Federal-Mogul Goetze,0.20,NAN
+Incannex Healthcare,0.20,NAN
+VersaBank,0.20,NAN
+Shalby,0.20,NAN
+AN2 Therapeutics,0.20,NAN
+Potbelly Corporation,0.20,NAN
+gumi,0.20,NAN
+Beyond Air,0.20,NAN
+AC Immune,0.20,NAN
+INNOVATE Corp.,0.20,NAN
+Tamil Nadu Newsprint and Papers Limited,0.20,NAN
+Lumax Industries,0.20,NAN
+Bannerman Energy,0.20,NAN
+Tupperware Brands,0.20,NAN
+AgileThought,0.20,NAN
+NGL Energy Partners,0.20,NAN
+Assertio Therapeutics,0.20,NAN
+Vintage Wine Estates,0.20,NAN
+Applied Blockchain,0.20,NAN
+KVH Industries,0.20,NAN
+AppHarvest,0.20,NAN
+C&F Financial Corporation,0.20,NAN
+Jakks Pacific,0.20,NAN
+SOPHiA GENETICS,0.20,NAN
+Quipt Home Medical,0.20,NAN
+OptiNose,0.20,NAN
+China Automotive Systems,0.20,NAN
+InfuSystem,0.20,NAN
+Rottneros,0.20,NAN
+Tethys Oil,0.19,NAN
+WM Technology,0.19,NAN
+Verrica Pharmaceuticals,0.19,NAN
+Oportun Financial,0.19,NAN
+Asure Software,0.19,NAN
+Kingsway Financial Services,0.19,NAN
+Alpine Summit Energy Partners,0.19,NAN
+UroGen Pharma,0.19,NAN
+KLX Energy Services,0.19,NAN
+Thorne HealthTech,0.19,NAN
+MPS Limited,0.19,NAN
+Kamux,0.19,NAN
+Mahanagar Telephone Nigam,0.19,NAN
+Great Ajax,0.19,NAN
+Rite Aid,0.19,NAN
+California BanCorp,0.19,NAN
+ThredUp,0.19,NAN
+I.g. Petrochemicals,0.19,NAN
+PlayAGS,0.19,NAN
+Kingfa Science & Technology,0.19,NAN
+Hill International,0.19,NAN
+Penns Woods Bancorp,0.19,NAN
+ReconAfrica,0.19,NAN
+Cepton,0.19,NAN
+Virginia National Bankshares,0.19,NAN
+Alaunos Therapeutics,0.19,NAN
+Nature's Sunshine Products,0.19,NAN
+Identiv,0.19,NAN
+Biodesix,0.19,NAN
+Angel Oak REIT,0.19,NAN
+Dhampur Sugar Mills,0.19,NAN
+Alico,0.19,NAN
+KemPharm,0.19,NAN
+Méliuz,0.19,NAN
+Cadiz,0.18,NAN
+So-Young International,0.18,NAN
+CSI Compressco,0.18,NAN
+CytomX Therapeutics,0.18,NAN
+Acacia Research,0.18,NAN
+Avita Medical,0.18,NAN
+Indian Metals & Ferro Alloys,0.18,NAN
+Ashiana Housing,0.18,NAN
+D-Wave Quantum,0.18,NAN
+Battalion Oil,0.18,NAN
+Vera Therapeutics,0.18,NAN
+a.k.a. Brands,0.18,NAN
+FingerMotion,0.18,NAN
+Summit Midstream,0.18,NAN
+GTPL Hathway,0.18,NAN
+Nelco,0.18,NAN
+CalAmp,0.18,NAN
+Wendt India,0.18,NAN
+AFC Energy,0.18,NAN
+CleanSpark,0.18,NAN
+Whole Earth Brands,0.18,NAN
+BAIOO Family Interactive,0.18,NAN
+Salisbury Bancorp,0.18,NAN
+GTL Infrastructure,0.18,NAN
+Southern Petrochemical Industries Corp,0.18,NAN
+Peoples Bancorp of North Carolina,0.18,NAN
+Aptech,0.18,NAN
+Cigniti Technologies,0.18,NAN
+LL Flooring,0.18,NAN
+CURO Group,0.18,NAN
+Hester Biosciences,0.18,NAN
+Olympique Lyonnais Groupe,0.18,NAN
+Cormedix,0.18,NAN
+Sandhar,0.18,NAN
+Huhtamaki India,0.18,NAN
+Indorama Synthetics,0.18,NAN
+Park-Ohio Holdings,0.18,NAN
+UNITED,0.18,NAN
+Hurco Companies,0.18,NAN
+Immutep,0.18,NAN
+Shankara Building,0.18,NAN
+Drecom,0.18,NAN
+Digital Domain,0.18,NAN
+Silvercrest Asset Management Group,0.17,NAN
+INEOS Styrolution,0.17,NAN
+Ceragon Networks,0.17,NAN
+Remark Holdings,0.17,NAN
+Doma,0.17,NAN
+eHealth,0.17,NAN
+Third Harmonic Bio,0.17,NAN
+Repco Home Finance,0.17,NAN
+Stratus Properties,0.17,NAN
+Spire Global,0.17,NAN
+Offerpad,0.17,NAN
+RPG Life Sciences,0.17,NAN
+Cellectis,0.17,NAN
+KCP Limited,0.17,NAN
+Andrew Peller,0.17,NAN
+Excel Industries,0.17,NAN
+Oxford Square Capital,0.17,NAN
+GreenLight Biosciences,0.17,NAN
+Intevac,0.17,NAN
+Liberty TripAdvisor Holdings,0.17,NAN
+AlphaPolis,0.17,NAN
+Xeris Pharmaceuticals,0.17,NAN
+InterCure,0.17,NAN
+Westport Fuel Systems,0.17,NAN
+Sunlight Financial,0.17,NAN
+Pear Therapeutics,0.17,NAN
+Arteris,0.17,NAN
+Atomera,0.17,NAN
+Lifetime Brands,0.17,NAN
+EyePoint Pharmaceuticals,0.17,NAN
+Berkeley Lights,0.17,NAN
+William Penn Bancorp,0.17,NAN
+Wheels India,0.17,NAN
+Affimed,0.17,NAN
+PlaySide Studios,0.17,NAN
+Oriental Aromatics,0.17,NAN
+Bassett Furniture,0.16,NAN
+"View, Inc.",0.16,NAN
+Redwire,0.16,NAN
+Platinum Group Metals,0.16,NAN
+G5 Entertainment,0.16,NAN
+StarTek,0.16,NAN
+Vera Bradley,0.16,NAN
+Riverview Bancorp,0.16,NAN
+Olema Pharmaceuticals,0.16,NAN
+Praxis Precision Medicines,0.16,NAN
+Ovid Therapeutics,0.16,NAN
+Sasken Technologies,0.16,NAN
+Real Good Food plc,0.16,NAN
+Paysign,0.16,NAN
+XOS,0.16,NAN
+Cardlytics,0.16,NAN
+Unifi,0.16,NAN
+BG Staffing,0.16,NAN
+Alithya Group,0.16,NAN
+Nam Tai Property,0.16,NAN
+ADS-TEC Energy,0.16,NAN
+Softstar Entertainment,0.16,NAN
+E INC (E Automotive),0.16,NAN
+XL Fleet,0.16,NAN
+Hawthorn Bancshares,0.16,NAN
+Quantum,0.16,NAN
+Mister Spex,0.16,NAN
+Citius Pharmaceuticals,0.16,NAN
+BioAtla,0.16,NAN
+Spok Holdings,0.16,NAN
+Astra Space,0.16,NAN
+Merrimack Pharmaceuticals,0.16,NAN
+Smith Micro Software,0.16,NAN
+Kopin Corporation,0.16,NAN
+Bakkt Holdings,0.16,NAN
+Frequency Therapeutics,0.16,NAN
+RADCOM,0.16,NAN
+Escalade Sports,0.16,NAN
+Nusantara Pelabuhan Handal,0.15,NAN
+Gencor Industries,0.15,NAN
+İşbir Holding,0.15,NAN
+Partners Bancorp,0.15,NAN
+GlycoMimetics,0.15,NAN
+AdTheorent,0.15,NAN
+Lantronix,0.15,NAN
+JOANN,0.15,NAN
+RumbleON,0.15,NAN
+Yatra,0.15,NAN
+Vinco Ventures,0.15,NAN
+Omaxe,0.15,NAN
+Igarashi Motors India,0.15,NAN
+AgroFresh,0.15,NAN
+Glatfelter,0.15,NAN
+Pkp Cargo,0.15,NAN
+Republic First Bancorp,0.15,NAN
+Foseco India,0.15,NAN
+Richmond Mutual Bancorporation,0.15,NAN
+Sequans Communications,0.15,NAN
+Kossan Rubber Industries,0.15,NAN
+Serverworks,0.15,NAN
+Anixa Biosciences,0.15,NAN
+Kuantum Papers,0.15,NAN
+Aemetis,0.15,NAN
+Rane Holdings,0.15,NAN
+Vaxart,0.15,NAN
+Kitex Garments,0.15,NAN
+Buzzfeed,0.15,NAN
+Sachem Capital,0.15,NAN
+The Arena Group,0.15,NAN
+ARC Document Solutions,0.15,NAN
+First Northwest Bancorp,0.15,NAN
+ProPhase Labs,0.15,NAN
+Precision BioSciences,0.15,NAN
+SelectQuote,0.15,NAN
+KULR Technology,0.15,NAN
+Gracell Biotechnologies,0.15,NAN
+MISTRAS Group,0.15,NAN
+Singular Genomics Systems,0.15,NAN
+X-Legend Entertainment,0.14,NAN
+Skipper Limited,0.14,NAN
+Celularity,0.14,NAN
+Kronos Bio,0.14,NAN
+Rico Auto Industries,0.14,NAN
+Iteris,0.14,NAN
+Xunlei,0.14,NAN
+BBX Capital Corporation,0.14,NAN
+ECB Bancorp,0.14,NAN
+The RealReal,0.14,NAN
+Diebold Nixdorf,0.14,NAN
+X4 Pharmaceuticals,0.14,NAN
+Turtle Beach Corp,0.14,NAN
+Daktronics,0.14,NAN
+Athira Pharma,0.14,NAN
+PyroGenesis Canada,0.14,NAN
+Prakash Industries,0.14,NAN
+Vroom,0.14,NAN
+DermTech,0.14,NAN
+Nyxoah,0.14,NAN
+Pulse Biosciences,0.14,NAN
+Geojit Financial Services,0.14,NAN
+ShiftPixy,0.14,NAN
+SML Isuzu,0.14,NAN
+kneat.com,0.14,NAN
+Parag Milk Foods,0.14,NAN
+Taysha Gene Therapies,0.14,NAN
+VBI Vaccines,0.14,NAN
+Benessere Capital Acquisition,0.14,NAN
+Northern Dynasty Minerals,0.14,NAN
+MariMed,0.14,NAN
+Twin Disc,0.14,NAN
+Asensus Surgical,0.14,NAN
+Yellow Corporation,0.14,NAN
+XBiotech,0.14,NAN
+Sterling Tools,0.14,NAN
+AG Mortgage Investment Trust,0.14,NAN
+Zentek,0.14,NAN
+Red Robin,0.14,NAN
+Oconee Federal Financial,0.14,NAN
+Peninsula Energy,0.14,NAN
+Village Farms International,0.13,NAN
+Hanover Bancorp,0.13,NAN
+Cenntro Electric Group,0.13,NAN
+Lazydays Holdings,0.13,NAN
+Euroseas,0.13,NAN
+MICT,0.13,NAN
+Hycroft Mining,0.13,NAN
+Eos Energy Enterprises,0.13,NAN
+Malvern Bancorp,0.13,NAN
+Superior Industries International,0.13,NAN
+KLab,0.13,NAN
+Chinese Gamer International,0.13,NAN
+Townsquare Media,0.13,NAN
+Milestone Pharmaceuticals,0.13,NAN
+Latch,0.13,NAN
+Jianzhi Education Technology Group,0.13,NAN
+BankFinancial,0.13,NAN
+Paratek Pharmaceuticals,0.13,NAN
+Starbox Group,0.13,NAN
+Americas Gold and Silver Corp,0.13,NAN
+Tabula Rasa HealthCare,0.13,NAN
+Knights Group,0.13,NAN
+Pexip,0.13,NAN
+Heliogen,0.13,NAN
+PTC Financial Services,0.13,NAN
+Solid Biosciences,0.13,NAN
+Provident Bancorp,0.13,NAN
+KAP AG,0.13,NAN
+O2Micro,0.13,NAN
+Supermax Corporation Berhad,0.13,NAN
+PLBY Group (Playboy),0.12,NAN
+Comscore,0.12,NAN
+Allot,0.12,NAN
+Sesen Bio,0.12,NAN
+TeraWulf,0.12,NAN
+Capacit'e Infraprojects,0.12,NAN
+Akebia Therapeutics,0.12,NAN
+Verastem Oncology,0.12,NAN
+Nucleus Software Exports,0.12,NAN
+L.B. Foster,0.12,NAN
+The Oncology Institute,0.12,NAN
+Yunji,0.12,NAN
+Martin Midstream Partners,0.12,NAN
+Creepy Jar,0.12,NAN
+Naked Wines,0.12,NAN
+Cel-Sci,0.12,NAN
+Electra Meccanica,0.12,NAN
+Altisource Portfolio,0.12,NAN
+Mangalore Chemicals and Fertilizers,0.12,NAN
+Pardes Biosciences,0.12,NAN
+Fonar Corporation,0.12,NAN
+Ohio Valley Banc Corp,0.12,NAN
+Srikalahasthi Pipes,0.12,NAN
+Relmada Therapeutics,0.12,NAN
+RVL Pharmaceuticals,0.12,NAN
+Citizens Inc,0.12,NAN
+Inseego,0.12,NAN
+Mind Medicine,0.12,NAN
+Anup Engineering,0.12,NAN
+Loop Industries,0.12,NAN
+Spectrum Pharmaceuticals,0.12,NAN
+MediciNova,0.12,NAN
+Tattooed Chef,0.12,NAN
+Coffee Day Enterprises,0.12,NAN
+Matinas BioPharma,0.12,NAN
+Sonendo,0.12,NAN
+FaZe Clan,0.12,NAN
+Old Point Financial,0.12,NAN
+Sema4,0.12,NAN
+Sarcos Technology and Robotics,0.11,NAN
+Talkspace,0.11,NAN
+Local Bounti,0.11,NAN
+Nok Air,0.11,NAN
+KORE,0.11,NAN
+USD Partners,0.11,NAN
+Bodal Chemicals,0.11,NAN
+Tanzanian Gold Corporation,0.11,NAN
+Aiming Inc,0.11,NAN
+Immuneering,0.11,NAN
+Graphite Bio,0.11,NAN
+MDxHealth,0.11,NAN
+Userjoy Technology,0.11,NAN
+InflaRx,0.11,NAN
+Ideanomics,0.11,NAN
+Volta,0.11,NAN
+Broadwind,0.11,NAN
+FinWise Bancorp,0.11,NAN
+Akili,0.11,NAN
+Pixelworks,0.11,NAN
+Quick Heal,0.11,NAN
+Aura Energy,0.11,NAN
+GE Power India,0.11,NAN
+Navkar Corp,0.11,NAN
+Orient Paper Mills,0.11,NAN
+Bergs Timber,0.11,NAN
+Rigetti Computing,0.11,NAN
+U.S. Xpress Enterprises,0.11,NAN
+Westwood Holdings Group,0.11,NAN
+Starbreeze,0.11,NAN
+Pieris Pharmaceuticals,0.11,NAN
+Societal CDMO,0.11,NAN
+Allied Tecnologia,0.11,NAN
+Fluent,0.11,NAN
+Barnes & Noble Education,0.11,NAN
+Capricor Therapeutics,0.11,NAN
+Infinities Tech (Jiu Zun Digital),0.11,NAN
+Lee Enterprises,0.11,NAN
+Union Bankshares,0.11,NAN
+REE Automotive,0.10,NAN
+India Motor Parts and Accessories,0.10,NAN
+Lulu's Fashion Lounge,0.10,NAN
+Phunware,0.10,NAN
+Sylogist,0.10,NAN
+Rekor Systems,0.10,NAN
+Carrols Restaurant Group,0.10,NAN
+American Resources Corp,0.10,NAN
+Nuvectis Pharma,0.10,NAN
+Parken Sport (F.C. Copenhagen),0.10,NAN
+Sangoma Technologies,0.10,NAN
+Atossa Therapeutics,0.10,NAN
+Pollux Properti Indonesia,0.10,NAN
+Dave Inc.,0.10,NAN
+High Tide,0.10,NAN
+Lakeland Industries,0.10,NAN
+India Nippon Electricals,0.10,NAN
+CI Games,0.10,NAN
+Ateam,0.10,NAN
+Graham Corporation,0.10,NAN
+Lument Finance Trust,0.10,NAN
+Mangalam Cement,0.10,NAN
+Wag! Group,0.10,NAN
+Provident Financial Holdings,0.10,NAN
+Seanergy Maritime,0.10,NAN
+Kaixin Auto,0.10,NAN
+Titan Medical,0.10,NAN
+Spero Therapeutics,0.10,NAN
+Grove Collaborative,0.10,NAN
+Sonida Senior Living,0.10,NAN
+Mallinckrodt Pharmaceuticals,0.10,NAN
+CBAK Energy,0.10,NAN
+Park City Group,0.10,NAN
+Ellington Residential Mortgage REIT,0.10,NAN
+Sono,0.10,NAN
+Dare Bioscience,0.10,NAN
+Instil Bio,0.10,NAN
+AEye,0.10,NAN
+Iris Energy,0.10,NAN
+Advent Technologies,99.81 M,NAN
+Momentus,99.29 M,NAN
+Alligator Energy,99.21 M,NAN
+Harte Hanks,99.15 M,NAN
+Cytosorbents,99.05 M,NAN
+Reading International,98.92 M,NAN
+Kokuyo Camlin,98.75 M,NAN
+Farmer Brothers,98.7 M,NAN
+Sport Lisboa e Benfica,98.41 M,NAN
+Embark Technology,97.9 M,NAN
+Seelos Therapeutics,97.52 M,NAN
+Kayak Inc,97.44 M,NAN
+Oncolytics Biotech,97.39 M,NAN
+Bit Digital,97.32 M,NAN
+Mynaric,97.21 M,NAN
+Viomi Technology,97.04 M,NAN
+Smart Sand,96.89 M,NAN
+Syros Pharmaceuticals,96.47 M,NAN
+Nihon Falcom,96.45 M,NAN
+Flotek Industries,96.1 M,NAN
+Mainz Biomed,95.94 M,NAN
+Himatsingka Seide,95.85 M,NAN
+Fortress Biotech,95.77 M,NAN
+Scienjoy,95.31 M,NAN
+PEDEVCO,95.22 M,NAN
+NRx Pharmaceuticals,94.76 M,NAN
+Hour Loop,94.61 M,NAN
+Clearside Biomedical,94.49 M,NAN
+Gala Incorporated,94.15 M,NAN
+Apex Frozen Foods,93.97 M,NAN
+PowerFleet,93.68 M,NAN
+Avino Silver & Gold Mines,93.23 M,NAN
+Flexsteel Industries,92.96 M,NAN
+MacroWell OMG Digital Entertainment,92.82 M,NAN
+Thunderful Group,92.81 M,NAN
+orion-group-holdings,92.63 M,NAN
+Lifeway Foods,92.53 M,NAN
+Wrap Technologies,92.52 M,NAN
+Don't Nod Entertainment,92.48 M,NAN
+Vince Holding,92.36 M,NAN
+Stabilis Solutions,91.93 M,NAN
+Co-Diagnostics,91.82 M,NAN
+Compugen,91.82 M,NAN
+Bloober Team,91.68 M,NAN
+Bliss GVS Pharma,91.46 M,NAN
+Akumin,90.55 M,NAN
+"NN, Inc.",89.93 M,NAN
+Apyx Medical,89.6 M,NAN
+Delta Apparel,89.26 M,NAN
+AirAsia,88.92 M,NAN
+ATI Physical Therapy,88.51 M,NAN
+Velan,88.34 M,NAN
+Modiv,88.25 M,NAN
+Lyra Therapeutics,88.16 M,NAN
+Mesa Air,88.03 M,NAN
+CAVE Interactive,87.76 M,NAN
+Trilogy Metals,87.73 M,NAN
+NeoVolta,86.71 M,NAN
+Viracta Therapeutics,86.32 M,NAN
+Ayr Wellness,86.04 M,NAN
+Bird Global,85.37 M,NAN
+Bragg Gaming Group,85.19 M,NAN
+ACRES Commercial Realty,84.78 M,NAN
+CROOZ,84.38 M,NAN
+Jay Bharat Maruti,84.01 M,NAN
+Akatsuki Corp.,83.34 M,NAN
+BeyondSpring,83.3 M,NAN
+3i Infotech,83.21 M,NAN
+Senti Biosciences,82.88 M,NAN
+Charlotte's Web,82.66 M,NAN
+GAN,82.62 M,NAN
+Elevate Uranium,82.54 M,NAN
+Quicklogic,82.21 M,NAN
+Protalix BioTherapeutics,82.07 M,NAN
+LMP Automotive Holdings,81.81 M,NAN
+Ebixcash India,81.5 M,NAN
+WeTrade Group,80.24 M,NAN
+Armata Pharmaceuticals,79.51 M,NAN
+Superior Resources,79.42 M,NAN
+KINS Technology Group,79.25 M,NAN
+Gaia,79.06 M,NAN
+Gulf Island Fabrication,78.97 M,NAN
+Aterian,78.3 M,NAN
+Björn Borg,78.06 M,NAN
+Nano Labs,78.04 M,NAN
+Laramide Resources,77.82 M,NAN
+Longeveron,77.76 M,NAN
+Yuke's,77.76 M,NAN
+ATARI,77.72 M,NAN
+Vista Gold,77.1 M,NAN
+Orchard Therapeutics,77.07 M,NAN
+Sunworks,77.06 M,NAN
+Achieve Life Sciences,76.59 M,NAN
+Hydrofarm,76.33 M,NAN
+NuCana,75.68 M,NAN
+Sotherly Hotels,75.13 M,NAN
+Asian Granito India,75.1 M,NAN
+Reliance Communications,75.05 M,NAN
+Tonix Pharmaceuticals,74.79 M,NAN
+Root Insurance,74.58 M,NAN
+Express,74.45 M,NAN
+Forsys Metals,74.33 M,NAN
+S.S. Lazio,74.3 M,NAN
+Enzo Biochem,74.05 M,NAN
+Synlogic,74.04 M,NAN
+GreenPower Motor Company,73.69 M,NAN
+Xilio Therapeutics,73.07 M,NAN
+Feiyu Technology International Company,72.63 M,NAN
+Radio City,72.54 M,NAN
+Broccoli,72.45 M,NAN
+Cheetah Mobile,72.16 M,NAN
+Accelerate Diagnostics,71.36 M,NAN
+Spencer's Retail,71.32 M,NAN
+geechs,71.08 M,NAN
+Hepion Pharmaceuticals,70.74 M,NAN
+eMagin,70.39 M,NAN
+Curis,70.32 M,NAN
+Argo Blockchain,70.24 M,NAN
+Regis Corporation,70.12 M,NAN
+Synchronoss,69.96 M,NAN
+Energous,69.49 M,NAN
+Owlet,68.93 M,NAN
+Genprex,68.67 M,NAN
+Rane Brake Lining,68.63 M,NAN
+Venator Materials,68.61 M,NAN
+Tiziana Life Sciences,68.51 M,NAN
+Wejo Group,68.48 M,NAN
+Immunic,68.31 M,NAN
+Adverum Biotechnologies,67.8 M,NAN
+AquaBounty,67.74 M,NAN
+Galectin Therapeutics,67.74 M,NAN
+Imagineer,67.54 M,NAN
+IO Biotech,67.42 M,NAN
+aTyr Pharma,67.3 M,NAN
+Enochian Biosciences,67.24 M,NAN
+Culp,66.63 M,NAN
+Manhattan Bridge Capital,66.55 M,NAN
+vTv Therapeutics,66.48 M,NAN
+Retractable Technologies,66.15 M,NAN
+Aptose Biosciences,65.78 M,NAN
+United Insurance Holdings,65.39 M,NAN
+Great Elm Capital,65.3 M,NAN
+Spruce Biosciences,65.02 M,NAN
+Indonesia Energy,65.01 M,NAN
+Orion Energy Systems,64.6 M,NAN
+Lightning eMotors,64.23 M,NAN
+Mogo,64.14 M,NAN
+Jounce Therapeutics,63.58 M,NAN
+MAG Interactive,63.52 M,NAN
+Snail Inc,63.47 M,NAN
+DIRTT Environmental Solutions,63.45 M,NAN
+Aeria,62.99 M,NAN
+Red Cat Holdings,62.73 M,NAN
+HEXO,62.67 M,NAN
+Gamesparcs,62.62 M,NAN
+Know Labs,62.6 M,NAN
+the Marygold Companies,62.3 M,NAN
+Logan Ridge Finance,61.94 M,NAN
+Mega Uranium,61.67 M,NAN
+SCYNEXIS,61.39 M,NAN
+MGO Global,61.32 M,NAN
+Sino-Entertainment Technology,61.3 M,NAN
+Nectar Lifesciences,60.99 M,NAN
+Unity Biotechnology,60.88 M,NAN
+Surface Oncology,59.93 M,NAN
+Geospace Technologies,59.87 M,NAN
+NCS Multistage,59.71 M,NAN
+Sporting Clube de Portugal,59.66 M,NAN
+Lantern Pharma,59.49 M,NAN
+BioLargo,59.21 M,NAN
+Neovasc,59.16 M,NAN
+FreightCar America,58.9 M,NAN
+Xebec Adsorption,58.69 M,NAN
+Heritage Insurance,58.48 M,NAN
+Sellas Life Sciences,58.47 M,NAN
+Wayi International Digital Entertainment,58.04 M,NAN
+OncoCyte,57.89 M,NAN
+Leap Therapeutics,57.69 M,NAN
+Pestech Cambodia,57.5 M,NAN
+Atlis Motor Vehicles,57.36 M,NAN
+Unitech Group,57.34 M,NAN
+Polished.com,57.29 M,NAN
+East Side Games,57.23 M,NAN
+Rapid Micro Biosystems,56.69 M,NAN
+Elevate Credit,56.55 M,NAN
+PopReach,56.53 M,NAN
+ASP Isotopes,56.34 M,NAN
+Nautilus,56.14 M,NAN
+Petropavlovsk,55.5 M,NAN
+Augmedix,55.39 M,NAN
+iCandy Interactive,55.17 M,NAN
+Adamas One,54.95 M,NAN
+PAVmed,54.83 M,NAN
+Koss,54.71 M,NAN
+VirTra,54.7 M,NAN
+Allied Esports,54.32 M,NAN
+Hinduja Ventures,53.95 M,NAN
+ReWalk Robotics,53.64 M,NAN
+Mobile Factory,53.64 M,NAN
+Aquestive Therapeutics,53.61 M,NAN
+Balaji Telefilms,53.45 M,NAN
+BrainStorm Cell Therapeutics,53.35 M,NAN
+TScan Therapeutics,52.97 M,NAN
+AeroClean Technologies,52.68 M,NAN
+Renren,52.07 M,NAN
+Vapotherm,52.07 M,NAN
+Golden Minerals,51.91 M,NAN
+Rafael Holdings,51.88 M,NAN
+Imperial Petroleum,51.75 M,NAN
+Talaris Therapeutics,51.43 M,NAN
+TherapeuticsMD,51.12 M,NAN
+Addentax Group,51.01 M,NAN
+Lucid Diagnostics,50.84 M,NAN
+Westwater Resources,50.47 M,NAN
+Intellicheck,49.84 M,NAN
+Hindustan Media Ventures,49.32 M,NAN
+Lipocine,49.22 M,NAN
+Advanced Emissions Solutions,49.11 M,NAN
+N.B.I. Industrial Finance,49.07 M,NAN
+The Glimpse Group,48.26 M,NAN
+Horizon Global,48.25 M,NAN
+5th Planet Games,47.87 M,NAN
+Kaival Brands Innovations,47.86 M,NAN
+Greenidge Generation Holdings,47.42 M,NAN
+Natural Health Trends,47.4 M,NAN
+Ascent Solar Technologies,47.16 M,NAN
+UpHealth,47.12 M,NAN
+Comstock Mining,46.9 M,NAN
+TESSCO Technologies,46.76 M,NAN
+coly,46.6 M,NAN
+enish,46.58 M,NAN
+Coya Therapeutics,46.46 M,NAN
+Big Cheese Studio,46.35 M,NAN
+AppTech Payments,45.61 M,NAN
+Abeona Therapeutics,45.51 M,NAN
+Ashford Inc,45.51 M,NAN
+Science 37,45.49 M,NAN
+Audacy,45.4 M,NAN
+Castellum,45.27 M,NAN
+EMCORE Corporation,45.12 M,NAN
+Investigator Resources,45.06 M,NAN
+Journey Medical,44.94 M,NAN
+BitNile,44.77 M,NAN
+Kirkland's,44.76 M,NAN
+Nippon Ichi Software,44.56 M,NAN
+Atlas Lithium,44.37 M,NAN
+Navios Maritime Holdings,44.2 M,NAN
+Graphex Group,44.08 M,NAN
+MAIA Biotechnology,43.67 M,NAN
+IronNet,43.52 M,NAN
+Ourgame International,43.47 M,NAN
+Solitario Zinc,43.39 M,NAN
+Cielo Waste Solutions,43.35 M,NAN
+Okyo Pharma,43.32 M,NAN
+SOS Limited,43.27 M,NAN
+Tose Software,43.18 M,NAN
+Inuvo,43.17 M,NAN
+U.S. Gold Corp,43.07 M,NAN
+ATA Creativity Global,42.98 M,NAN
+Cimbeton,42.69 M,NAN
+Corvus Pharmaceuticals,42.36 M,NAN
+Phnom Penh SEZ,42.02 M,NAN
+Magic Empire Global (Giraffe Capital),41.6 M,NAN
+Söktas Tekstil,41.27 M,NAN
+Ocean Power Technologies,41.16 M,NAN
+LightPath Technologies,40.93 M,NAN
+Isoray,40.92 M,NAN
+IZEA Worldwide,40.43 M,NAN
+Biomerica,40.42 M,NAN
+Trinity Biotech,40.39 M,NAN
+SPI Energy,40.18 M,NAN
+Blue Apron Holdings,39.97 M,NAN
+MEP Infrastructure,39.96 M,NAN
+BoomBit,39.92 M,NAN
+Party City,39.55 M,NAN
+Palatin Technologies,39.55 M,NAN
+Capstone Green Energy,39.41 M,NAN
+AVROBIO,39.39 M,NAN
+CyberStep,39.39 M,NAN
+Cryo-Cell,39.37 M,NAN
+Nymox Pharmaceutical,39.36 M,NAN
+BioSig Technologies,39.29 M,NAN
+Silver One Resources,39.02 M,NAN
+Team Inc,38.81 M,NAN
+Zion Oil & Gas,38.59 M,NAN
+Boyaa Interactive,38.18 M,NAN
+Biora Therapeutics,38.11 M,NAN
+Foresight Autonomous Holdings,37.46 M,NAN
+Houston American Energy,37.42 M,NAN
+Shift Technologies,37.05 M,NAN
+AgEagle Aerial Systems,36.98 M,NAN
+Zordix,36.95 M,NAN
+Appirits,36.21 M,NAN
+Grand Twins International Cambodia,35.85 M,NAN
+Satsuma Pharmaceuticals,35.44 M,NAN
+Monopar Therapeutics,35.29 M,NAN
+IMV,35.28 M,NAN
+HeartBeam,35.1 M,NAN
+Solar Integrated Roofing,35.01 M,NAN
+Rave Restaurant Group,34.86 M,NAN
+Salem Media Group,34.83 M,NAN
+Alkaline Water Company,34.82 M,NAN
+RealNetworks,34.82 M,NAN
+Aptinyx,34.63 M,NAN
+CorpHousing Group,34.48 M,NAN
+Lumos Pharma,34.27 M,NAN
+Fragbite Group,34.16 M,NAN
+CorEnergy Infrastructure Trust,33.78 M,NAN
+Camber Energy,33.73 M,NAN
+Almaden Minerals,33.63 M,NAN
+Forever Entertainment,33.54 M,NAN
+Toro Energy,33.4 M,NAN
+Stryve Foods,33.1 M,NAN
+VistaGen Therapeutics,33.09 M,NAN
+Sio Gene Therapies,33.06 M,NAN
+The9,32.71 M,NAN
+Sierra Metals,32.7 M,NAN
+BIT Mining (500.com),32.65 M,NAN
+Swvl Holdings,32.42 M,NAN
+Bionomics,32.17 M,NAN
+Document Security Systems,31.73 M,NAN
+Acasti Pharma,31.67 M,NAN
+Vaccinex,31.67 M,NAN
+ZK International Group,31.3 M,NAN
+Kala Pharmaceuticals,31.29 M,NAN
+Treasure Global,31.29 M,NAN
+Sporting Clube de Braga,31.27 M,NAN
+Avalon GloboCare,30.89 M,NAN
+AIM ImmunoTech,30.21 M,NAN
+PaxMedica,30.2 M,NAN
+Beasley Broadcast Group,30.14 M,NAN
+Erayak Power Solution,30 M,NAN
+Revlon,29.86 M,NAN
+ToughBuilt Industries,29.67 M,NAN
+TENDA,29.59 M,NAN
+Psychemedics,29.35 M,NAN
+Athenex,29.27 M,NAN
+Nexstim,29.24 M,NAN
+Sphere 3D,29.15 M,NAN
+Endo International,29.09 M,NAN
+Shapeways,29.08 M,NAN
+Microbot Medical,28.95 M,NAN
+Pioneer Power Solutions,28.76 M,NAN
+Quince Therapeutics,27.82 M,NAN
+AgeX Therapeutics,27.81 M,NAN
+Zynerba Pharmaceuticals,27.76 M,NAN
+Trinity Place Holdings,27.68 M,NAN
+Phoenix Motor,27.64 M,NAN
+Harpoon Therapeutics,27.64 M,NAN
+Rockley Photonics,27.54 M,NAN
+Mobcast,27.48 M,NAN
+Boxlight,27.3 M,NAN
+NJ Holdings,27.2 M,NAN
+FingerTango,27.2 M,NAN
+Society Pass,27.13 M,NAN
+FC Porto,27.12 M,NAN
+AltPlus,27.07 M,NAN
+Cyclerion Therapeutics,27 M,NAN
+Zee Learn,26.89 M,NAN
+Laser Photonics,26.86 M,NAN
+Lannett Company,26.69 M,NAN
+Biofrontera,26.67 M,NAN
+Rubius Therapeutics,26.63 M,NAN
+Core Scientific,26.53 M,NAN
+Fun Yours Technology,26.47 M,NAN
+NantHealth,26.42 M,NAN
+DAVIDsTEA,26.31 M,NAN
+SigmaTron International,26.22 M,NAN
+Future Retail,26.02 M,NAN
+Aprea Therapeutics,25.84 M,NAN
+Mobile Global Esports (Mogo),25.73 M,NAN
+SeaChange,25.59 M,NAN
+Axel Mark,25.55 M,NAN
+Vislink Technologies,25.43 M,NAN
+Regulus Therapeutics,25.09 M,NAN
+Onion Global,25.01 M,NAN
+Rail Vision,24.79 M,NAN
+Cyngn,24.65 M,NAN
+Hempacco,24.54 M,NAN
+Avaya Holdings,24.49 M,NAN
+Sientra,24.08 M,NAN
+Sidus Space,24.03 M,NAN
+Eterna Therapeutics,23.84 M,NAN
+Dolphin Entertainment,23.79 M,NAN
+Mynet,23.79 M,NAN
+Conformis,23.71 M,NAN
+Stealth BioTherapeutics,23.53 M,NAN
+FGI Industries,23.18 M,NAN
+Edia,23.15 M,NAN
+Bellerophon Therapeutics,23.09 M,NAN
+Ekso Bionics,23.06 M,NAN
+American Virtual Cloud,23.04 M,NAN
+Triterras,22.95 M,NAN
+Vincerx Pharma,22.46 M,NAN
+Silicon Studio,22.15 M,NAN
+Sonim Technologies,22.05 M,NAN
+Rockwell Medical,21.98 M,NAN
+Applied DNA Sciences,21.81 M,NAN
+Polar Power,21.75 M,NAN
+electroCore,21.48 M,NAN
+Athersys,21.33 M,NAN
+AcelRx Pharmaceuticals,21.23 M,NAN
+Orosur Mining,21.12 M,NAN
+Humanigen,21.07 M,NAN
+Spark Networks,20.93 M,NAN
+All in! Games,20.79 M,NAN
+Verb Technology,20.67 M,NAN
+Stronghold Digital Mining,20.64 M,NAN
+Astro Corporation,20.62 M,NAN
+cbdMD,20.57 M,NAN
+Astrotech,20.52 M,NAN
+Acorda Therapeutics,20.46 M,NAN
+India Globalization Capital,20.31 M,NAN
+Soligenix,20.31 M,NAN
+WonderPlanet,20.23 M,NAN
+Galmed Pharmaceuticals,20.2 M,NAN
+Carver Bancorp,19.9 M,NAN
+Srei Infrastructure Finance,19.81 M,NAN
+Super League Gaming,19.79 M,NAN
+Ultimate Games,19.7 M,NAN
+Genetic Technologies,19.42 M,NAN
+Waitr Holdings,19.34 M,NAN
+Aptorum Group,19.28 M,NAN
+Netmarble Joybomb,19.17 M,NAN
+SG Blocks,18.79 M,NAN
+Air Industries Group,18.7 M,NAN
+Aeterna Zentaris,18.42 M,NAN
+Onconova Therapeutics,18.41 M,NAN
+Kingstone Companies,18.37 M,NAN
+Lipella Pharmaceuticals,18.29 M,NAN
+Tempest Therapeutics,18.19 M,NAN
+Corbus Pharmaceuticals,18.14 M,NAN
+ADVFN,18.09 M,NAN
+Forza X1,18.07 M,NAN
+Redhill Biopharma,18.01 M,NAN
+Marpai,17.98 M,NAN
+Marin Software,17.88 M,NAN
+Artifex Mundi,17.76 M,NAN
+Games Operators,17.72 M,NAN
+CarLotz,17.71 M,NAN
+Precipio,17.57 M,NAN
+Cocrystal Pharma,17.42 M,NAN
+HyreCar,17.19 M,NAN
+Socket Mobile,17.18 M,NAN
+Wheeler Real Estate Investment Trust,16.94 M,NAN
+Missfresh,16.81 M,NAN
+Trust Stamp,16.74 M,NAN
+Compleo Charging Solutions,16.53 M,NAN
+NanoViricides,16.48 M,NAN
+Digital Hollywood Interactive,16.39 M,NAN
+Nitro Games,16.11 M,NAN
+Organovo,16.03 M,NAN
+OLB Group,16.02 M,NAN
+Oragenics,15.96 M,NAN
+Trophy Games,15.9 M,NAN
+Aurora Energy Metals,15.89 M,NAN
+Pulmatrix,15.75 M,NAN
+SOBR Safe,15.73 M,NAN
+Voltage,15.61 M,NAN
+VYNE Therapeutics,15.54 M,NAN
+Drive Shack,15.48 M,NAN
+Can Fite Biopharma,15.44 M,NAN
+Ontrak,15.31 M,NAN
+PREIT,15.29 M,NAN
+Yield10 Bioscience,15.27 M,NAN
+Digital Ally,15.09 M,NAN
+InterServ International,14.95 M,NAN
+T2 Biosystems,14.93 M,NAN
+Iterum Therapeutics,14.68 M,NAN
+iSpecimen,14.62 M,NAN
+GigaMedia,14.59 M,NAN
+Expion360,14.55 M,NAN
+Jaguar Health,14.36 M,NAN
+Inspira Technologies,14.29 M,NAN
+Austin Gold,14.2 M,NAN
+Trevena,14.17 M,NAN
+Celsion Corporation,13.91 M,NAN
+bioAffinity Technologies,13.89 M,NAN
+180 Life Sciences,13.86 M,NAN
+Aileron Therapeutics,13.78 M,NAN
+Agrify,13.7 M,NAN
+Top Ships,13.69 M,NAN
+Forgame,13.58 M,NAN
+Titan Pharmaceuticals,13.49 M,NAN
+Chembio Diagnostics,13.23 M,NAN
+Fresh Vine Wine,13.17 M,NAN
+Performance Shipping,13.11 M,NAN
+IMTE,13.02 M,NAN
+Future Supply Chain Solutions,12.98 M,NAN
+Virtual Interactive Technologies,12.88 M,NAN
+Gaming Corps,12.87 M,NAN
+Reborn Coffee,12.71 M,NAN
+Advanced Human Imaging,12.67 M,NAN
+GTI Energy,12.58 M,NAN
+Diffusion Pharmaceuticals,12.56 M,NAN
+Playgon Games,12.29 M,NAN
+Farmmi,12.24 M,NAN
+Hallmark Financial Services,12.22 M,NAN
+Guardforce AI,12.04 M,NAN
+Direct Digital Holdings,11.99 M,NAN
+Arcimoto,11.92 M,NAN
+Trillium Gold Mines,11.88 M,NAN
+Minerva Neurosciences,11.85 M,NAN
+Aytu BioScience,11.79 M,NAN
+Agile Therapeutics,11.77 M,NAN
+Clovis Oncology,11.77 M,NAN
+Genius Group,11.7 M,NAN
+Context Therapeutics,11.7 M,NAN
+Jump Networks,11.66 M,NAN
+CMON,11.56 M,NAN
+GAME HOURS,11.53 M,NAN
+Impac Mortgage Holdings,11.29 M,NAN
+Cingulate,11.11 M,NAN
+Helius Medical Technologies,10.96 M,NAN
+Jeffs' Brands,10.9 M,NAN
+Aethlon Medical,10.58 M,NAN
+Evoke Pharma,10.29 M,NAN
+Onfolio Holdings,10.11 M,NAN
+Sabre Resources,9.74 M,NAN
+Biocept,9.72 M,NAN
+Avinger,9.59 M,NAN
+Virax Biolabs,9.55 M,NAN
+Skylight Health Group,9.51 M,NAN
+Cryptyde,9.38 M,NAN
+Innovative Eyewear,9.31 M,NAN
+Hoth Therapeutics,9.26 M,NAN
+Viveve Medical,9.22 M,NAN
+Wearable Health Solutions,9.18 M,NAN
+Calyxt,9.06 M,NAN
+iBio,8.95 M,NAN
+Arcadia Biosciences,8.86 M,NAN
+Great Panther Mining,8.8 M,NAN
+Exela Technologies,8.71 M,NAN
+Tricida,8.61 M,NAN
+Adial Pharmaceuticals,8.59 M,NAN
+Actelis Networks,8.39 M,NAN
+Gaming Technologies (Gametech),8.37 M,NAN
+Staffing 360 Solutions,8.28 M,NAN
+Ra Medical Systems,8.27 M,NAN
+Qiiwi Games,8.2 M,NAN
+SaverOne 2014,8.11 M,NAN
+Quoin Pharmaceuticals,8.04 M,NAN
+Evofem Biosciences,7.98 M,NAN
+Sozap,7.77 M,NAN
+Gaming Factory,7.77 M,NAN
+OpGen,7.53 M,NAN
+Linekong Interactive,7.53 M,NAN
+Kidpik,7.53 M,NAN
+Neptune Wellness Solutions,7.52 M,NAN
+Heart Test Laboratories,7.5 M,NAN
+Phio Pharmaceuticals,7.36 M,NAN
+Netcapital,7.33 M,NAN
+Greenlane,7.3 M,NAN
+Minerva Surgical,7.26 M,NAN
+Vivid Games,7.18 M,NAN
+Akerna,7.17 M,NAN
+LL Lucky Games,6.86 M,NAN
+Starry Group,6.81 M,NAN
+VivoPower,6.76 M,NAN
+BIO-key International,6.73 M,NAN
+Tivic Health Systems,6.67 M,NAN
+Akanda,6.65 M,NAN
+NuZee,6.54 M,NAN
+Benitec Biopharma,6.48 M,NAN
+Field Trip Health,6.37 M,NAN
+Petros Pharmaceuticals,6.31 M,NAN
+Esports Entertainment,6.26 M,NAN
+Wolverine Energy and Infrastructure,6.18 M,NAN
+Altamira Therapeutics,6.07 M,NAN
+Blackboxstocks,6 M,NAN
+Gameone,5.87 M,NAN
+PolarityTE,5.66 M,NAN
+PainReform,5.58 M,NAN
+Energy Focus,5.39 M,NAN
+Inpixon,5.37 M,NAN
+BiondVax,5.31 M,NAN
+Liquid Media Group,5.17 M,NAN
+JanOne,5.13 M,NAN
+Cemtrex,5.08 M,NAN
+HTG Molecular Diagnostics,5.02 M,NAN
+Ampio Pharmaceuticals,4.95 M,NAN
+Ensysce Biosciences,4.94 M,NAN
+Oblong,4.93 M,NAN
+Hillstream BioPharma,4.87 M,NAN
+ManyDev Studio,4.7 M,NAN
+Motorsport Gaming,4.58 M,NAN
+Nabriva Therapeutics,4.56 M,NAN
+Mighty Kingdom,4.52 M,NAN
+Bruush Oral Care (Brüush),4.48 M,NAN
+Allied Healthcare Products,4.41 M,NAN
+ContraFect,4.41 M,NAN
+Eastside Distilling,4.32 M,NAN
+Blue Hat,4.31 M,NAN
+SINTX Technologies,3.93 M,NAN
+Sonoma Pharmaceuticals,3.88 M,NAN
+Nuwellis,3.85 M,NAN
+Pintec Technology,3.64 M,NAN
+Afristrat Investment,3.52 M,NAN
+G Medical Innovations,3.52 M,NAN
+PhaseBio Pharmaceuticals,3.49 M,NAN
+Grom Social Enterprises,3.48 M,NAN
+Kaspien,3.34 M,NAN
+Zovio,3.17 M,NAN
+Connexa Sports Technologies,3.16 M,NAN
+Greene Concepts,3.09 M,NAN
+Biolase,3.04 M,NAN
+Advaxis,2.9 M,NAN
+iEntertainment Network,2.83 M,NAN
+Edible Garden,2.64 M,NAN
+Calithera Biosciences,2.56 M,NAN
+T-Bull,2.38 M,NAN
+Tapinator,2.23 M,NAN
+VIP Gloves,2.19 M,NAN
+Kuuhubb,1.92 M,NAN
+PunkPirates,1.9 M,NAN
+Baudax Bio,1.88 M,NAN
+Winc,1.86 M,NAN
+Allena Pharmaceuticals,1.67 M,NAN
+Freeze Tag,1.5 M,NAN
+Mobilicom,1.39 M,NAN
+Quotient,1.34 M,NAN
+Versus Systems,1.2 M,NAN
+Quanergy Systems,1.19 M,NAN
+Youngevity International,1.19 M,NAN
+iFresh,1.01 M,NAN
+Playground Ventures,0.93 M,NAN
+Trulite,0.21 M,NAN
+NewAge,0.04 M,NAN
+Pareteum Corporation,0.01 M,NAN
+Genocea Biosciences,0 M,NAN
+FedNat Holding Company,0 M,NAN
+Hitachi Metals,0 M,NAN

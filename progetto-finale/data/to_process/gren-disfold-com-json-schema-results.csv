@@ -1,0 +1,1001 @@
+CompanyName,MarketCap,EmployeesTotalAmount
+Apple Inc.,2825000000000,NAN
+Microsoft Corporation,2328000000000,NAN
+Saudi Arabian Oil Company,2297000000000,NAN
+Alphabet Inc.,1825000000000,NAN
+"Amazon.com, Inc.",1642000000000,NAN
+"Tesla, Inc.",1016000000000,NAN
+Berkshire Hathaway Inc.,798470000000,NAN
+Nvidia Corporation,660380000000,NAN
+"Meta Platforms, Inc.",617500000000,NAN
+Taiwan Semiconductor Manufacturing Company Limited,527890000000,NAN
+UnitedHealth Group Incorporated,488520000000,NAN
+Visa Inc.,486770000000,NAN
+Johnson & Johnson,475930000000,NAN
+Tencent Holdings Ltd,441170000000,NAN
+Walmart Inc.,429050000000,NAN
+JPMorgan Chase & Co.,410840000000,NAN
+The Procter & Gamble Company,384600000000,NAN
+"Samsung Electronics Co., Ltd.",378350000000,NAN
+"LVMH Moët Hennessy - Louis Vuitton, SE",359260000000,NAN
+Mastercard Incorporated,358600000000,NAN
+Bank of America Corporation,350840000000,NAN
+Roche Holding AG,349500000000,NAN
+Exxon Mobil Corporation,348720000000,NAN
+Kweichow Moutai Co. Ltd,348220000000,NAN
+"The Home Depot, Inc.",321470000000,NAN
+Chevron Corporation,315130000000,NAN
+Pfizer Inc.,300790000000,NAN
+AbbVie Inc.,294270000000,NAN
+Alibaba Group Holding Limited,290400000000,NAN
+ASML Holding N.V.,274350000000,NAN
+The Coca-Cola Company,273200000000,NAN
+Eli Lilly and Company,273010000000,NAN
+Broadcom Inc.,265270000000,NAN
+Costco Wholesale Corporation,258150000000,NAN
+Novo Nordisk A/S,257240000000,NAN
+Industrial & Commercial Bank of China Ltd,250370000000,NAN
+The Walt Disney Company,247880000000,NAN
+"PepsiCo, Inc.",241050000000,NAN
+"Cisco Systems, Inc.",238450000000,NAN
+Thermo Fisher Scientific Inc.,236150000000,NAN
+Oracle Corporation,228180000000,NAN
+L'Oréal SA,225240000000,NAN
+Accenture plc,219030000000,NAN
+Comcast Corporation,218900000000,NAN
+Verizon Communications Inc.,216680000000,NAN
+Abbott Laboratories,215020000000,NAN
+"Nike, Inc.",213600000000,NAN
+BHP Group,211250000000,NAN
+"Merck & Co., Inc.",210380000000,NAN
+Danaher Corporation,208030000000,NAN
+Shell plc,207680000000,NAN
+Novartis AG,204130000000,NAN
+AstraZeneca plc,201750000000,NAN
+Intel Corporation,201720000000,NAN
+Wells Fargo & Company,200010000000,NAN
+Adobe Inc.,199570000000,NAN
+"salesforce.com, inc.",193800000000,NAN
+"United Parcel Service, Inc.",190500000000,NAN
+China Construction Bank Corp,189370000000,NAN
+McDonald's Corporation,186570000000,NAN
+China Merchants Bank Co Ltd,185980000000,NAN
+Contemporary Amperex Technology Co. Ltd,185670000000,NAN
+Union Pacific Corporation,184190000000,NAN
+AT&T Inc.,175880000000,NAN
+Qualcomm Incorporated,172250000000,NAN
+Texas Instruments Incorporated,171280000000,NAN
+Bristol-Myers Squibb Company,170560000000,NAN
+Prosus N.V.,170000000000,NAN
+Linde plc,166070000000,NAN
+"NextEra Energy, Inc.",165530000000,NAN
+Agricultural Bank of China Ltd,165000000000,NAN
+"T-Mobile US, Inc.",164310000000,NAN
+Morgan Stanley,164050000000,NAN
+"Netflix, Inc.",163190000000,NAN
+Royal Bank of Canada,159740000000,NAN
+The Charles Schwab Corporation,158060000000,NAN
+Philip Morris International Inc.,154710000000,NAN
+Medtronic plc,151060000000,NAN
+Raytheon Technologies Corporation,150960000000,NAN
+American Express Company,150760000000,NAN
+Hermès International SCA,148980000000,NAN
+Toronto-Dominion Bank,145410000000,NAN
+PetroChina Company Limited,144500000000,NAN
+Commonwealth Bank of Australia,144320000000,NAN
+"Lowe's Companies, Inc.",143770000000,NAN
+Amgen Inc.,141720000000,NAN
+Bank of China Ltd,141220000000,NAN
+HSBC Holdings plc,140150000000,NAN
+China Mobile Ltd,139300000000,NAN
+TotalEnergies SE,137500000000,NAN
+Honeywell International Inc.,136480000000,NAN
+ConocoPhillips,136320000000,NAN
+CVS Health Corporation,135270000000,NAN
+Ping An Insurance (Group) Company of China Ltd,134250000000,NAN
+SAP SE,134190000000,NAN
+"PayPal Holdings, Inc.",133920000000,NAN
+Sanofi,132290000000,NAN
+Deere & Company,130310000000,NAN
+"Advanced Micro Devices, Inc.",128290000000,NAN
+Intuit Inc.,126770000000,NAN
+Sony Group Corporation,126640000000,NAN
+Rio Tinto Group,125840000000,NAN
+AIA Group Ltd,125160000000,NAN
+Lockheed Martin Corporation,124980000000,NAN
+Caterpillar Inc.,124130000000,NAN
+Anheuser-Busch InBev SA/NV,123590000000,NAN
+Equinor ASA,122740000000,NAN
+Christian Dior SE,122110000000,NAN
+"Prologis, Inc.",121200000000,NAN
+"Applied Materials, Inc.",121120000000,NAN
+"Anthem, Inc.",119800000000,NAN
+International Business Machines Corporation,119200000000,NAN
+Unilever plc,117840000000,NAN
+"BlackRock, Inc.",115980000000,NAN
+HDFC Bank Limited,115680000000,NAN
+Diageo plc,115580000000,NAN
+American Tower Corporation (REIT),115110000000,NAN
+Siemens AG,114660000000,NAN
+Meituan,114280000000,NAN
+Keyence Corp,113200000000,NAN
+"The Goldman Sachs Group, Inc.",112710000000,NAN
+Transurban Group,110790000000,NAN
+"Industria de Diseño Textil, SA",110650000000,NAN
+The Boeing Company,110460000000,NAN
+GlaxoSmithKline plc,109980000000,NAN
+Citigroup Inc.,109560000000,NAN
+Volkswagen AG,108630000000,NAN
+Starbucks Corporation,108190000000,NAN
+Vale SA,107990000000,NAN
+"ServiceNow, Inc.",107990000000,NAN
+Target Corporation,106890000000,NAN
+Infosys Limited,106770000000,NAN
+Al Rajhi Banking and Investment Corp,106370000000,NAN
+"Airbnb, Inc.",105070000000,NAN
+"Charter Communications, Inc.",104970000000,NAN
+BYD Co Ltd,104420000000,NAN
+Saudi Basic Industries Corp,104000000000,NAN
+Nippon Telegraph & Telephone Corp,103750000000,NAN
+"Altria Group, Inc.",102980000000,NAN
+British American Tobacco plc,101440000000,NAN
+Stryker Corporation,101410000000,NAN
+S&P Global Inc.,100840000000,NAN
+The Estée Lauder Companies Inc.,100160000000,NAN
+General Electric Company,99220000000,NAN
+Daimler AG,98790000000,NAN
+Chubb Limited,98570000000,NAN
+Allianz SE,98470000000,NAN
+Petróleo Brasileiro S.A. - Petrobras,98370000000,NAN
+Airbus SE,97410000000,NAN
+China Life Insurance Company Limited,97310000000,NAN
+"Automatic Data Processing, Inc.",96980000000,NAN
+BP plc,96240000000,NAN
+China Shenhua Energy Company Ltd,95340000000,NAN
+Booking Holdings Inc.,95020000000,NAN
+Canadian National Railway Company,94960000000,NAN
+Enbridge Inc.,94940000000,NAN
+Schneider Electric SE,94340000000,NAN
+Deutsche Telekom AG,93010000000,NAN
+MERCK Kommanditgesellschaft auf Aktien,90740000000,NAN
+"Mondelez International, Inc.",90670000000,NAN
+"JD.com, Inc.",90460000000,NAN
+Vulcan International Corp,90340000000,NAN
+Zoetis Inc.,89820000000,NAN
+CSL Limited,89690000000,NAN
+3M Company,88770000000,NAN
+Duke Energy Corporation,88760000000,NAN
+Bank of Nova Scotia,87760000000,NAN
+The Blackstone Group Inc.,87640000000,NAN
+Brookfield Asset Management Inc.,87460000000,NAN
+Glencore plc,87310000000,NAN
+CME Group Inc.,87170000000,NAN
+"Marsh & McLennan Companies, Inc.",87160000000,NAN
+"Micron Technology, Inc.",86490000000,NAN
+"Mitsubishi UFJ Financial Group, Inc.",85030000000,NAN
+Cigna Corporation,84670000000,NAN
+Shopify Inc.,83800000000,NAN
+Air Liquide SA,83240000000,NAN
+"HCA Healthcare, Inc.",82600000000,NAN
+National Australia Bank Limited,81030000000,NAN
+Crown Castle International Corp. (REIT),80920000000,NAN
+EssilorLuxottica SA,80490000000,NAN
+U.S. Bancorp,80160000000,NAN
+Tokyo Electron Ltd,79620000000,NAN
+Bank of Montreal,79220000000,NAN
+Kering SA,78660000000,NAN
+China Yangtze Power Co. Ltd,78420000000,NAN
+China Petroleum & Chemical Corporation,78390000000,NAN
+The Southern Company,78380000000,NAN
+Lam Research Corporation,77600000000,NAN
+"The PNC Financial Services Group, Inc.",77100000000,NAN
+"Becton, Dickinson and Company",76980000000,NAN
+"Gilead Sciences, Inc.",76150000000,NAN
+"Regeneron Pharmaceuticals, Inc.",74910000000,NAN
+Truist Financial Corporation,74790000000,NAN
+Canadian Natural Resources Limited,74780000000,NAN
+"Intercontinental Exchange, Inc.",74170000000,NAN
+"The TJX Companies, Inc.",73990000000,NAN
+Atlassian Corporation Plc,73720000000,NAN
+Zurich Insurance Group AG,73580000000,NAN
+Edwards Lifesciences Corporation,73380000000,NAN
+Aon Plc,73330000000,NAN
+Northrop Grumman Corporation,73250000000,NAN
+KDDI Corp,73120000000,NAN
+Norfolk Southern Corporation,72310000000,NAN
+Freeport-McMoRan Inc.,72160000000,NAN
+Wal-Mart de Mexico SAB de CV,71960000000,NAN
+PT Bank Central Asia Tbk,71910000000,NAN
+"EOG Resources, Inc.",71900000000,NAN
+Siemens Healthineers AG,71500000000,NAN
+Anglo American plc,71480000000,NAN
+"Moderna, Inc.",70810000000,NAN
+General Dynamics Corporation,70550000000,NAN
+AXA SA,70200000000,NAN
+"Dominion Energy, Inc.",70200000000,NAN
+Enel SpA,70150000000,NAN
+BNP Paribas SA,69900000000,NAN
+"América Móvil, S.A.B. de C.V.",69450000000,NAN
+Public Storage,69310000000,NAN
+UBS Group AG,68930000000,NAN
+Sberbank of Russia PJSC,68690000000,NAN
+"Fiserv, Inc.",68680000000,NAN
+"Iberdrola, SA",68230000000,NAN
+Recruit Holdings Co Ltd,68110000000,NAN
+Bayer AG,68090000000,NAN
+The Sherwin-Williams Company,67540000000,NAN
+Vertex Pharmaceuticals Incorporated,67490000000,NAN
+Illinois Tool Works Inc.,67490000000,NAN
+The Progressive Corporation,67310000000,NAN
+Westpac Banking Corporation,67200000000,NAN
+ABB Ltd,67190000000,NAN
+"Waste Management, Inc.",66950000000,NAN
+Industrial Bank Co. Ltd,66870000000,NAN
+DBS Group Holdings Ltd,66740000000,NAN
+ICICI Bank Limited,66620000000,NAN
+"Equinix, Inc. (REIT)",66350000000,NAN
+Newmont Corporation,65890000000,NAN
+Ford Motor Company,65740000000,NAN
+Colgate-Palmolive Company,65640000000,NAN
+Exelon Corporation,65530000000,NAN
+Snowflake Inc.,65040000000,NAN
+Oriental Land Co. Ltd,64660000000,NAN
+"SK hynix, Inc.",64600000000,NAN
+AP Moller - Maersk A-S,64400000000,NAN
+Shin-Etsu Chemical Co Ltd,63430000000,NAN
+FedEx Corporation,63250000000,NAN
+Boston Scientific Corporation,63080000000,NAN
+PacifiCorp,62870000000,NAN
+Dassault Systèmes SE,62750000000,NAN
+"MetLife, Inc.",62690000000,NAN
+General Motors Company,62690000000,NAN
+Sea Limited,62660000000,NAN
+"Uber Technologies, Inc.",62660000000,NAN
+Moody's Corporation,62580000000,NAN
+Nintendo Co Ltd,62200000000,NAN
+Pioneer Natural Resources Company,62190000000,NAN
+Eaton Corporation plc,62170000000,NAN
+"Analog Devices, Inc.",62000000000,NAN
+"Fidelity National Information Services, Inc.",61730000000,NAN
+"Banco Santander, SA",61670000000,NAN
+Hapag-Lloyd AG,61460000000,NAN
+Adyen N.V.,61110000000,NAN
+Atlas Copco AB,60970000000,NAN
+CNOOC Limited,60190000000,NAN
+Nutrien Ltd.,60060000000,NAN
+"Block, Inc.",59950000000,NAN
+Deutsche Post AG,59800000000,NAN
+"NetEase, Inc.",59760000000,NAN
+Hong Kong Exchanges & Clearing Ltd,59750000000,NAN
+Capital One Financial Corporation,59670000000,NAN
+Emerson Electric Co.,59660000000,NAN
+"Palo Alto Networks, Inc.",59650000000,NAN
+Australia and New Zealand Banking Group Limited,59550000000,NAN
+Reckitt Benckiser Group plc,59530000000,NAN
+Nongfu Spring Co. Ltd,59500000000,NAN
+Saudi Telecom Company,59470000000,NAN
+Southern Copper Corporation,59460000000,NAN
+Shenzhen Mindray Bio-Medical Electronics Co. Ltd,59260000000,NAN
+Vinci SA,59010000000,NAN
+"Workday, Inc.",58700000000,NAN
+RELX plc,58530000000,NAN
+Marvell Technology Group Ltd.,58360000000,NAN
+"Air Products and Chemicals, Inc.",57820000000,NAN
+Pernod Ricard SA,57750000000,NAN
+Schlumberger Limited,57630000000,NAN
+"Marvell Technology, Inc.",57620000000,NAN
+Itaú Unibanco Holding SA,57450000000,NAN
+Enterprise Products Partners L.P.,57430000000,NAN
+Foshan Haitian Flavouring and Food Company Ltd,57400000000,NAN
+Mitsubishi Corp,57230000000,NAN
+Canadian Imperial Bank of Commerce,57200000000,NAN
+"Marriott International, Inc.",57180000000,NAN
+Pinduoduo Inc.,57090000000,NAN
+IHS Markit Ltd.,56940000000,NAN
+The Saudi National Bank,56890000000,NAN
+TC Energy Corporation,56770000000,NAN
+Humana Inc.,56550000000,NAN
+KLA Corporation,56480000000,NAN
+Bank of Communications Co. Ltd,56380000000,NAN
+Bayerische Motoren Werke AG,56170000000,NAN
+Macquarie Group Limited,55990000000,NAN
+National Grid plc,55880000000,NAN
+"Daikin Industries,Ltd.",55580000000,NAN
+Chugai Pharmaceutical Co. Ltd,55310000000,NAN
+Keurig Dr Pepper Inc.,55280000000,NAN
+Ergo Science Corp,55230000000,NAN
+SoftBank Group Corp.,54930000000,NAN
+Heineken N.V.,54870000000,NAN
+Ambev SA,54690000000,NAN
+Canadian Pacific Railway Limited,54590000000,NAN
+Marathon Petroleum Corporation,54540000000,NAN
+"American International Group, Inc.",54310000000,NAN
+Dollar General Corporation,54300000000,NAN
+"Fortinet, Inc.",53860000000,NAN
+Snap Inc.,53860000000,NAN
+Ferrari N.V.,53780000000,NAN
+Lonza Group Ltd,53760000000,NAN
+London Stock Exchange Group plc,53330000000,NAN
+Thomson Reuters Corporation,53300000000,NAN
+BASF SE,52760000000,NAN
+Sempra Energy,52470000000,NAN
+Occidental Petroleum Corporation,52300000000,NAN
+"Liberty Bancshares, Inc. (OH)",52300000000,NAN
+Fast Retailing Co. Ltd,52290000000,NAN
+NXP Semiconductors N.V.,52280000000,NAN
+"Xilinx, Inc.",52190000000,NAN
+ITOCHU Corp,52190000000,NAN
+Eni S.p.A.,52000000000,NAN
+Stellantis N.V.,51800000000,NAN
+BCE Inc.,51710000000,NAN
+DENSO Corp,51580000000,NAN
+Toyota Motor Corporation,51550000000,NAN
+"L3Harris Technologies, Inc.",51510000000,NAN
+"AgriBank, FCB",51490000000,NAN
+General Accident plc,51430000000,NAN
+Archer-Daniels-Midland Company,51030000000,NAN
+"American Electric Power Company, Inc.",50950000000,NAN
+Fortescue Metals Group Limited,50760000000,NAN
+Hon Hai Precision Industry Co. Ltd,50750000000,NAN
+China Tourism Group Duty Free Corp Ltd,50460000000,NAN
+Ecolab Inc.,50290000000,NAN
+Novatek PJSC,50190000000,NAN
+"Synopsys, Inc.",50180000000,NAN
+Safran SA,50020000000,NAN
+"Illumina, Inc.",49910000000,NAN
+"MercadoLibre, Inc.",49830000000,NAN
+"Roper Technologies, Inc.",49660000000,NAN
+The Kraft Heinz Company,49420000000,NAN
+Centene Corporation,49320000000,NAN
+"Paychex, Inc.",49230000000,NAN
+"Honda Motor Co., Ltd.",49110000000,NAN
+Hitachi Ltd,48920000000,NAN
+Scentre Group,48830000000,NAN
+"MediaTek, Inc.",48740000000,NAN
+Lululemon Athletica Inc.,48520000000,NAN
+Dow Inc.,48500000000,NAN
+Rosneft Oil Co PJSC,48500000000,NAN
+McKesson Corporation,48460000000,NAN
+Suncor Energy Inc.,48270000000,NAN
+"VMware, Inc.",48170000000,NAN
+Johnson Controls International plc,48150000000,NAN
+"O'Reilly Automotive, Inc.",48140000000,NAN
+Grupo Mexico SAB de CV,48000000000,NAN
+"CrowdStrike Holdings, Inc.",47890000000,NAN
+Naspers Ltd,47730000000,NAN
+"Autodesk, Inc.",47690000000,NAN
+"Prudential Financial, Inc.",47170000000,NAN
+Open Joint Stock Company OMZ,47150000000,NAN
+Cognizant Technology Solutions Corporation,47070000000,NAN
+Nucor Corporation,46860000000,NAN
+"DexCom, Inc.",46860000000,NAN
+Banco Bradesco SA,46710000000,NAN
+Nidec Corp,46330000000,NAN
+adidas AG,46130000000,NAN
+Sika AG,46010000000,NAN
+"Baidu, Inc.",45980000000,NAN
+Takeda Pharmaceutical Company Limited,45890000000,NAN
+The Hershey Company,45830000000,NAN
+Amphenol Corporation,45770000000,NAN
+Vanjia Corp,45740000000,NAN
+Vodafone Group plc,45740000000,NAN
+"IDEXX Laboratories, Inc.",45640000000,NAN
+"The Travelers Companies, Inc.",45560000000,NAN
+Infineon Technologies AG,45350000000,NAN
+"Constellation Brands, Inc.",45210000000,NAN
+"Datadog, Inc.",45130000000,NAN
+Mitsui & Co. Ltd,45090000000,NAN
+Saudi Arabian Mining Company,45000000000,NAN
+PJSC Lukoil,44960000000,NAN
+Intesa Sanpaolo S.p.A.,44950000000,NAN
+TE Connectivity Ltd.,44780000000,NAN
+"AutoZone, Inc.",44390000000,NAN
+IQVIA Holdings Inc.,44320000000,NAN
+Cintas Corporation,44320000000,NAN
+"Cadence Design Systems, Inc.",44230000000,NAN
+"Chipotle Mexican Grill, Inc.",44110000000,NAN
+"Sumitomo Mitsui Financial Group, Inc.",44060000000,NAN
+"Samsung Biologics Co.,Ltd.",44010000000,NAN
+Wipro Limited,43980000000,NAN
+Zijin Mining Group Co Ltd,43930000000,NAN
+HP Inc.,43900000000,NAN
+Lloyds Banking Group plc,43700000000,NAN
+"Simon Property Group, Inc.",43690000000,NAN
+Aflac Incorporated,43590000000,NAN
+Barrick Gold Corporation,43500000000,NAN
+Murata Manufacturing Co. Ltd,43410000000,NAN
+"Kinder Morgan, Inc.",43380000000,NAN
+Kimberly-Clark Corporation,43210000000,NAN
+Xiaomi Corp,43100000000,NAN
+Wesfarmers Limited,43090000000,NAN
+"Republic Services, Inc.",42910000000,NAN
+HOYA Corp,42880000000,NAN
+Yihai Kerry Arawana Holdings Co. Ltd,42840000000,NAN
+Monster Beverage Corporation,42810000000,NAN
+LONGi Green Energy Technology Co. Ltd,42680000000,NAN
+"Corteva, Inc.",42660000000,NAN
+"General Mills, Inc.",42650000000,NAN
+Seven & i Holdings Co. Ltd,42530000000,NAN
+DSV PANALPINA A-S,42490000000,NAN
+Hilton Worldwide Holdings Inc.,42390000000,NAN
+WuXi AppTec Co. Ltd,42250000000,NAN
+Sysco Corporation,42220000000,NAN
+The Kroger Co.,42030000000,NAN
+Manulife Financial Corporation,41980000000,NAN
+BioNTech SE,41930000000,NAN
+STMicroelectronics N.V.,41910000000,NAN
+Devon Energy Corporation,41820000000,NAN
+"The Williams Companies, Inc.",41600000000,NAN
+The Allstate Corporation,41540000000,NAN
+Hang Seng Bank Limited,41470000000,NAN
+Valero Energy Corporation,41270000000,NAN
+ING Groep N.V.,41250000000,NAN
+MMC Norilsk Nickel PJSC,41160000000,NAN
+"Motorola Solutions, Inc.",40870000000,NAN
+"East Money Information Co.,Ltd.",40830000000,NAN
+The Bank of New York Mellon Corporation,40830000000,NAN
+Carrier Global Corporation,40790000000,NAN
+Oversea-Chinese Banking Corp Ltd,40770000000,NAN
+"Digital Realty Trust, Inc.",40640000000,NAN
+"Walgreens Boots Alliance, Inc.",40550000000,NAN
+"Agilent Technologies, Inc.",40490000000,NAN
+Global Payments Inc.,40350000000,NAN
+CITIC Securities Company Ltd,40170000000,NAN
+Baxter International Inc.,40130000000,NAN
+BOC Hong Kong Holdings Ltd,39990000000,NAN
+MSCI Inc.,39970000000,NAN
+Welltower Inc.,39960000000,NAN
+Xcel Energy Inc.,39760000000,NAN
+United Overseas Bank Ltd,39730000000,NAN
+Wanhua Chemical Group Co. Ltd,39730000000,NAN
+"DuPont de Nemours, Inc.",39720000000,NAN
+EQT AB,39710000000,NAN
+Alimentation Couche-Tard Inc.,39560000000,NAN
+eBay Inc.,39340000000,NAN
+Givaudan SA,39290000000,NAN
+Novozymes A-S,39030000000,NAN
+Prudential plc,39000000000,NAN
+Alcon Inc.,38900000000,NAN
+Ecopetrol SA,38690000000,NAN
+Baker Hughes Company,38390000000,NAN
+"Banco Bilbao Vizcaya Argentaria, SA",38250000000,NAN
+Dell Technologies Inc.,38160000000,NAN
+Kuaishou Technology,38150000000,NAN
+AB Volvo,38130000000,NAN
+Crédit Agricole SA,38010000000,NAN
+"Dollar Tree, Inc.",38000000000,NAN
+SBA Communications Corporation,37930000000,NAN
+Capgemini SE,37820000000,NAN
+Daiichi Sankyo Company Ltd,37790000000,NAN
+Compass Group plc,37730000000,NAN
+Sartorius Stedim Biotech SA,37550000000,NAN
+PT Bank Rakyat Indonesia (Persero) Tbk,37510000000,NAN
+Phillips 66,37510000000,NAN
+Electronic Arts Inc.,37380000000,NAN
+Trane Technologies plc,37360000000,NAN
+SMC Corp,37080000000,NAN
+Parker-Hannifin Corporation,37050000000,NAN
+"Tokio Marine Holdings, Inc.",36990000000,NAN
+Jiangsu Hengrui Medicine Co. Ltd,36900000000,NAN
+"Beijing-Shanghai High-Speed Railway Co.,Ltd.",36900000000,NAN
+Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,36890000000,NAN
+"DoorDash, Inc.",36740000000,NAN
+Shanghai Pudong Development Bank Co. Ltd,36720000000,NAN
+Constellation Software Inc.,36670000000,NAN
+Inner Mongolia Yili Industrial Group Co. Ltd,36610000000,NAN
+TELUS Corporation,36370000000,NAN
+Public Service Enterprise Group Incorporated,36280000000,NAN
+TransDigm Group Incorporated,36140000000,NAN
+"Waste Connections, Inc.",36140000000,NAN
+LyondellBasell Industries N.V.,35960000000,NAN
+Danone SA,35930000000,NAN
+"Cloudflare, Inc.",35920000000,NAN
+NIO Limited,35860000000,NAN
+"Coinbase Global, Inc.",35860000000,NAN
+"Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",35840000000,NAN
+Neste Oyj,35570000000,NAN
+ResMed Inc.,35440000000,NAN
+Experian plc,35400000000,NAN
+"Intuitive Surgical, Inc.",35370000000,NAN
+Woolworths Group Limited,35330000000,NAN
+MPLX LP,35270000000,NAN
+Telstra Corporation Limited,35240000000,NAN
+Hexagon AB,35210000000,NAN
+Assicurazioni Generali,35200000000,NAN
+"AvalonBay Communities, Inc.",35190000000,NAN
+Imperial Oil Limited,35130000000,NAN
+"Yum! Brands, Inc.",35120000000,NAN
+Sun Hung Kai Properties Ltd,35040000000,NAN
+"Old Dominion Freight Line, Inc.",34940000000,NAN
+"Cheniere Energy, Inc.",34920000000,NAN
+"Consolidated Edison, Inc.",34890000000,NAN
+China CITIC Bank Corp Ltd,34840000000,NAN
+Budweiser Brewing Company APAC Ltd,34730000000,NAN
+ArcelorMittal,34660000000,NAN
+"Ameriprise Financial, Inc.",34640000000,NAN
+Fastenal Company,34580000000,NAN
+"Align Technology, Inc.",34490000000,NAN
+VERBUND AG,34440000000,NAN
+Sydney Airport Limited,34400000000,NAN
+"Verisk Analytics, Inc.",34390000000,NAN
+Z Holdings Corp,34240000000,NAN
+Arthur J. Gallagher & Co.,34220000000,NAN
+Chongqing Zhifei Biological Products Co. Ltd,34130000000,NAN
+Equity Residential,34110000000,NAN
+"Chunghwa Telecom Co., Ltd.",34060000000,NAN
+"T. Rowe Price Group, Inc.",34010000000,NAN
+Halliburton Company,33950000000,NAN
+"Tyson Foods, Inc.",33730000000,NAN
+Discover Financial Services,33730000000,NAN
+Kuehne + Nagel International AG,33690000000,NAN
+FANUC Corp,33680000000,NAN
+MTR Corp Ltd,33660000000,NAN
+Poly Developments and Holdings Group Co. Ltd,33640000000,NAN
+KKR & Co. Inc.,33490000000,NAN
+"Mizuho Financial Group, Inc.",33470000000,NAN
+PTT PCL,33460000000,NAN
+Koninklijke Ahold Delhaize N.V.,33430000000,NAN
+China Vanke Co. Ltd,33350000000,NAN
+International Flavors & Fragrances Inc.,33320000000,NAN
+Telefonaktiebolaget LM Ericsson,33290000000,NAN
+China Resources Land Ltd,33260000000,NAN
+"Zoom Video Communications, Inc.",33220000000,NAN
+Otis Worldwide Corporation,33090000000,NAN
+Sun Life Financial Inc.,33080000000,NAN
+"Rockwell Automation, Inc.",33050000000,NAN
+Aptiv PLC,33020000000,NAN
+Cenovus Energy Inc.,33020000000,NAN
+Deutsche Börse AG,32990000000,NAN
+Orange SA,32840000000,NAN
+Hess Corporation,32810000000,NAN
+NatWest Group plc,32720000000,NAN
+"Ross Stores, Inc.",32710000000,NAN
+"WEC Energy Group, Inc.",32540000000,NAN
+AmerisourceBergen Corporation,32510000000,NAN
+China Overseas Land & Investment Ltd,32490000000,NAN
+WuXi Biologics,32410000000,NAN
+CITIC Ltd,32330000000,NAN
+"Cellnex Telecom, SA",32320000000,NAN
+Haier Smart Home Co Ltd,32310000000,NAN
+Singapore Telecommunications Ltd,32230000000,NAN
+ANTA Sports Products Ltd,32200000000,NAN
+Barclays plc,32190000000,NAN
+Brown-Forman Corporation,32070000000,NAN
+WEG SA,32050000000,NAN
+PACCAR Inc,32040000000,NAN
+Great Wall Motor Co Ltd,32010000000,NAN
+Longfor Group Holdings Ltd,31980000000,NAN
+"JAPAN POST BANK Co.,Ltd.",31930000000,NAN
+"PPG Industries, Inc.",31890000000,NAN
+Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,31780000000,NAN
+Mettler-Toledo International Inc.,31780000000,NAN
+"ONEOK, Inc.",31660000000,NAN
+Goodman Group,31640000000,NAN
+Corning Incorporated,31600000000,NAN
+"Japan Tobacco, Inc.",31590000000,NAN
+Foxconn Industrial Internet Co. Ltd,31580000000,NAN
+Eversource Energy,31560000000,NAN
+China Telecom Corp Ltd,31490000000,NAN
+CRH plc,31450000000,NAN
+Japan Post Holdings Co. Ltd,31410000000,NAN
+Biogen Inc.,31350000000,NAN
+Swisscom AG,31260000000,NAN
+Koninklijke DSM N.V.,31250000000,NAN
+Formosa Petrochemical Corp,31220000000,NAN
+Zhangzhou Pientzehuang Pharmaceutical. Ltd,31170000000,NAN
+"AMETEK, Inc.",31150000000,NAN
+E.ON SE,31120000000,NAN
+China Pacific Insurance,31040000000,NAN
+"Zscaler, Inc.",31030000000,NAN
+Anhui Conch Cement Company Ltd,31020000000,NAN
+Franco-Nevada Corporation,31000000000,NAN
+Engie SA,31000000000,NAN
+State Street Corporation,30950000000,NAN
+SAIC Motor Corp Ltd,30930000000,NAN
+Nokia Corporation,30910000000,NAN
+"Twitter, Inc.",30830000000,NAN
+Veeva Systems Inc.,30760000000,NAN
+Loblaw Companies Limited,30700000000,NAN
+Energy Transfer LP,30690000000,NAN
+Henkel AG & Co KGaA,30530000000,NAN
+"Coupang, Inc.",30530000000,NAN
+Ferguson plc,30520000000,NAN
+BAE Systems plc,30510000000,NAN
+Fifth Third Bancorp,30460000000,NAN
+"CBRE Group, Inc.",30450000000,NAN
+"American Water Works Company, Inc.",30430000000,NAN
+Fujitsu Ltd,30280000000,NAN
+"West Pharmaceutical Services, Inc.",30230000000,NAN
+Compagnie de Saint-Gobain SA,30160000000,NAN
+"Alexandria Real Estate Equities, Inc.",30100000000,NAN
+ASSA ABLOY AB,30050000000,NAN
+Cummins Inc.,29940000000,NAN
+Vestas Wind Systems A-S,29930000000,NAN
+Riyad Bank,29860000000,NAN
+Willis Towers Watson plc,29850000000,NAN
+"Match Group, Inc.",29820000000,NAN
+KBC Group NV,29810000000,NAN
+UniCredit S.p.A.,29650000000,NAN
+Cathay Financial Holding Co. Ltd,29580000000,NAN
+"Copart, Inc.",29580000000,NAN
+Spotify Technology SA,29560000000,NAN
+"Nasdaq, Inc.",29520000000,NAN
+Weyerhaeuser Company,29420000000,NAN
+Saudi Electricity Company,29420000000,NAN
+Ball Corporation,29400000000,NAN
+"Keysight Technologies, Inc.",29400000000,NAN
+"Astellas Pharma, Inc.",29220000000,NAN
+"Amadeus IT Group, SA",29190000000,NAN
+Electricité de France SA,29170000000,NAN
+Rogers Communications Inc.,29130000000,NAN
+Tongwei Co. Ltd,29100000000,NAN
+Las Vegas Sands Corp.,29070000000,NAN
+RWE AG,29060000000,NAN
+COSCO SHIPPING Holdings Co Ltd,28930000000,NAN
+SVB Financial Group,28910000000,NAN
+CSX Corporation,28900000000,NAN
+Techtronic Industries Company Ltd,28750000000,NAN
+"Naturgy Energy Group, SA",28710000000,NAN
+APA Group,28550000000,NAN
+Hormel Foods Corporation,28520000000,NAN
+Cerner Corporation,28310000000,NAN
+Ashtead Group plc,28280000000,NAN
+Equifax Inc.,28240000000,NAN
+Semiconductor Manufacturing International Corp,28240000000,NAN
+Porsche Automobil Holding SE,28150000000,NAN
+Tesco plc,28110000000,NAN
+Sirius XM Holdings Inc.,28050000000,NAN
+Airports of Thailand Public Company Ltd,28000000000,NAN
+CK Hutchison Holdings Ltd,27940000000,NAN
+The People's Insurance Company (Group) of China Ltd,27930000000,NAN
+"Expedia Group, Inc.",27910000000,NAN
+First Republic Bank,27900000000,NAN
+Koninklijke Philips N.V.,27890000000,NAN
+Great-West Lifeco Inc.,27850000000,NAN
+Thai Beverage Public Company Ltd,27810000000,NAN
+Swiss Re AG,27800000000,NAN
+Edison International,27670000000,NAN
+Wolters Kluwer N.V.,27650000000,NAN
+ON Semiconductor Corporation,27630000000,NAN
+"CaixaBank, SA",27580000000,NAN
+Sampo Oyj,27460000000,NAN
+Extra Space Storage Inc.,27370000000,NAN
+Sartorius AG,27350000000,NAN
+"D.R. Horton, Inc.",27340000000,NAN
+"W.W. Grainger, Inc.",27330000000,NAN
+NARI Technology Co. Ltd,27330000000,NAN
+KONE Oyj,27290000000,NAN
+"McCormick & Company, Incorporated",27290000000,NAN
+NTT Data Corp,27260000000,NAN
+Ganfeng Lithium Co. Ltd,27250000000,NAN
+Will Semiconductor Co. Ltd,27240000000,NAN
+"Interactive Brokers Group, Inc.",27220000000,NAN
+Gazprom Neft PJSC,27140000000,NAN
+Fubon Financial Holding Co. Ltd,27130000000,NAN
+Tractor Supply Company,27090000000,NAN
+Chocoladefabriken Lindt & Sprüngli AG,27080000000,NAN
+"ANSYS, Inc.",26980000000,NAN
+Shaanxi Coal Industry Company Ltd,26950000000,NAN
+Aier Eye Hospital Group Co. Ltd,26950000000,NAN
+"Zimmer Biomet Holdings, Inc.",26940000000,NAN
+Bridgestone Corp,26880000000,NAN
+Evolution Gaming Group AB,26820000000,NAN
+Beijing Wantai Biological Pharmacy Enterprise Co. Ltd,26800000000,NAN
+Vonovia SE,26780000000,NAN
+Sandvik AB,26710000000,NAN
+"Cheniere Energy Partners, L.P.",26680000000,NAN
+PG&E Corporation,26660000000,NAN
+Kansas City Southern,26590000000,NAN
+Unity Software Inc.,26560000000,NAN
+Thales SA,26550000000,NAN
+Southwest Airlines Co.,26520000000,NAN
+DTE Energy Company,26410000000,NAN
+Intact Financial Corporation,26400000000,NAN
+Deutsche Bank AG,26380000000,NAN
+Canon Inc.,26380000000,NAN
+"LYONDELLBASELL ADVANCED POLYMERS, Inc.",26380000000,NAN
+National Bank of Canada,26290000000,NAN
+Sonova Holding AG,26220000000,NAN
+Realty Income Corporation,26180000000,NAN
+China Everbright Bank Company Ltd,26130000000,NAN
+Twilio Inc.,26090000000,NAN
+Roblox Corp,26050000000,NAN
+"Telefónica, SA",26040000000,NAN
+Central Japan Railway Co,26000000000,NAN
+Li Auto Inc.,25830000000,NAN
+EnBW Energie Baden-Wuerttemberg AG,25820000000,NAN
+"The Hartford Financial Services Group, Inc.",25760000000,NAN
+Laboratory Corporation of America Holdings,25750000000,NAN
+"MongoDB, Inc.",25730000000,NAN
+Mitsubishi Electric Corporation,25610000000,NAN
+Banco Santander (Brasil) SA,25590000000,NAN
+Axis Bank Ltd,25540000000,NAN
+"United Rentals, Inc.",25460000000,NAN
+Nan Ya Plastics Corp,25410000000,NAN
+Lennar Corporation,25340000000,NAN
+Straumann Holding AG,25310000000,NAN
+CLP Holdings Ltd,25290000000,NAN
+Yanzhou Coal Mining Company Ltd,25260000000,NAN
+FirstEnergy Corp.,25260000000,NAN
+Albemarle Corporation,25250000000,NAN
+CK Asset Holdings Limited,25210000000,NAN
+"Enphase Energy, Inc.",25200000000,NAN
+Legrand SA,25190000000,NAN
+Galaxy Entertainment Group Ltd,25170000000,NAN
+Skandinaviska Enskilda Banken AB,25150000000,NAN
+The Mosaic Company,25090000000,NAN
+CDW Corporation,25040000000,NAN
+"Gartner, Inc.",25030000000,NAN
+"EDP Renováveis, SA",25010000000,NAN
+"Delta Air Lines, Inc.",24920000000,NAN
+Palantir Technologies Inc.,24910000000,NAN
+Seagen Inc.,24870000000,NAN
+"Diamondback Energy, Inc.",24840000000,NAN
+"VeriSign, Inc.",24810000000,NAN
+"Church & Dwight Co., Inc.",24810000000,NAN
+Ameren Corporation,24790000000,NAN
+China Minsheng Banking Corp Ltd,24650000000,NAN
+"Live Nation Entertainment, Inc.",24610000000,NAN
+Woodside Petroleum Ltd,24600000000,NAN
+Evergreen Marine Corp,24490000000,NAN
+"Aena S.M.E., SA",24450000000,NAN
+XPeng Inc.,24440000000,NAN
+Northern Trust Corporation,24420000000,NAN
+"Slack Technologies, Inc.",24300000000,NAN
+"Mid-America Apartment Communities, Inc.",24180000000,NAN
+Fresenius SE & Co KGaA,24120000000,NAN
+FUJIFILM Holdings Corp,24120000000,NAN
+BT Group plc,24090000000,NAN
+Vulcan Materials Company,24080000000,NAN
+Epiroc AB,24080000000,NAN
+"Delta Electronics, Inc.",24050000000,NAN
+Public Joint Stock Company Polyus,24020000000,NAN
+Schindler Holding AG,24020000000,NAN
+ORIX Corporation,23970000000,NAN
+"Martin Marietta Materials, Inc.",23940000000,NAN
+CSC Financial Co. Ltd,23940000000,NAN
+"Best Buy Co., Inc.",23930000000,NAN
+STERIS plc,23930000000,NAN
+Entergy Corporation,23920000000,NAN
+"M3, Inc.",23890000000,NAN
+Splunk Inc.,23840000000,NAN
+EVE Energy Co. Ltd,23820000000,NAN
+"Ventas, Inc.",23810000000,NAN
+"Endesa, SA",23780000000,NAN
+SSE plc,23730000000,NAN
+Compagnie Générale des Etablissements Michelin SCA,23650000000,NAN
+Horizon Therapeutics Public Limited Company,23640000000,NAN
+Baoshan Iron & Steel Co. Ltd,23590000000,NAN
+"Stanley Black & Decker, Inc.",23570000000,NAN
+Sungrow Power Supply Co. Ltd,23550000000,NAN
+Beiersdorf AG,23510000000,NAN
+PT Bank Mandiri (Persero) Tbk,23510000000,NAN
+First Quantum Minerals Ltd.,23470000000,NAN
+Kubota Corp,23460000000,NAN
+MTN Group Ltd,23450000000,NAN
+"Maxim Integrated Products, Inc.",23440000000,NAN
+"Rocket Companies, Inc.",23440000000,NAN
+Fortis Inc.,23430000000,NAN
+Formosa Plastics Corp,23420000000,NAN
+Liberty Broadband Corporation,23400000000,NAN
+United Microelectronics Corporation,23350000000,NAN
+Garmin Ltd.,23350000000,NAN
+Huazhu Group Limited,23340000000,NAN
+Carnival Corporation & plc,23290000000,NAN
+Sany Heavy Industry Co. Ltd,23270000000,NAN
+Fox Corporation,23260000000,NAN
+Wens Foodstuff Group Co. Ltd,23200000000,NAN
+Société Générale SA,23180000000,NAN
+Terumo Corp,23160000000,NAN
+China International Capital Corp Ltd,23130000000,NAN
+Invitation Homes Inc.,23090000000,NAN
+Royalty Pharma plc,23040000000,NAN
+Olympus Corp,23000000000,NAN
+V.F. Corporation,22960000000,NAN
+Dover Corporation,22940000000,NAN
+PPL Corporation,22870000000,NAN
+"Hengli Petrochemical Co.,Ltd.",22860000000,NAN
+Genmab A/S,22830000000,NAN
+SABIC Agri-Nutrients Company,22780000000,NAN
+Heineken Holding N.V.,22780000000,NAN
+East Japan Railway Company,22780000000,NAN
+Sociedad Química y Minera de Chile SA,22770000000,NAN
+Eurofins Scientific SE,22750000000,NAN
+Panasonic Corp,22730000000,NAN
+UCB SA,22710000000,NAN
+Shanghai International Port,22650000000,NAN
+Hewlett Packard Enterprise Company,22650000000,NAN
+Kellogg Company,22630000000,NAN
+PICC Property and Casualty Company Ltd,22620000000,NAN
+Grupo Financiero Banorte SAB de CV,22600000000,NAN
+Komatsu Ltd,22560000000,NAN
+The Hong Kong and China Gas Company Ltd,22540000000,NAN
+Coca-Cola Europacific Partners plc,22530000000,NAN
+"Essex Property Trust, Inc.",22510000000,NAN
+EMS-CHEMIE HOLDING AG,22480000000,NAN
+"Okta, Inc.",22450000000,NAN
+China National Nuclear Power Co. Ltd,22420000000,NAN
+Sumitomo Corp,22420000000,NAN
+Tata Motors Limited,22380000000,NAN
+Banco do Brasil SA,22360000000,NAN
+Hennes & Mauritz AB,22330000000,NAN
+"Bio-Rad Laboratories, Inc.",22320000000,NAN
+Teleperformance SE,22300000000,NAN
+"Fomento Económico Mexicano, S.A.B. de C.V.",22280000000,NAN
+"Huntington Bancshares, Inc.",22260000000,NAN
+"Continental Resources, Inc.",22250000000,NAN
+CRRC Corp Ltd,22210000000,NAN
+"Skyworks Solutions, Inc.",22170000000,NAN
+XP Inc.,22160000000,NAN
+Unicharm Corp,22080000000,NAN
+ZTO Express (Cayman) Inc.,22050000000,NAN
+Geberit AG,22030000000,NAN
+Toyota Industries Corp,21990000000,NAN
+Cincinnati Financial Corporation,21990000000,NAN
+"CF Industries Holdings, Inc.",21950000000,NAN
+NIBE Industrier AB,21930000000,NAN
+CNH Industrial N.V.,21930000000,NAN
+Huntington Bancshares Incorporated,21930000000,NAN
+Duke Realty Corporation,21930000000,NAN
+Restaurant Brands International Limited Partnership,21890000000,NAN
+"Monolithic Power Systems, Inc.",21870000000,NAN
+Zebra Technologies Corporation,21870000000,NAN
+"Ulta Beauty, Inc.",21820000000,NAN
+"Dai-ichi Life Holdings, Inc.",21760000000,NAN
+M&T Bank Corporation,21740000000,NAN
+KeyCorp,21710000000,NAN
+Teledyne Technologies Incorporated,21650000000,NAN
+"B3 S.A. - Brasil, Bolsa, Balcao",21580000000,NAN
+"Contura Energy, Inc.",21570000000,NAN
+"Shimano, Inc.",21510000000,NAN
+Power Corporation of Canada,21480000000,NAN
+"J.B. Hunt Transport Services, Inc.",21480000000,NAN
+Mitsui Fudosan Co. Ltd,21460000000,NAN
+The Saudi British Bank,21450000000,NAN
+SGS SA,21430000000,NAN
+Teck Resources Limited,21410000000,NAN
+Rede D'Or São Luiz SA,21400000000,NAN
+NEXON Co. Ltd,21360000000,NAN
+"The Cooper Companies, Inc.",21350000000,NAN
+Legal & General Group plc,21340000000,NAN
+Regions Financial Corporation,21320000000,NAN
+Wheaton Precious Metals Corp.,21260000000,NAN
+ZoomInfo Technologies Inc.,21230000000,NAN
+ViacomCBS Inc.,21220000000,NAN
+China Northern Rare Earth,21210000000,NAN
+Seagate Technology plc,21210000000,NAN
+China Mengniu Dairy Co Ltd,21170000000,NAN
+Ingersoll Rand Inc.,21130000000,NAN
+SEGRO plc,21080000000,NAN
+Yandex N.V.,21050000000,NAN
+Microchip Technology Incorporated,21030000000,NAN
+"HubSpot, Inc.",20930000000,NAN
+"FLEETCOR Technologies, Inc.",20920000000,NAN
+Fortive Corporation,20880000000,NAN
+AppLovin Corp,20860000000,NAN
+Royal Caribbean Cruises Ltd.,20810000000,NAN
+Repsol SA,20800000000,NAN
+Marubeni Corp,20780000000,NAN
+Standard Chartered plc,20780000000,NAN
+Li Ning Co Ltd,20750000000,NAN
+CMS Energy Corporation,20730000000,NAN
+STERIS Corp,20660000000,NAN
+Advanced Info Service PCL,20650000000,NAN
+Kyocera Corp,20620000000,NAN
+Pembina Pipeline Corporation,20610000000,NAN
+Flutter Entertainment plc,20580000000,NAN
+Sojitz Corp,20550000000,NAN
+"Boston Properties, Inc.",20540000000,NAN
+Synchrony Financial,20430000000,NAN
+Alinma Bank,20410000000,NAN
+Investment AB Latour,20390000000,NAN
+Mitsubishi Estate Co. Ltd,20390000000,NAN
+Guotai Junan Securities Co. Ltd,20390000000,NAN
+Nippon Paint Holdings Co. Ltd,20380000000,NAN
+Carvana Co.,20330000000,NAN
+Markel Corporation,20300000000,NAN
+"Brown & Brown, Inc.",20270000000,NAN
+Nomura Research Institute Ltd,20260000000,NAN
+MGM Resorts International,20220000000,NAN
+Mega Financial Holding Co. Ltd,20210000000,NAN
+Telefônica Brasil SA,20190000000,NAN
+Swiss Life Holding AG,20160000000,NAN
+Telenor ASA,20150000000,NAN
+China Railway Group Ltd,20150000000,NAN
+CTBC Financial Holding Co. Ltd,20150000000,NAN
+Imperial Brands plc,20140000000,NAN
+"Principal Financial Group, Inc.",20130000000,NAN
+Norsk Hydro ASA,20100000000,NAN
+"PerkinElmer, Inc.",20050000000,NAN
+Hannover Rück SE,20020000000,NAN
+"Sun Communities, Inc.",19980000000,NAN
+Tradeweb Markets Inc.,19980000000,NAN
+Trina Solar Co. Ltd,19940000000,NAN
+Vedanta Limited,19930000000,NAN
+"Paycom Software, Inc.",19870000000,NAN
+Klabin SA,19860000000,NAN
+Kao Corp,19850000000,NAN
+"Teradyne, Inc.",19850000000,NAN
+China Resources Beer (Holdings) Company Ltd,19840000000,NAN
+China Communications Construction Co Ltd,19830000000,NAN
+Aviva plc,19820000000,NAN
+Standard Bank Group Ltd,19820000000,NAN
+Ryanair Holdings plc,19780000000,NAN
+"Hologic, Inc.",19750000000,NAN
+Kerry Group plc,19740000000,NAN
+Renesas Electronics Corp,19730000000,NAN
+Brookfield Infrastructure Partners L.P.,19700000000,NAN
+Shiseido Co Ltd,19690000000,NAN
+CGI Inc.,19670000000,NAN
+Henderson Land Development Co Ltd,19670000000,NAN
+"Bill.com Holdings, Inc.",19650000000,NAN
+Shanghai Fosun Pharmaceutical,19630000000,NAN
+"Akamai Technologies, Inc.",19590000000,NAN
+China Tower Corp Ltd,19550000000,NAN
+"Huatai Securities Co., Ltd.",19550000000,NAN
+Marathon Oil Corporation,19540000000,NAN
+Arch Capital Group Ltd.,19540000000,NAN
+TransUnion,19530000000,NAN
+JBS SA,19530000000,NAN
+Shenzhou International Group Holdings Ltd,19500000000,NAN
+"Avantor, Inc.",19480000000,NAN
+"Molina Healthcare, Inc.",19460000000,NAN
+"Ferrovial, SA",19440000000,NAN
+EDP - Energias de Portugal SA,19430000000,NAN
+Fresenius Medical Care AG & Co. KGaA,19420000000,NAN
+Svenska Handelsbanken AB,19420000000,NAN
+KB Financial Group Inc.,19390000000,NAN
+Magna International Inc.,19360000000,NAN
+Snam S.p.A.,19270000000,NAN
+CGN Power Co. Ltd,19250000000,NAN
+Croda International plc,19220000000,NAN
+Warner Music Group Corp.,19210000000,NAN
+Zhejiang Huayou Cobalt Co. Ltd,19200000000,NAN
+"SS&C Technologies Holdings, Inc.",19150000000,NAN
+Carlsberg A-S,19120000000,NAN
+NICE Ltd.,19120000000,NAN
+Waters Corporation,19110000000,NAN
+Otsuka Holdings Co. Ltd,19030000000,NAN
+Tenaris SA,18980000000,NAN
+"Citizens Financial Group, Inc.",18950000000,NAN
+Check Point Software Technologies Ltd.,18940000000,NAN
+Toshiba Corp,18930000000,NAN
+"LG Electronics, Inc.",18910000000,NAN
+Astra International Tbk PT,18900000000,NAN
+Omnicom Group Inc.,18800000000,NAN
+"Aecc Aviation Power Co.,Ltd",18790000000,NAN
+International Paper Company,18780000000,NAN
+Scottish Mortgage Investment Trust plc,18780000000,NAN
+George Weston Limited,18770000000,NAN
+"NetApp, Inc.",18760000000,NAN
+"Healthpeak Properties, Inc.",18760000000,NAN
+"MS&AD Insurance Group Holdings, Inc.",18750000000,NAN
+The Liberty SiriusXM Group,18740000000,NAN
+Credit Suisse Group AG,18720000000,NAN
+Air China Ltd,18720000000,NAN
+Power Construction Corp of China Ltd,18690000000,NAN
+"JD Health International, Inc.",18690000000,NAN
+South32 Limited,18670000000,NAN
+"Huaneng Power International, Inc.",18570000000,NAN
+Sands China Ltd,18520000000,NAN
+HEICO Corporation,18490000000,NAN
+GF Securities Co. Ltd,18440000000,NAN
+Genuine Parts Company,18410000000,NAN
+Vodacom Group Ltd,18410000000,NAN
+"Take-Two Interactive Software, Inc.",18350000000,NAN
+China Merchants Securities Co. Ltd,18350000000,NAN
+"Alnylam Pharmaceuticals, Inc.",18330000000,NAN
+Aeon Co. Ltd,18320000000,NAN
+Link Real Estate Investment Trust,18270000000,NAN
+Shionogi & Co. Ltd,18270000000,NAN
+Ubiquiti Inc.,18250000000,NAN
+"Quanta Services, Inc.",18250000000,NAN
+"Catalent, Inc.",18240000000,NAN
+Haitong Securities Co. Ltd,18230000000,NAN
+Asahi Group Holdings Ltd,18210000000,NAN
+Capitec Bank Holdings Ltd,18210000000,NAN
+Restaurant Brands International Inc.,18190000000,NAN
+"Yum China Holdings, Inc.",18180000000,NAN
+CEZ AS,18160000000,NAN
+Veolia Environnement SA,18140000000,NAN
+"Avis Budget Group, Inc.",18120000000,NAN

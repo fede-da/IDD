@@ -1,0 +1,1 @@
+I file presenti in "to_process" vengono processati da _create_join_data_table_ script

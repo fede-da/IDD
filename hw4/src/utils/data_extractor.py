@@ -3,7 +3,6 @@ from lxml import etree
 
 class DataExtractor:
     file_red: str
-    citations: []
 
     def __init__(self, input_string: str):
         self.file_red = input_string
@@ -134,13 +133,11 @@ class DataExtractor:
         return ret
 
     def extract_data(self) -> dict:
-        # XPath
         root = etree.fromstring(self.file_red)
         pmc_id_nodes = root.xpath('//article-id[@pub-id-type="pmc"]')
         title_node = root.xpath('//article-title')[0]
         abstract_nodes = root.xpath('//abstract/*/p')
         abstract_node = abstract_nodes[0] if abstract_nodes else None
-        # This is a list!
         keywords_nodes = root.xpath('//kwd-group/kwd')
         return {
             "pmcid": pmc_id_nodes[0].text if len(pmc_id_nodes) > 0 else "",
